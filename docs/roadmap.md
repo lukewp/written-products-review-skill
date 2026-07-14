@@ -15,7 +15,7 @@ The ordering is deliberate. **The test corpus (M1) comes before any review stage
 - [x] CC BY 4.0 / MIT split, attribution string, `NOTICE.md`
 - [x] Plugin layout (`.claude-plugin/`, `skills/written-products-review/`)
 - [x] ADR 0001 — the checklist is canonical; reference files are derived
-- [ ] **Verify the DIA Style Manual's license.** It is 370KB of someone else's document sitting in a repo we are licensing to the public. It is almost certainly a U.S. government work and therefore public domain — but confirm it rather than assume it, and record the finding in `NOTICE.md`. If it turns out not to be redistributable, it comes out and the quick-reference gets rewritten from first principles.
+- [x] **Verify the DIA Style Manual's license.** Resolved: FOIA-released, and a U.S. government work under [17 U.S.C. § 105](https://www.law.cornell.edu/uscode/text/17/105). Public domain, cleared for redistribution, and carved out of our CC BY grant — we don't own it and don't claim to license it. Recorded in [`NOTICE.md`](../NOTICE.md).
 
 ## M1 — The corpus *(the test suite)*
 
