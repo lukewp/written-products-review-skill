@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Written Products Review Skill — Vision &amp; Wayfinding</title>
+<style>
+:root {
+  --surface-2: #fff; --surface-1: #f5f5f5; --surface-0: #fafafa;
+  --text-primary: #1a1a1a; --text-secondary: #666; --text-muted: #999;
+  --text-accent: #2563eb; --text-danger: #dc2626; --text-success: #16a34a; --text-warning: #ca8a04;
+  --bg-accent: #eff6ff; --bg-danger: #fef2f2; --bg-success: #f0fdf4; --bg-warning: #fefce8;
+  --border: #e5e5e5; --border-strong: #d4d4d4; --border-accent: #93c5fd;
+  --radius: 8px;
+  --font-sans: system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface-2: #1e1e1e; --surface-1: #2a2a2a; --surface-0: #121212;
+    --text-primary: #e5e5e5; --text-secondary: #a3a3a3; --text-muted: #737373;
+    --text-accent: #60a5fa; --text-danger: #f87171; --text-success: #4ade80; --text-warning: #facc15;
+    --bg-accent: #1e293b; --bg-danger: #2d1b1b; --bg-success: #1a2e1a; --bg-warning: #2d2a1a;
+    --border: #333; --border-strong: #444; --border-accent: #3b82f6;
+  }
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-sans); background: var(--surface-0); color: var(--text-primary); line-height: 1.6; padding: 2rem; max-width: 760px; margin: 0 auto; }
+h1 { font-size: 22px; font-weight: 500; margin-bottom: 0.5rem; }
+.subtitle { font-size: 14px; color: var(--text-secondary); margin-bottom: 1.5rem; }
+
+.tab-bar { display: flex; gap: 4px; border-bottom: 0.5px solid var(--border); margin-bottom: 1.5rem; }
+.tab-btn { background: none; border: none; padding: 8px 14px; font-size: 14px; color: var(--text-secondary); cursor: pointer; border-bottom: 2px solid transparent; font-family: var(--font-sans); font-weight: 400; }
+.tab-btn.active { color: var(--text-primary); border-bottom-color: var(--text-accent); font-weight: 500; }
+.tab-btn:hover:not(.active) { color: var(--text-primary); }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+.stage-card { background: var(--surface-2); border: 0.5px solid var(--border); border-radius: 12px; padding: 1rem 1.25rem; margin-bottom: 12px; cursor: pointer; transition: border-color 0.15s; }
+.stage-card:hover { border-color: var(--border-strong); }
+.stage-card.expanded { border-color: var(--border-accent); }
+.stage-header { display: flex; align-items: center; gap: 10px; }
+.stage-num { background: var(--bg-accent); color: var(--text-accent); font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: var(--radius); min-width: 20px; text-align: center; }
+.stage-num.pre { background: var(--surface-1); color: var(--text-secondary); }
+.stage-num.cond { background: var(--bg-warning); color: var(--text-warning); }
+.stage-title { font-size: 15px; font-weight: 500; color: var(--text-primary); flex: 1; }
+.stage-tags { display: flex; gap: 4px; flex-wrap: wrap; }
+.tag { font-size: 11px; padding: 2px 6px; border-radius: var(--radius); }
+.tag-checklist { background: var(--surface-1); color: var(--text-secondary); }
+.tag-prompt { background: var(--bg-accent); color: var(--text-accent); }
+.tag-new { background: var(--bg-success); color: var(--text-success); }
+.chevron { color: var(--text-muted); font-size: 14px; transition: transform 0.2s; }
+.expanded .chevron { transform: rotate(90deg); }
+.stage-body { display: none; padding-top: 12px; margin-top: 12px; border-top: 0.5px solid var(--border); }
+.expanded .stage-body { display: block; }
+.detail-section { margin-bottom: 12px; }
+.detail-label { font-size: 12px; font-weight: 500; color: var(--text-secondary); margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+.detail-text { font-size: 14px; color: var(--text-primary); line-height: 1.6; }
+.question-card { background: var(--surface-1); border-radius: var(--radius); padding: 10px 14px; margin-bottom: 8px; }
+.question-card .q-text { font-size: 14px; color: var(--text-primary); line-height: 1.5; }
+.decision-card { background: var(--surface-2); border: 0.5px solid var(--border); border-radius: 12px; padding: 1rem 1.25rem; margin-bottom: 12px; }
+.decision-card .d-title { font-size: 15px; font-weight: 500; color: var(--text-primary); margin-bottom: 6px; }
+.decision-card .d-body { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
+.decision-card .d-options { margin-top: 8px; }
+.d-option { background: var(--surface-1); border-radius: var(--radius); padding: 8px 12px; margin-bottom: 6px; font-size: 13px; color: var(--text-primary); line-height: 1.5; padding-left: 24px; position: relative; }
+.d-option::before { content: "•"; position: absolute; left: 10px; color: var(--text-accent); }
+.d-option.chosen { background: var(--bg-success); border: 0.5px solid var(--border); }
+.d-option.chosen::before { content: "✓"; color: var(--text-success); font-weight: 500; }
+.tag-resolved { background: var(--bg-success); color: var(--text-success); }
+.tag-open { background: var(--bg-warning); color: var(--text-warning); }
+.resolution { background: var(--surface-1); border-radius: var(--radius); padding: 10px 14px; margin-top: 8px; font-size: 13px; color: var(--text-primary); line-height: 1.5; border-left: 3px solid var(--text-success); }
+.resolution-label { font-size: 11px; font-weight: 500; color: var(--text-success); text-transform: uppercase; margin-bottom: 4px; }
+.summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 1.5rem; }
+.metric { background: var(--surface-1); border-radius: var(--radius); padding: 1rem; }
+.metric .m-val { font-size: 24px; font-weight: 500; color: var(--text-primary); }
+.metric .m-label { font-size: 13px; color: var(--text-secondary); margin-top: 2px; }
+</style>
+</head>
+<body>
+
+<h1>Written products review skill</h1>
+<p class="subtitle">Vision and wayfinding — stage map, gap analysis, and design decisions for building the multi-stage review skill.</p>
+
+<div class="tab-bar">
+  <button class="tab-btn active" onclick="showTab('stages')">Stages</button>
+  <button class="tab-btn" onclick="showTab('gaps')">Gap analysis</button>
+  <button class="tab-btn" onclick="showTab('decisions')">Design decisions</button>
+</div>
+
+<div id="tab-stages" class="tab-content active"></div>
+<div id="tab-gaps" class="tab-content"></div>
+<div id="tab-decisions" class="tab-content"></div>
+
+<script>
+function showTab(id) {
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + id).classList.add('active');
+  event.currentTarget.classList.add('active');
+}
+
+const stages = [
+  { num: 'P1', type: 'pre', title: 'Audience clarification', tags: ['checklist','prompt'],
+    checklist: '8 questions: intended reader, decisions they face, mission/objective, span of influence, specific questions asked, updates they need, why prioritized, why significant.',
+    prompt: 'Prompt the user to clarify audience. All answers should be in the Project/Epic description.',
+    designQs: ['Where does audience context persist across stages? Conversation state vs. stored document?', 'Should the skill accept pre-filled audience context (e.g. from an Epic description) to skip this step?'],
+    skillNeeds: 'Context prompt that collects and stores audience metadata. Gate: cannot proceed to upload without answers.'
+  },
+  { num: 'P2', type: 'pre', title: 'First read — no edits', tags: ['checklist','prompt'],
+    checklist: 'VIEWING mode. No judgment or edits on first pass; highlight things you think were great.',
+    prompt: 'Expect document upload. Return summary of findings, note exceptional elements as positive highlights. Confirm if these were the intended highlights.',
+    designQs: ['How does the document get uploaded? File attachment vs. paste vs. URL?', 'Should the skill produce a structured "highlights report" artifact, or inline summary?'],
+    skillNeeds: 'Document ingestion + summarization prompt. Output: structured highlights. Gate: user confirms highlights before proceeding.'
+  },
+  { num: '1', type: 'review', title: 'Analysis and strategic insight', tags: ['checklist','prompt'],
+    checklist: '12 checks: answers questions asked, advises decisions within reader\'s span, avoids unstated assumptions, asserts methodology basis, cites SMEs, resolves conflicting conclusions, cross-references related products, communicates one big idea cleanly, explains conflicts with prior/external research, avoids unanswered questions, flags great elements.',
+    prompt: 'If fail: report failures, offer to edit+resubmit or continue. If pass: proceed.',
+    designQs: ['How does the skill assess "answers the questions asked" without the original questions? Pull from audience context?', 'Cross-referencing "other recent internally-written products" requires access to a corpus — how?'],
+    skillNeeds: 'Analytical review prompt with checklist items as evaluation criteria. Output: pass/fail per item with commentary.'
+  },
+  { num: '2', type: 'review', title: 'Organization', tags: ['checklist','prompt'],
+    checklist: '5 checks: exec summary presents most important points first, exec summary is "short not shallow," body is logically organized (contemplate 5-section structure), prose follows assert-support-analyze format, report is self-contained.',
+    prompt: 'If fail: report failures, offer edit+resubmit or continue.',
+    designQs: ['Should the skill suggest the 5-section structure as a reorg, or just evaluate against it?', 'The 5-section template (Exec Summary, What\'s Next, Bottom Line, By the Numbers, Big Picture) — is this always the right frame?'],
+    skillNeeds: 'Structural review prompt. Output: organization assessment with specific reorg suggestions.'
+  },
+  { num: '3', type: 'review', title: 'Line-by-line', tags: ['checklist','prompt'],
+    checklist: '10 checks: style guide alignment, max 25-word sentences, minimize "that"/"which," cut extra words/syllables, bold key ideas, use white space, consider headline instead of "Executive Summary," first sentence under headline offers detail, emoji for emphasis (if appropriate), Oxford comma.',
+    prompt: 'If fail: report failures with explicit "current:" and "potential:" excerpts. Offer edit+resubmit or continue.',
+    designQs: ['Which style guide? The checklist says "relevant Style Guide" — is there a default, or must the user provide one?', 'Should the skill auto-apply edits or only suggest them?', 'The "current/potential" excerpt format is critical to the UX — how verbose?'],
+    skillNeeds: 'Line-edit prompt producing diff-style current/potential pairs. Must reference a style guide document or built-in rules.'
+  },
+  { num: '4', type: 'review', title: 'Read aloud', tags: ['checklist','prompt'],
+    checklist: '4 checks: fresh mental state, conversational sound with no awkward language, read backwards for typos, review 6-word title + filename.',
+    prompt: 'Offer to read current version out loud one paragraph at a time. Ask user to switch to mobile audio interface.',
+    designQs: ['The "read aloud" feature depends on a mobile app audio interface — does this translate to a skill context?', 'Alternative: generate an audio file? Or just flag awkward phrasing computationally?', 'The "read backwards" trick is a human technique — how to approximate it programmatically?'],
+    skillNeeds: 'Readability analysis prompt. Title/filename check. Awkward-phrasing detection. May need TTS integration or just simulate via phrasing analysis.'
+  },
+  { num: '5', type: 'review', title: 'Sensitivity check', tags: ['checklist','prompt'],
+    checklist: '4 checks: nothing scandalous if quoted as official position, nothing embarrassing without prior briefing, appropriate classification markings for derivative citations.',
+    prompt: 'Run sensitivity check. Ensure no scandalous/embarrassing content. Check classification markings.',
+    designQs: ['What constitutes "sensitive or classified materials" in the user\'s context? Government work?', 'Should the skill maintain a sensitivity lexicon or rely on LLM judgment?'],
+    skillNeeds: 'Sensitivity analysis prompt. Output: flagged passages with risk assessment and recommended actions.'
+  },
+  { num: '6', type: 'review', title: 'Sanity check (fresh eyes)', tags: ['checklist','prompt'],
+    checklist: 'Have somebody who has not read this report do a basic scan for errors.',
+    prompt: 'Initiate a new instance of itself, feed original inputs + revised document for first-level analysis. Report how a fresh review summarizes it. Ask if this matches author\'s intended takeaways.',
+    designQs: ['This is the most architecturally interesting stage — "new instance" means a sub-agent with no prior context.', 'The sub-agent gets: (a) original audience context, (b) current document. It does NOT get prior review history.', 'How do we feed it the original inputs without the review conversation?'],
+    skillNeeds: 'Sub-agent spawning pattern. Fresh context with only audience metadata + current document. Compare its summary to author\'s intended highlights from P2.'
+  },
+  { num: '7', type: 'review', title: 'Packaging', tags: ['checklist'], tagExtra: 'new',
+    checklist: '5 checks: web-safe fonts, consistent header/body fonts, images at proper resolution, embedded links verified, page numbers exist.',
+    prompt: 'Not in original GPT prompt — added in checklist v6.',
+    designQs: ['This stage requires document-format inspection (fonts, images, links) — can an LLM do this from text alone?', 'May need a document-parsing tool (e.g. python-docx, pdf reader) to check formatting properties.'],
+    skillNeeds: 'Document format validation. May need tool integration beyond pure LLM analysis. Could use docx/pdf skill capabilities.'
+  },
+  { num: '8', type: 'review', title: 'Accessibility', tags: ['checklist','prompt'],
+    checklist: '4 checks: alt text on images, header tags (not just larger font), table header tags, chart images alt-tagged with inline titles/descriptions.',
+    prompt: 'Test for alt text, header tags, alt-tagged chart images with titles and descriptions inline.',
+    designQs: ['Like Packaging, this requires format-level inspection — not just content analysis.', 'Should this stage produce a remediation checklist or attempt auto-fixes?'],
+    skillNeeds: 'Accessibility audit prompt + document structure inspection tool. Output: compliance checklist with specific remediation steps.'
+  },
+  { num: '9', type: 'cond', title: 'Presentation (if applicable)', tags: ['checklist'], tagExtra: 'new',
+    checklist: '4 checks: no font <20pt for speaker presentations, breathing space for margin notes, consistent positioning via ruler/guides, PDF delivery with side-by-side validation.',
+    prompt: 'Not in original GPT prompt — added in checklist v6.',
+    designQs: ['This is conditional — how does the skill know if the document is a presentation?', 'Requires pptx-level inspection. Could integrate with the pptx skill.'],
+    skillNeeds: 'Presentation-specific validation. Conditional activation. Likely needs pptx skill integration.'
+  },
+  { num: '10', type: 'cond', title: 'Publishing and LLM optimization', tags: ['checklist','prompt'],
+    checklist: '4 checks: keywords in URL slug, match characteristics of LLM-cited sources, mention competitors for objectivity scoring, eliminate subjective/loaded language.',
+    prompt: 'Walk through ways to set document up for LLM citation authority upon publishing.',
+    designQs: ['This is conditional on publishing intent — when/how to ask?', 'The LLM optimization guidance is novel and evolving — should it be a living reference doc?', 'How to "assess cited sources from relevant LLM prompt responses"? Run test prompts?'],
+    skillNeeds: 'Publishing/SEO/LLM-optimization prompt. Conditional activation. May need web search to benchmark against current LLM citations.'
+  }
+];
+
+const stagesHtml = stages.map(s => {
+  const tags = s.tags.map(t => {
+    if (t === 'checklist') return '<span class="tag tag-checklist">checklist v6</span>';
+    if (t === 'prompt') return '<span class="tag tag-prompt">GPT prompt</span>';
+    return '';
+  }).join('');
+  const extra = s.tagExtra === 'new' ? '<span class="tag tag-new">new in v6</span>' : '';
+  const numClass = s.type === 'pre' ? 'pre' : s.type === 'cond' ? 'cond' : '';
+  let body = '<div class="detail-section"><div class="detail-label">Checklist says</div><div class="detail-text">' + s.checklist + '</div></div>';
+  body += '<div class="detail-section"><div class="detail-label">GPT prompt says</div><div class="detail-text">' + s.prompt + '</div></div>';
+  body += '<div class="detail-section"><div class="detail-label">Design questions</div>';
+  s.designQs.forEach(q => { body += '<div class="question-card"><div class="q-text">' + q + '</div></div>'; });
+  body += '</div>';
+  body += '<div class="detail-section"><div class="detail-label">Skill needs</div><div class="detail-text">' + s.skillNeeds + '</div></div>';
+  return '<div class="stage-card" onclick="this.classList.toggle(\'expanded\')"><div class="stage-header"><span class="stage-num ' + numClass + '">' + s.num + '</span><span class="stage-title">' + s.title + '</span><span class="stage-tags">' + tags + extra + '</span><span class="chevron">&#9656;</span></div><div class="stage-body">' + body + '</div></div>';
+}).join('');
+
+document.getElementById('tab-stages').innerHTML =
+  '<div class="summary-grid">' +
+    '<div class="metric"><div class="m-val">12</div><div class="m-label">total stages</div></div>' +
+    '<div class="metric"><div class="m-val">2</div><div class="m-label">pre-review gates</div></div>' +
+    '<div class="metric"><div class="m-val">8</div><div class="m-label">core reviews</div></div>' +
+    '<div class="metric"><div class="m-val">2</div><div class="m-label">conditional stages</div></div>' +
+  '</div>' + stagesHtml;
+
+document.getElementById('tab-gaps').innerHTML =
+  '<div class="summary-grid">' +
+    '<div class="metric"><div class="m-val">10</div><div class="m-label">in both sources</div></div>' +
+    '<div class="metric"><div class="m-val">2</div><div class="m-label">checklist-only</div></div>' +
+    '<div class="metric"><div class="m-val">0</div><div class="m-label">prompt-only</div></div>' +
+  '</div>' +
+  '<div class="decision-card"><div class="d-title">Packaging (review 7) — missing from GPT prompt</div><div class="d-body">The checklist v6 added a Packaging review (web-safe fonts, image resolution, link verification, page numbers) that the original GPT prompt doesn\'t cover. This stage requires document-format inspection beyond text analysis.</div></div>' +
+  '<div class="decision-card"><div class="d-title">Presentation (review 9) — missing from GPT prompt</div><div class="d-body">Checklist v6 added a conditional Presentation review (font sizes, margin notes, ruler/guide alignment, PDF delivery). The GPT prompt doesn\'t mention it. This is "if applicable" — only for slide decks.</div></div>' +
+  '<div class="decision-card"><div class="d-title">Review numbering divergence</div><div class="d-body">The GPT prompt numbers reviews 1–8, while the checklist v6 has 10 reviews. The prompt\'s "level 6" (sanity check) maps to checklist review 6, but "level 7" (accessibility) maps to checklist review 8, and "level 8" (publishing) maps to checklist review 10. The skill should use the checklist numbering as canonical.</div></div>' +
+  '<div class="decision-card"><div class="d-title">Read-aloud divergence</div><div class="d-body">The GPT prompt says "offer to read the current version out loud one paragraph at a time" and "ask the user to switch to the audio interface through the mobile app." The checklist frames it as a human activity: "you have read out loud to yourself." The skill needs to decide: is this AI-performed TTS, AI-simulated readability analysis, or a human checkpoint?</div></div>' +
+  '<div class="decision-card"><div class="d-title">Sanity check architecture</div><div class="d-body">The GPT prompt says "initiate a new instance of itself, feeding the original inputs." The checklist says "have somebody who has not read this report do a basic scan." Both agree on fresh eyes — but the implementation (sub-agent vs. human reviewer) differs. The skill version should use a sub-agent pattern: spawn a fresh context with only audience metadata + current document, no review history.</div></div>';
+
+const decisions = [
+  { title: 'Skill architecture', status: 'resolved', body: 'One monolithic skill with internal state machine, or modular stage-skills orchestrated by a parent?',
+    chosen: 2,
+    resolution: 'Hybrid: one SKILL.md (~200 lines) as process skeleton with context pointers to per-stage reference files. Prevents sprawl (monolithic would exceed 500 lines) and premature completion (agent only sees current stage). Zero extra context load (vs. 12 separate skills with 12 descriptions).',
+    options: [
+      'Monolithic: single SKILL.md with stage prompts as sections. Simpler to ship, harder to maintain.',
+      'Modular: parent skill + per-stage context files (e.g. stages/01-audience.md). Easier to iterate individual stages.',
+      'Hybrid: one skill entry point, but each stage loads its context prompt from a separate file.'
+    ]
+  },
+  { title: 'State persistence', status: 'resolved', body: 'How does review state (audience context, current stage, pass/fail history, document versions) persist across conversation turns?',
+    chosen: 2,
+    resolution: 'Hybrid: key metadata (audience context, stage number, pass/fail per stage, document version) in a lightweight state structure. Full review commentary stays in conversation. Allows resume if interrupted.',
+    options: [
+      'Conversation context: rely on the LLM\'s context window to hold everything. Simple but fragile across long reviews.',
+      'Structured state file: write a JSON/YAML state file after each stage. Resume-friendly, inspectable.',
+      'Hybrid: key metadata in a state file, full review commentary stays in conversation.'
+    ]
+  },
+  { title: 'Stage navigation', status: 'resolved', body: 'Must users proceed sequentially, or can they skip/revisit stages?',
+    chosen: 1,
+    resolution: 'Sequential with skip. Stages proceed in order; user can skip with a warning ("stage 3 builds on stage 2 findings — skip anyway?"). Gate pattern enforces: each gate produces output that later stages may reference.',
+    options: [
+      'Strictly sequential: each stage gates the next. Matches the checklist\'s progressive-refinement philosophy.',
+      'Sequential with skip: users can skip forward but get warned. Good for experienced users re-reviewing.',
+      'Free navigation: users pick any stage. Requires independent stage prompts with no assumptions about prior stages.'
+    ]
+  },
+  { title: 'Document format handling', status: 'resolved', body: 'The checklist covers Word docs, PDFs, and presentations. How does the skill handle format-specific checks (fonts, headers, alt text)?',
+    chosen: 2,
+    resolution: 'Tiered: text analysis for all stages. Optional format-level inspection (via docx/pdf/pptx skill integration) for Packaging (7), Accessibility (8), and Presentation (9). Skill detects document type and activates format inspection if available.',
+    options: [
+      'Text-only analysis: the skill reviews pasted/uploaded text content. Format checks are a human checkpoint.',
+      'Tool-integrated: leverage docx/pdf/pptx skills for format inspection. Richer but more complex.',
+      'Tiered: text analysis for all stages, with optional format-inspection for Packaging/Accessibility/Presentation stages.'
+    ]
+  },
+  { title: 'Edit-resubmit loop', status: 'resolved', body: 'At each stage, the user can "edit and resubmit for a revised review" or continue. How does this loop work?',
+    chosen: 0,
+    resolution: 'User-driven: skill presents findings (and current/potential pairs for stage 3). User edits externally, resubmits. Skill re-runs same stage on new version. Skill does not auto-apply edits — author retains control.',
+    options: [
+      'In-conversation: user provides revised document, skill re-runs the same stage prompt.',
+      'File-based: user uploads a new version, skill diffs against previous and re-evaluates.',
+      'Suggested edits: skill proposes specific edits (current/potential), user accepts/rejects, skill applies and re-evaluates.'
+    ]
+  },
+  { title: 'Fresh-eyes sub-agent', status: 'resolved', body: 'Review 6 requires a "new instance" that hasn\'t seen prior reviews. How to implement?',
+    chosen: 0,
+    resolution: 'Sub-agent with isolated context. Receives only: (a) audience metadata from P1, (b) current document. No prior review history. Summarizes key takeaways and flags errors. Reviewing agent compares to original P2 highlights.',
+    options: [
+      'Sub-agent: spawn a new agent context with only audience metadata + current document. Compare its summary to original highlights.',
+      'Prompt isolation: use a carefully scoped prompt that instructs the LLM to "forget" prior reviews (unreliable).',
+      'Human checkpoint: flag this as a step the user should do with a colleague, provide a shareable summary document.'
+    ]
+  },
+  { title: 'Style guide reference', status: 'resolved', body: 'Review 3 says "align to the relevant Style Guide." Where does this come from?',
+    chosen: 2,
+    resolution: 'Layered: built-in base rules derived from checklist sources (Smart Brevity, Strunk & White, AP Style) in references/style-rules.md. Users can optionally provide their organization\'s style guide as overlay.',
+    options: [
+      'Built-in: the checklist itself IS the style guide (Smart Brevity rules, Strunk & White, etc.). Encode its principles.',
+      'User-provided: prompt the user to upload or point to their organization\'s style guide.',
+      'Layered: built-in base rules (from the checklist\'s derivative sources) + optional user overlay.'
+    ]
+  }
+];
+
+document.getElementById('tab-decisions').innerHTML =
+  '<div class="summary-grid">' +
+    '<div class="metric"><div class="m-val">7</div><div class="m-label">resolved</div></div>' +
+    '<div class="metric"><div class="m-val">3</div><div class="m-label">open questions remain</div></div>' +
+  '</div>' +
+  '<p style="font-size:13px;color:var(--text-secondary);margin-bottom:1rem">Decisions resolved via <code>writing-great-skills</code> principles. See <code>docs/vision/skill-architecture.md</code> for full rationale.</p>' +
+  decisions.map(d => {
+    const statusTag = d.status === 'resolved'
+      ? '<span class="tag tag-resolved" style="margin-left:8px">resolved</span>'
+      : '<span class="tag tag-open" style="margin-left:8px">open</span>';
+    const opts = d.options.map((o, i) => {
+      const cls = d.status === 'resolved' && i === d.chosen ? 'd-option chosen' : 'd-option';
+      return '<div class="' + cls + '">' + o + '</div>';
+    }).join('');
+    const res = d.resolution
+      ? '<div class="resolution"><div class="resolution-label">Resolution</div>' + d.resolution + '</div>'
+      : '';
+    return '<div class="decision-card"><div class="d-title">' + d.title + statusTag + '</div><div class="d-body">' + d.body + '</div><div class="d-options">' + opts + '</div>' + res + '</div>';
+  }).join('') +
+  '<div class="decision-card" style="border-color:var(--border-warning)"><div class="d-title">Open questions <span class="tag tag-open" style="margin-left:8px">3 remaining</span></div><div class="d-body" style="margin-top:8px">' +
+    '<div class="d-option">Read-aloud (stage 4): computational readability analysis vs. TTS vs. human checkpoint. Needs prototyping.</div>' +
+    '<div class="d-option">Cross-product references (stage 1): requires corpus access. Likely out of scope for v1; flag as human checkpoint.</div>' +
+    '<div class="d-option">Format inspection tooling (stages 7-9): which scripts or tool integrations? Depends on whether we ship with docx/pdf parsing or delegate to existing skills.</div>' +
+  '</div></div>';
+</script>
+</body>
+</html>

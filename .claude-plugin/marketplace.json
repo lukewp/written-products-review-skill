@@ -1,0 +1,23 @@
+{
+  "name": "lukewp",
+  "owner": {
+    "name": "Luke Peterson",
+    "url": "https://github.com/lukewp"
+  },
+  "description": "The Insights Report Checklist, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "written-products-review",
+      "source": "./",
+      "description": "Walks an author through twelve review gates for a written product — audience brief, analysis, organization, line-by-line, sensitivity, fresh eyes, packaging, accessibility, publication.",
+      "category": "writing",
+      "keywords": [
+        "writing",
+        "editing",
+        "review",
+        "insights-report",
+        "style-guide"
+      ]
+    }
+  ]
+}

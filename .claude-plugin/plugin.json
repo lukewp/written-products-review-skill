@@ -1,0 +1,22 @@
+{
+  "name": "written-products-review",
+  "version": "0.1.0",
+  "description": "A multi-stage review process for written products — insights reports, briefs, memos, presentations. Twelve quality gates, from audience brief to publication. Based on the Insights Report Checklist by Luke Peterson.",
+  "author": {
+    "name": "Luke Peterson"
+  },
+  "repository": "https://github.com/lukewp/written-products-review-skill",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": [
+    "writing",
+    "editing",
+    "review",
+    "insights-report",
+    "style-guide",
+    "consulting",
+    "analysis"
+  ],
+  "skills": [
+    "./skills/written-products-review"
+  ]
+}
