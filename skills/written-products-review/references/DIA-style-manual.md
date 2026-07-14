@@ -31,7 +31,7 @@ standards for written intelligence production. minimizing the guesswork on capit
 numbers, abbreviations, and other style points. Consequently, intelligence producers can
 focus on crafting effective arguments to support analytic judgments.
 
-The DIA Style Manual for Intelligence Production has been in use for decades.     The manuals
+The DIA Style Manual for Intelligence Production has been in use for decades.     The manual’s
 executive agent, the Directorate for Analysis, refines the guidance as Intelligence Community
 standards develop and the language evolves. The U.S. Government Printing Office Style
 Manual served as the basis for most of the guidance in this manual, and other references
@@ -47,14 +47,14 @@ In our arsenal as we execute our mission and ensure we meet the highest possible
 
 ## CHAPTER I:
 
-President John F Kennedy on Winston Churchill
-Unlike the rest of this style manual, which focuses on house style issues, this chapter presents
+—President John F Kennedy on Winston Churchill
+Unlike the rest of this style manual, which focuses on “house style” issues, this chapter presents
 practical advice for authors and editors to consider in intelligence-related writing
 
 Good writers and editors need to be familiar with foundational grammar rules, such as subject verb
 agreement, but they also need to recognize what is and is not a hard-and-fast rule. Many people
 remember learning that they should not split infinitives or end a sentence with a preposition, but
-both are rules modern usage references largely dismiss
+both are “rules” modern usage references largely dismiss
 The organizers decided to immediately address parking for employees and guests
 Moving the adverb "immediately" anywhere else in this sentence would make the meaning less clear.
 The natural place for an adverb is directly in front of the word it describes.      Bottom line: avoid split
@@ -77,14 +77,14 @@ detailed guidance, with numerous examples, on punctuation. grammar, and usage.
 mind that the DIA Style Manual for Intelligence Production takes precedence on style issues. such as capital-
 ization and compounding.
 
-Studies of writing today advise authors to keep both sentences and paragraphs shortnot neces-
+Studies of writing today advise authors to keep both sentences and paragraphs short—not neces-
 sarily because readers can't deal with more complex writing, but because shorter sentences and
 paragraphs are easier to read and can be understood more quickly
 Traditionally, writers have used a paragraph
 to show the development of a single thought.
 For a complex thought, though. the para-
 > Short sentences   fewer than 20 words     make
-graphs length could become quite imposing.
+graph’s length could become quite imposing.
 Moreover, for a publication with type in col-
 umns, paragraphs seem even longer because
 fewer words fit on a line. There's a real risk,
@@ -102,26 +102,26 @@ clause. especially one that begins with a contrary term. such as although, despi
 clauses can impede the reader's ability to absorb the main point.     Use subsequent sentences in the
 paragraph to fill out the story.
 
-A heading can announce the topic of a section, or it can do morefocusing readers attention on the
-main point of the section.    Avoid labels like Background   or Introduction. Look instead for head-
+A heading can announce the topic of a section, or it can do more—focusing readers’ attention on the
+main point of the section.    Avoid labels like “Background”   or “Introduction.” Look instead for head-
 ings that provide the gist of a section, especially headings that express the point in a way that invites
 readers to continue reading. Don't try too hard to grab attention, though; cute titles or headings can
 detract from the professionalism of your presentation.
 
-For long studies, theres another consideration: levels of headings, You have to be wary of the orga
+For long studies, there’s another consideration: levels of headings, You have to be wary of the orga
 nizational complexity you try to portray with the headings.     For the most part, writers of books only
 occasionally go beyond two levels of headings. Readers are likely to become confused if you try to
 portray three or four levels of headings throughout a long document.
 Make your outline as complex as you need to help you organize the points and subpoints in what you
 write. However, when you actually write, use headings to highlight only the most important points,
-and focus readers attention with the wording of those headings
+and focus readers’ attention with the wording of those headings
 
 Passive voice is one of the less desirable features of bureaucratic writing. Passive constructions are
-more wordy than corresponding active constructions and can generate other wordinessespecially
-sentences beginning with It is and  here are. In addition, passive voice is indirect, reversing
+more wordy than corresponding active constructions and can generate other wordiness—especially
+sentences beginning with “It is” and “ here are.” In addition, passive voice is indirect, reversing
 the natural order of spoken English, and it lacks the vigor inherent in active voice. Finally, passive
-constructions often mask the actor. Imagine being told. Your fate will be decided tomorrow. Your
-reaction is to demand. By whom? Passive voice makes it all too easy for writers to omit the by
+constructions often mask the actor. Imagine being told. “Your fate will be decided tomorrow.” Your
+reaction is to demand. “By whom?” Passive voice makes it all too easy for writers to omit the “by”
 part of a thought. and this evasiveness in particular is a mark of bureaucratic writing,
 
 The natural order for an English sentence       actor action acted upon        requires active voice:
@@ -130,8 +130,8 @@ The sailor
 A sentence in passive voice reverses that order:
 The boat
 factee upent
-Recognizing these constructions in more complicated sentences still is quite simple; thats why gram-
-mar-checking software can locate passive verbs quite well. Only a passive sentence will receive yes
+Recognizing these constructions in more complicated sentences still is quite simple; that’s why gram-
+mar-checking software can locate passive verbs quite well. Only a passive sentence will receive “yes”
 answers to all of the following tests:
 - Is the subject of the sentence acted upon?
 - Does the sentence combine a form of to be
@@ -144,9 +144,9 @@ usually end in -ed or -en (except for irregular
 verbs such as shot). Thus, passive verbs look
 like these: is divided, was shaken, has been shot.
 - If the actor appears in the sentence, is it in the prepositional phrasc by someone or something? Or, if the
-actor doesnt appear in the sentence, does the sense of the sentence imply by someone or something?
+actor doesn’t appear in the sentence, does the sense of the sentence imply by someone or something?
 
-Far too often, writers accept passive voice because they cant think how to write in the active voice:
+Far too often, writers accept passive voice because they can’t think how to write in the active voice:
 in such cases, passive is more accidental than intentional. You can prevent this lack of control in your
 own writing by learning the following three methods to convert passive voice into active:
 - Reverse the object and the subject.
@@ -175,7 +175,7 @@ The fix is often simple:
 Uueiphatic: There was a second explosion that killed three soldiers.
 Tmphaties   A second explosion killed three soldiers.
 Unemphatic: ttis probable that voter turnout will be heavy.
-Euphatic:  Voter turnout probably will be heavy.
+Euphatic: — Voter turnout probably will be heavy.
 Strong writing requires strong verbs, so dan't bury verbs inside nouns by attaching
 -ance, and -ence.
 
@@ -185,15 +185,15 @@ Weak        North Korea has made a commitment to resume talks
 Strong:     North Korea has committed to resuming talks.
 
 Qualifiers are often necessary for accuracy in intelligence writing, but multiple qualifiers impede
-clarity. Words that already express a degree of judgmentfor instance, imply, indicate, and suggest
+clarity. Words that already express a degree of judgment—for instance, imply, indicate, and suggest—
 should not be combined with qualifiers such as may, likely, and probably.
 Noi       The lull in attacks may indicate the rebels are ready to negotiate.
 Bui       The lull in attacks indicates the rebels are ready to negotiate
 Or        The lull in attacks may mean the rebels are ready to negotiate
 
-When we discuss cliches, we usually think of overused comparisons like blind as a bat or older than
-dirt phrases most of us know to avoid.
-cate concepts in intelligence writing. Watch out for terms such as paradigm or center of gravity; they
+When we discuss cliches, we usually think of overused comparisons like “blind as a bat” or “older than
+dirt” —phrases most of us know to avoid.
+cate concepts in intelligence writing. Watch out for terms such as “paradigm” or “center of gravity”; they
 can be the words you need at times, but overuse can turn them into unhelpful catchphrases.
 Along similar lines, avoid jargon that is familiar to a particular community but not to your entire audi-
 ence.    If an editor needs a term explained, chances are many other readers will as well.
@@ -225,12 +225,12 @@ But          Overextended police forces have done little to protect farmers thre
 employed by drug dealers, to interdict drug shipments, or to destroy processing laboratories
 
 Placement of restrictive modifiers such as almost, every, just, merely, most, nearly, only, primarily, and princi
-pally requires care. Look at the effect of placement for only in This plant produces lug nuts.
+pally requires care. Look at the effect of placement for only in “This plant produces lug nuts.”
 Only this plant produces lug nuts. [No other plant produces them.]
-This plant only produces lug nuts. [The plant doesnt do anything else with them, such as marketing ]
+This plant only produces lug nuts. [The plant doesn’t do anything else with them, such as marketing ]
 This plant produces only lug nuts. [The plant produces nothing else.]
 This plant produces lug nuts only. [The plant produces nothing else.]
-As a general rule, put modifiers close to whatever they modify. Close to" can be before or after the
+As a general rule, put modifiers close to whatever they modify. “Close to" can be before or after the
 thing modified, so long as the sentence makes sense.
 Not          The agreement provided for military equipment which was signed recently,
 Bui          The agreement, which was signed recently, provided for military equipment.
@@ -239,7 +239,7 @@ OF           The recently signed agreement provided for military equipment
 Pay particular attention to a modifier that begins a sentence.       Dangling modifiers can occur anywhere
 in a sentence but are most common        at the beginning. Readers expect an introductory word or phrase
 modifier to refer to the subject of the sentence, When the modifier cannot logically modify the subject,
-the modifier dangles.
+the modifier “dangles.”
 Naf          When completely filled out and checked, the taxpayer should sign the form.
 But          When the form is completely filled out and checked, the taxpayer should sign it.
 Or           After completely filling out and checking the form, the taxpayer should sign it.
@@ -309,7 +309,7 @@ of nations refuses to cooperate with the rest of the world.
 
 ## CHAPTER 2:
 
-Strunk and White, The Elements of Style
+—Strunk and White, The Elements of Style
 Abbreviations can be acronyms, shortenings, brevity codes, or organizational designators. This
 chapter treats them all generally as abbreviations.
 
@@ -324,7 +324,7 @@ Even in tables and graphics, where space is a
 consideration, avoid abbreviating unless the full
 terms will not fit. Changes in layout or type point        this leads to unnecessary abbreviations in key
 size may preclude using abbreviations
-> in an abbreviations being introduced long
+> in an abbreviation’s being introduced long
 Common sense dictates these rules:
 - Use an abbreviation only if it will simplify a
 document. Just because an abbreviation exists
@@ -334,7 +334,7 @@ abbreviation and then using it only once sel-
 dorn justifies forcing readers to translate your
 abbreviations. If you are not going to repeat
 an abbreviation frequently, do not use it.
-> tionshowing relationships among a number of
+> tion—showing relationships among a number of
 Also, keep in mind that making use of
 context in a paper may eliminate the need to
 establish an abbreviation when the abbrevia-
@@ -404,18 +404,18 @@ Department of Energy. have all uppercase letters.
 An abbreviation formed from a foreign term is not italicized, though the foreign term may be.
 Normally you will not italicize the original language or English translation of names of foreign
 organizations, institutes, governmental bodies, political parties, educational institutes, corporations,
-Internet service providers, and the like, because our businessassessing intelligence information
-dealing with foreign governments and their defense and security organizationsuses numerous
+Internet service providers, and the like, because our business—assessing intelligence information
+dealing with foreign governments and their defense and security organizations—uses numerous
 foreign terms as a part of our writing. However, if you are providing the original language words to
 explain the formation of an abbreviation, italics are appropriate for the foreign words
-Russia's Spetsnaz (from voiska spetsialnogo naznacheniya, or troops of special designation)
+Russia's Spetsnaz (from voiska spetsialnogo naznacheniya, or “troops of special designation”)
 had special missions.
-Subordinate to Algerias Ministry of National Defense is its Department of Intelligence and Security,
+Subordinate to Algeria’s Ministry of National Defense is its Department of Intelligence and Security,
 or DRS {Departement de Renscignement et de Securite)
 
 Very few abbreviations require periods. The exceptions are the traditional nonmilitary ranks or titles
-(Mr, Mrs., Ms., Dr, Prof.) and no. (for number, to distinguish it from the answer or command no). In
-addition, use periods with US, The abbreviations ie, (that is") and eg. (for example") also require
+(Mr, Mrs., Ms., Dr, Prof.) and no. (for “number,” to distinguish it from the answer or command no). In
+addition, use periods with US, The abbreviations ie, (“that is") and eg. (“for example") also require
 periods; however, many people confuse these abbreviations, so using them is discouraged
 
 Most abbreviations are established in the sin-
@@ -437,17 +437,17 @@ SA-7 and SA-14 surface-to-air missiles               c's
 of shoulder-fired SAMs
 > publications.   Do not confuse them with plurals
 Particularly for military forces, an abbrevi-
-ation often equates to a plural thingfor
+ation often equates to a plural thing—for
 > of lowercase abbreviations for units of measure,
 > which are not changed to plural form,
-example, ANDSF" for Afghan national
-defense and security forces. However,
+example, “ANDSF" for “Afghan national
+defense and security forces.” However,
 > not 500 kms or 500 kris. bur 500 km
 usually the abbreviation itself, after it is
 established, is singular and requires a singular verb.
 Afghan national defense and security forces (ANDSF) continue to improve their ability...
 Here the subject Afghan national defense and sccurity forces requires a plural verb (continue) and a plural
-pronoun (their). Thus, ANDSF represents a plural entity. Nevertheless, when ANDSF itself is used as
+pronoun (their). Thus, “ANDSF” represents a plural entity. Nevertheless, when ANDSF itself is used as
 a subject, the abbreviation is singular and requires a singular verb and singular pronoun
 However, the ANDSF is not yet prepared to hold its own in...
 Furthermore, even though an abbreviation may stand for an entity that we know to consist of many peo
@@ -457,14 +457,14 @@ Not:         The CCP decided to implement their decisions after...
 Rut          The CCP decided ta implement its decisions after.
 
 When the abbreviation is used instead as a modifier for a plural noun
-bersthe abbreviation no longer determines the number, so a plural pronoun reference is appropri-
+bers—the abbreviation no longer determines the number, so a plural pronoun reference is appropri-
 ate to refer to the plural noun:
 The CCP members decided to implement their decisions after.
 
-Because of what they stand for, a few abbreviations are only plural. When it stands for tactics,
-techniques, and procedures, TTP is one of these. Because TTP in this sense is plural, we cannot write
-A new TTP proved successful. Instead, we would need to write A new tactic [or technique, or proce
-dure] proved successful.
+Because of what they stand for, a few abbreviations are only plural. When it stands for “tactics,
+techniques, and procedures,” TTP is one of these. Because TTP in this sense is plural, we cannot write
+“A new TTP proved successful.” Instead, we would need to write “A new tactic [or technique, or proce
+dure] proved successful.”
 
 As with the terms they represent, most abbreviations can be used in the possessive form.
 If the abbreviation is being used as a singular possessive, add an apostrophe and a lowercase s.
@@ -480,7 +480,7 @@ When you introduce an abbreviation, avoid establishing it in its possessive form
 avoid that situation by using the abbreviation as an adjective. or you can put the abbreviation in a
 prepositional phrase. However, if you do establish an abbreviation when the words for it are in the
 possessive form, the abbreviation also needs to appear in the possessive form
-{oi         The Royal Air Forces (RAF's) aircraft
+{oi         The Royal Air Force’s (RAF's) aircraft
 Use          The Royal Air Force (RAF) aircraft...
 On           The aircraft of the Royal Air Force (RAF)...
 
@@ -496,7 +496,7 @@ When you need to form a multiple-word compound at the same time you are introduc
 viation, hyphenate after the parentheses enclosing the abbreviation.
 interference with Global Positioning System (GPS)-related technology
 If possible, avoid a construction such as this by restructuring the passage: in this case, for example,
-with interference with technology related to the Global Positioning System {GP$).
+with “interference with technology related to the Global Positioning System {GP$).”
 
 Depending on how you use an abbreviation in a sentence, a definite article (the) or an indefinite one
 (a or an) may need to precede the abbreviation. If you would use the in front of the term the abbrevi-
@@ -529,16 +529,16 @@ an abbreviation, including an acronym or letter/
 > an expansion of che abbreviation. For example,
 number group, pronounced as a word (such as
 > for discussion of a frequency hopping (FH) radar,
-HOT and IMINT"), use a if the abbreviation
+“HOT” and “IMINT"), use a if the abbreviation
 > because we would pronounce the letters of the
 begins with a consonant sound or an aspirated
-h (*a HOT missile) and on if the abbrevia-
-tion begins with a vowel sound (an IMINT
-collector), For abbreviations for which you pro        though a would be appropriate before frequency.
+h (*a HOT missile”) and on if the abbrevia-
+tion begins with a vowel sound (“an IMINT
+collector”), For abbreviations for which you pro        though a would be appropriate before “frequency.”
 nounce the letters and numbers themselves:
-- Use a when the group begins with b, 6d, gk Ba & us % w, y, rz: a DIA employee, a UN worker
-- Use an when the group begins with , e fh, i m,n, 0, 4s, or x: an NSC directive, an $5-25 missile,
-an Su-24 aircraft.
+- Use a when the group begins with b, 6d, gk Ba & us % w, y, rz: “a DIA employee,” “a UN worker”
+- Use an when the group begins with , e fh, i m,n, 0, 4s, or x: “an NSC directive,” “an $5-25 missile,”
+“an Su-24 aircraft.”
 You have to consider the expansion of an
 abbreviation when deciding what words can
 > Nix GOx     Abbreviations
@@ -556,13 +556,13 @@ control system system.
 CAC       card = common     access card card
 
 Use what The World Factbook calls the conventional short form for a country name {rather than the
-conventional long form): China rather than Peoples Republic of China, North Korea rather than
-Democratic Peoples Republic of Korea, South Korea rather than "Republic of Korea, etc. Congo is a
+conventional long form): “China” rather than “People’s Republic of China,” “North Korea” rather than
+“Democratic People’s Republic of Korea,” “South Korea” rather than "Republic of Korea,” etc. Congo is a
 bit more complicated because of the need to distinguish between the two countries. For the Dernocratic
-Republic of the Congo, establish the abbreviation DRC, which The World Factbook lists as the conven-
-tional short form for the countrys name: Congo (Kinshasa) also is acceptable. For the Republic of the
-Congo. The World Factbook provides Congo (Brazzaville) as the conventional short form.
-Spell out most country names, whether you use them as nouns or adjectivesexcept the United States,
+Republic of the Congo, establish the abbreviation “DRC,” which The World Factbook lists as the conven-
+tional short form for the country’s name: “Congo (Kinshasa)” also is acceptable. For the Republic of the
+Congo. The World Factbook provides “Congo (Brazzaville)” as the conventional short form.
+Spell out most country names, whether you use them as nouns or adjectives—except the United States,
 the United Kingdom. and the United Arab Emirates. Spell out United States and United Kingdom (and United
 Nations) when you use them as nouns, but use the abbreviations for the adjective forms. If you need multi
 ple references to the United Arab Emirates, establish UAE early in a paper.
@@ -572,8 +572,8 @@ contracts involving the United Kingdom.
 
 For members      of the U.S.   military, use rank/rate abbreviations as the individual Military Services use
 them. For all militaries, use the abbreviation in front of a name, but spell out the rank in lowercase
-elsewhere:     Maj Gen Gonzales of the Mexican Air Force plans to visit shortly after his promotion to.
-lieutenant general. Also spell out the rank in plural form: Captains Arroyo and Valdez.
+elsewhere:     “Maj Gen Gonzales of the Mexican Air Force plans to visit shortly after his promotion to.
+lieutenant general.” Also spell out the rank in plural form: “Captains Arroyo and Valdez.”
 U.S. Army Officers/Warrant Officers
 general of the Army (special)
 general (O-10)
@@ -774,12 +774,12 @@ fo       a 300-meter segment on Route A
 Or        a Route A segment of 300 meters
 Some    offices have preferred to use mt or MT for metric ton(s). These abbreviations, however,
 present problems.
-- Asa prefix, m equates to milli, and tis
+- Asa prefix, m equates to “milli,” and tis
 the symbol for metric ton(s), making mt
-equate to milli-metric ton(s). which is
+equate to “milli-metric ton(s).” which is
 somewhat nonsensical.
 In addition, using mt or MT invites confusion        even in these cases do not abbreviate unless the
-with Mz, which equates to megaton(s)
+with Mz, which equates to “megaton(s)
 > such as ~ (about or roughly). < (less than), or >
 For these reasons. we need to use the inter
 national symbol of t for metric ton(s), even
@@ -807,12 +807,12 @@ Saturday        Sat
 The list that follows contains abbreviations for use in DIA intelligence products.       This list is included
 for standardization of preferred usage, to show uppercase and lowercase forms, and to permit mark-
 ing abbreviations that may be used without being introduced in the text of a product. This list does
-not preclude use of the Department of Defense Dictionary of Military and Associated Terms and Intellipedias
-Acronyms page, which present many abbreviations not covered here.
+not preclude use of the Department of Defense Dictionary of Military and Associated Terms and Intellipedia’s
+“Acronyms” page, which present many abbreviations not covered here.
 The following abbreviation list sometimes shows multiple uses for the same abbreviation, and all
-of ther can be considered preferred abbreviations.         Common     sense. however, indicates that you
+of ther can be considered “preferred” abbreviations.         Common     sense. however, indicates that you
 cannot use the same abbreviation for multiple purposes in the same paper. For example, even though
-BW can stand for either "biological warfare or biological weapon, it must not stand for both things
+BW can stand for either "biological warfare” or “biological weapon,” it must not stand for both things
 in the same piece of writing.
 
 The abbreviation list employs two symbols:
@@ -826,10 +826,10 @@ Caution: Because a production element has been reading numerous bits of informat
 viation and analysts from that element are writing a number of papers using an abbreviation, analysts
 frequently believe that surely everyone else must be familiar with the abbreviations they commonly see and
 use. However, for perspective, consider the following: The Free Dictionary, on the Internet at <
-vewsws chetreed cticnary.cer e>, has an Acronym Finder that lists expansions for letter sets, and it includes
-military expansions among the many possible translations for an abbreviation. As of | December 2015,
-this website produced 43 expansions for PTG, one of which equated to the expansion in our listing: 191
-expansions for SSP. none of them matching the one in our listing: and 105 for ADA. one of which was
+vewsws chetreed cticnary.cer e>, has an “Acronym Finder” that lists expansions for letter sets, and it includes
+military expansions among the many possible “translations” for an abbreviation. As of | December 2015,
+this website produced 43 expansions for “PTG,” one of which equated to the expansion in our listing: 191
+expansions for “SSP.” none of them matching the one in our listing: and 105 for “ADA.” one of which was
 the one in our listing. For this reason, we need to be careful when deciding whether to establish an abbrevi-
 ation. Do not consider an asterisk with an abbreviation to be a license to never establish the abbreviation.
 
@@ -867,7 +867,7 @@ ammunition ship
 antiair warfare
 airbase [in the proper name      scanned array
 of aUS. OCONUS airbase,
-Air Basefor example, Incirlik
+Air Base—for example, Incirlik
 Avr Base]
 airborne battlefield
 airborne early warning
@@ -1206,7 +1206,7 @@ Agreement
 > desired ground zero
 dynamic host
 configuration protocol
-Revolutionary Peoples
+Revolutionary People’s
 Liberation Party/Front
 Department of
 Homeland Security
@@ -1287,13 +1287,13 @@ drop zone/landing zone
 > electro optical warfare
 
 electronic attack
-[formerly ECM
+[formerly ECM—
 electronic countermeasures]         countermeasures]
 electronic counter-
 countermeasures
 [now EP    electronic protection]   iodine laser
 electronic countermeasures
-[now EAelectronic attack]
+[now EA—electronic attack]
 > earth-penetrator weapon
 Economic Community of
 West African States
@@ -1303,7 +1303,7 @@ of Colombia
 early release of submunitions   forward air controller
 enhanced radiation weapon       fuel-air explosive
 electronic warfare support      fuelair incendiary
-[formerly ESMelectronic        Federal Agency
+[formerly ESM—electronic        Federal Agency
 support measures]
 European Space Agency
 European security and
@@ -1381,7 +1381,7 @@ Australia, Canada, New
 Foreign Military Sales
 first name unknown
 forward operating base
-community]
+community”]
 bombardment system
 Future Years
 full operational capability
@@ -1654,7 +1654,7 @@ Joint Direct-Attack Munition
 jet petroleum
 Jaysh Rijal al-Tariq
 Joint Document Exploitation
-CenterAfghanistan
+Center—Afghanistan
 al-Nagshabandiyah (Army of
 the Nagshabandiyah Order)
 Justice and Equality
@@ -1693,7 +1693,7 @@ kilogram(s)
 Kongra Gel [also
 called Kurdistan People's      Targeting Infrared for Night
 Congress; formerly Kurdistan   light artillery rocket
-Workers Party (PKK)]
+Workers’ Party (PKK)]
 light amplification by simu-
 Kataib Hizballah
 kilohertz
@@ -1941,7 +1941,7 @@ North American Aerospace
 Defense Command
 Imagery and Mapping Agency)]
 National Ground
-New Peoples Army
+New People’s Army
 Intelligence Center
 natural gas liquids
 nongovernmental organization
@@ -1987,7 +1987,7 @@ overtaken by events
 optical intelligence
 United States
 Open Source Center [for
-merly FBISForeign Broadcast
+merly FBIS—Foreign Broadcast
 Office of the Director of         Information Service]
 National Intelligence
 Organization for Security
@@ -2025,13 +2025,13 @@ permanent five members
 of the UN Security Council
 Popular Front for the
 plus Germany
-Liberation of Palestine
+Liberation of Palestine—
 Palestinian Authority;
 probability of arrival
 Partnership for Peace
 permissive action link
 patrol combatant
-Peoples Armed
+People’s Armed
 Police [China]
 patrol combatant
 precision-approach radar;
@@ -2413,7 +2413,7 @@ United Nations High
 Commissioner for Refugees      Centre for Preventive
 United Nations
 Diplomacy in Central Africa
-Childrens Fund
+Children’s Fund
 
 United Nations Industrial
 and Works Agency for
@@ -2540,7 +2540,7 @@ executive officer
 
 ## CHAPTER 3:
 
-Bill Walsh, Yes, | Could Care Less: How to Be a
+—Bill Walsh, Yes, | Could Care Less: How to Be a
 Language Snob Without Being a Jerk
 The trend in American publishing has been to reduce the amount of capitalization in text.
 nouns still are capitalized, of course, but often words derived fram them are printed with lowercase
@@ -2553,7 +2553,7 @@ with em- or en-dashes or other symbols in place of bullets, numbered lists, and 
 and it applies whether the items are full sentences, clauses, phrases, or single words.
 The rule applies to the following types of indented lists
 - Lists marked with bullets (#), numbers, or other symbols (such as >) that are equivalents of bullets.
-- Lists marked with erm () or en (-) dashes.
+- Lists marked with erm (—) or en (-) dashes.
 - Lists that are indented burt that lack initial markings.
 Note: This rule generally has not been applied in this style manual so that fragmentary samples can illustrate
 desired combinations of uppercase and lowercase letters.
@@ -2569,8 +2569,8 @@ operating base in Afghanistan may feel a need
 to capitalize forward operating base because that
 type of thing is the focus of the author's atten-
 tion. Nevertheless, the noun (or noun phrase}
-remains a common nounand should not be
-capitalizedunless the author uses the name of.
+remains a common noun—and should not be
+capitalized—unless the author uses the name of.
 a specific item from the class (a proper noun),
 such as Forward Operating Base Kalo Gush.
 Forward Operating Base Kala Gush
@@ -2584,9 +2584,9 @@ of proper names, derivatives of proper names, and particles with names.
 Capitalize common nouns as parts of proper names but not when the common noun is separated
 from the rest of the name by a word or phrase or when the common noun stands for the name of
 the place or thing.
-- The Persian Gulf is an exception because of its prominence in military writing. Thus, we write the
-Gulf War, Gulf states, etc. Use lowercase for gulf'as a common noun referring to any other gulf
-for example, Operations in the Gulf of Aden have increased because of pirates activities in the gulf.
+- The Persian Gulf is an exception because of its prominence in military writing. Thus, we write “the
+Gulf War,” “Gulf states,” etc. Use lowercase for gulf'as a common noun referring to any other gulf—
+for example, “Operations in the Gulf of Aden have increased because of pirates’ activities in the gulf.”
 Quebec Province: Province of Quebec; Quebec, Canada's separatist province; the province
 the Panama Canal: the canal
 the Volga River; the river
@@ -2627,7 +2627,7 @@ bowie knife
 braille
 degaussing
 diesel engine
-fullers earth
+fuller’s earth
 gargantuan
 gauss                                     neon light                               venturi tube
 german silver
@@ -2671,48 +2671,48 @@ the Washington Post
 the Times
 the Los Angeles [proper name of a ship]
 the Hershey Company
-In many European names, d, de, della, den, du, fa, , van, vander, von, and so forth normally are not eap-
+In many European names, d, de, della, den, du, fa, ’, van, vander, von, and so forth normally are not eap-
 italized except at the beginning of a sentence. The convention for the same particles for individuals
 born in English speaking countries varies widely; try to find out how the individual capitalizes his or
 her name, but use the lowercase form if that information is not available.
-Arabic Persons Names. When ai is part of a person's name in Arabic, include the af when
-writing out the individual's full name the first time, as in DIA judges that Iraqi Prime Minister Haydar
-al-Abadi will modify the plan. For subsequent references to the same individual, drop the af, as in
-this secondary reference in the same paper: Diplomats have noted that Abadi expects the plan ta
-include three phases. Also, note the hyphen with the afin Haydar al-Abadi":
-Intelligence Community (IC) guidance requires first that IC agencies follow spellings of individuals
+Arabic Persons’ Names. When ai is part of a person's name in Arabic, include the af when
+writing out the individual's full name the first time, as in “DIA judges that Iraqi Prime Minister Haydar
+al-Abadi will modify the plan.” For subsequent references to the same individual, drop the af, as in
+this secondary reference in the same paper: “Diplomats have noted that Abadi expects the plan ta
+include three phases.” Also, note the hyphen with the afin “Haydar al-Abadi":
+Intelligence Community (IC) guidance requires first that IC agencies follow spellings of individuals”
 names as they appear in The World Factbook no matter what transliteration practices might indicate.
 For the many Arabie names that do not appear in The World Factbook, IC guidance directs that agen-
-cies follow an IC standard for transliteration of Arabic. This standard calls for hyphens to connect
-name elements within a name, as in Abd al Rahman and Abu al Bashar. However, hyphens are
-not used in names that include Allah as part of the name {as in Abdallah or Nasrallah") or names
-marked by the lineage/family marker Al (as in Al Saud), though this latter situation is rare and
+cies follow an IC standard for transliteration of Arabic. This standard calls for hyphens to “connect
+name elements within a name,” as in “Abd al Rahman” and “Abu al Bashar.” However, hyphens are
+not used in names that include Allah as part of the name {as in “Abdallah” or “Nasrallah") or names
+marked by the lineage/family marker Al (as in “Al Saud”), though this latter situation is rare and
 occurs mostly with names of individuals in Gulf Arab royal houses.
 The World Factbook is availableon |WICS at orp: aww. claus.qlat� DL! Facrsoak index. bre)
 Arabic Place Names. Presentation of al and similar elements associated with place names in Arabic
-follows different rulesthose of the Board on Geographic Names (BGN). which the National Geospatial-
+follows different rules—those of the Board on Geographic Names (BGN). which the National Geospatial-
 Intelligence Agency (NGA) uses for most of the Middle East. For Arabic place names, a appears with an
-uppercase A, and no hyphen joins Al to the rest of the name, as in Al Basrah and Al Qanbariyah in Iraq.
+uppercase A, and no hyphen joins Al to the rest of the name, as in “Al Basrah” and “Al Qanbariyah” in Iraq.
 A further difference exists between the IC standard for presenting Arabic personal names and
 the BGN's standard for spelling Arabic place names that include af, The IC standard for personal
 names transliterates the definite article af as it is written in Modern Standard Arabic (MSA) _ alif
 fam. The BGN transliterates the definite article al in place names as it is pronounced in MSA. In MSA
-pronunciation, af is assimilated when followed by one of the 14 sun letters. When preceding the
-letter nun, for example. al is pronounced an"alif nun. Therefore, the BGN renders an Iraqi city
-as An Najaf rather than Al Najaf. Similar examples are As Sulaymaniyah, Ar Ramadi, "Ash
-Shamiyah,   Ad Diwaniyah, and so forth
+pronunciation, af is “assimilated” when followed by one of the 14 “sun letters.” When preceding the
+letter nun, for example. al is pronounced “an"—alif nun. Therefore, the BGN renders an Iraqi city
+as “An Najaf” rather than “Al Najaf.” Similar examples are “As Sulaymaniyah,” “Ar Ramadi,” "Ash
+Shamiyah,”   “Ad Diwaniyah,” and so forth
 NGA maintains a searchable database of place names using BGN standards on NIPRNET:
-narres.nga.mil� rariesgaz, Search this database with Options set for No
-Diacritics" and "BGN Standard when you are seeking only BGN-approved spellings of place names,
+narres.nga.mil� rariesgaz’, Search this database with “Options” set for “No
+Diacritics" and "BGN Standard” when you are seeking only BGN-approved spellings of place names,
 Arabic    Business/Organization         Names.   For names of businesses or business-related organizations
 with Arabic portions in their names. follow the presentation style for al, al, Af, or Al- as that element
 appears in the source of the information. Businesses and business-related organizations use a variety of
 styles for presenting such an clement, as company literature, business websites, and business directories
 demonstrate. If multiple sources show conflicting styles for the same business or organization and you
 have no way of finding out what the company or organization itself prefers, use Al- as the default.
-Dresser Al-Rushaid Valve & Instrument Ltd        Dallah al Baraka Group
+Dresser Al-Rushaid Valve & Instrument Ltd       — Dallah al Baraka Group
 Ras Al Khaimeh Gas Commission
-Aamal Al Nashi Transportation Est. AM AIKhorafi Est.
+A’amal Al Nashi Transportation Est. AM AIKhorafi Est.
 A\-Arabiyah [television network]    Al Jazeera [television network]
 Al-Furat [television network]       AlFurat [newspaper]
 Arabic Names Occurring Within Sentences, When an Arabic name with al- as part of the
@@ -2748,10 +2748,10 @@ government; the government: the Obama
 administration: the administration
 > Capitalize Parliament if ic is che actual name of a
 For the United States only, use initial capital-
-> countrys legislature, but use lowercase parliament
+> country’s legislature, but use lowercase parliament
 ization for Cabinet.
 > if the legislature actually has a different name.
-the U.S. Cabinet; President Obamas
+the U.S. Cabinet; President Obama’s
 Cabinet; the Cabinet
 For the United Kingdom and the Commonwealth of Independent States, capitalize Commonwealth
 as part of the proper name and standing alone as a substitute for the full name
@@ -2766,9 +2766,9 @@ the Quebec Parliament; the provincial parliament
 the Jerusalem Municipal Council; the municipal council
 the Karbala Provincial Council; the council
 
-The names of a nations military and police forces or services depend on how the nations forces are
-structured. Do not assume that a nations force names mirror those of the United States.
-For the United States, capitalize Armed Forces when the term appears with the nations name, but use
+The names of a nation’s military and police forces or services depend on how the nation’s forces are
+structured. Do not assume that a nation’s force names mirror those of the United States.
+For the United States, capitalize Armed Forces when the term appears with the nation’s name, but use
 lowercase if the name is separated from it
 the US. Armed Forces: the Armed Forces of the United States; the capabilities of the
 USS, Armed Forces
@@ -2784,8 +2784,8 @@ The structure of the Argentine armed forces (AAF)
 Capitalize the full proper name of a military force, military service, or national police force as well as
 a shortened form of the proper name. Use lowercase for generic terms related to force names and
 for names of forces that are being considered but that have not yet been developed.
-army, navy, air force, and marines will be generic labels if a nations proper names for its forces use other
-terms or if a nations military structure is too small to include a developed army, navy, and so on
+army, navy, air force, and marines will be generic labels if a nation’s proper names for its forces use other
+terms or if a nation’s military structure is too small to include a developed army, navy, and so on
 the U.S. Army; the Army: Army fighting vehicles [controlled by the US, Army]
 the U.S. Navy; the Navy; Navy surface ships [controlled by the US. Navy]
 but naval: naval weapons [generic reference]: naval vessels [generic reference]
@@ -2797,7 +2797,7 @@ the U.S. Coast Guard; the Coast Guard; a Coast Guard rescue vessel [controlled b
 the Egyptian Army; the Army; the Egyptian ground forces; army equipment [generic reference to an
 equipment type]; army, division, or regiment level
 the People's Liberation Army: the PLA: the Chinese Army: the Army; Chinese ground forces; the
-Peoples Liberation Army Air Force: the Air Force
+People’s Liberation Army Air Force: the Air Force
 the French Navy: the Navy: naval units [generic reference]; naval combatants [generic reference]
 the Royal Air Force: the Air Force: an Air Force pilot [controlled by the Royal Air Force]
 the Syrian Arab Air and Air Defense Forces; the Air and Air Defense Forces; Air Defense units
@@ -2816,7 +2816,7 @@ the Ist Army: the army
 the 6th Fleet; the fleet
 the 1028th Brigade: the brigade
 | Corps; the corps
-Use lowercaseother than for proper namesfor military services as a group, for general references to one
+Use lowercase—other than for proper names—for military services as a group, for general references to one
 kind of service in the plural form, or for the plural form of a military service type for more than one country.
 the British military establishment
 NATO naval forces; NATO navies
@@ -2853,14 +2853,14 @@ Correspondence Guide on initial capitalization for
 several terms used frequently in correspondence
 and in papers dealing with DIA structural issues
 related to analysis.
-Use initial capitalization for Federal (as in Federal
-agencies), Government, and Nation for passages dealing with the United States only.
+Use initial capitalization for Federal (as in “Federal
+agencies”), Government, and Nation for passages dealing with the United States only.
 Capitalize Directorate, Office, and Center when discussing those specific DIA structural elements,
 but use lowercase for generic senses. Do not capitalize division, branch, section, or team unless
 they are part of the full name of an Agency element.
 Use initial capitalization for Defense when referring to the U.S. Defense Intelligence Community
-developments in Defense Intelligence Defense initiatives; the Defense Intelligence Enterprise;
-the Defense Intelligence Community.
+“developments in Defense Intelligence” “Defense initiatives”; “the Defense Intelligence Enterprise”;
+“the Defense Intelligence Community.”
 
 Capitalize the full or shortened       name of a political party, but not the word party standing alone.
 
@@ -2900,7 +2900,7 @@ Capitalize geographic terms for definite regions and geographic features, For po
 groupings, capitalize the term for the political/administrative grouping when it is used with a geographic
 term to forma proper name for example, province in Kandahar Province or governorate in Diyala
 Governorate but use lowercase for the political or administrative term when it is used generically             for
-example, in European countries. the Maghreb states, Afghan provinces. and Iraqi governorates.
+example, in “European countries.” “the Maghreb states,” “Afghan provinces.” and “Iraqi governorates.”
 the North Adiantic
 the West
 the East
@@ -2994,7 +2994,7 @@ Defense Minister Pinzon; the
 defense minister; Juan Carlos Pinzon,
 Colombia's defense minister
 a meeting of the defense ministers of all
-the regions nations
+the region’s nations
 special emissary Habib
 al-Qaida emir Zawahiri
 Taliban shadow governor Salam
@@ -3026,8 +3026,8 @@ an, and the; prepositions shorter than four letters (at, by, for, in, of, on, to
 than four letters (and, as, but, if, of, nor); and the second element of a compound numeral.
 Spotting Terrorists: What To Look for and Where To Look
 Warlords and Other Militant Leaders
-Pacific AllianceThe United States and Japan
-Nothing but Trouble:      Divisions Within the Party
+Pacific Alliance—The United States and Japan
+“Nothing but Trouble:      Divisions Within the Party”
 
 In cross references. use initial capitalization for the common noun portion of numerical or letter
 designations of chapters. parts, sections, phases. stages, graphics, tables, appendixes, and so on.
@@ -3048,7 +3048,7 @@ Avoid using capitals for emphasis. Boldfaced type. italics, and placement (cente
 more effective, less distracting means to provide emphasis.
 
 Use lowercase for the seasons of the year. [Note: the ... of is not necessary in passages dealing with a season of
-a specific year: not a conference in the spring of 2007," but a conference in spring 2007."]
+a specific year: not “a conference in the spring of 2007," but “a conference in spring 2007."]
 a meeting in summer 1999
 no later than fall 2008
 
@@ -3084,13 +3084,13 @@ BYZANTINE      HADES      information
 Use initial capitalization for the names of academic degrees, but use lowercase for references to
 degrees in a general sense.
 Doctor of Law, Doctor of Veterinary Medicine: doctor's degree in law; doctorate
-Master of Arts in English; Master of Arts in the humanities; masters degree in education
-Bachelor of Science in computer science: bachelors degree
+Master of Arts in English; Master of Arts in the humanities; master’s degree in education
+Bachelor of Science in computer science: bachelor’s degree
 
 Show the names of chemical elements and compounds in lowercase as words but with initial upper-
 case for chemical symbols. (By international agreement, in technical symbology the mass number of
 an isotope appears in superscript form to the left of the symbol for the element; that is, technically
-the symbol for uranium-235 is "U. However, for less technical writing, such as intelligence papers,
+the symbol for uranium-235 is “"U. However, for less technical writing, such as intelligence papers,
 the more common rendering of the symbol is U-235.)
 sodium chloride; NaCl
 sodium citrate; Na,C H_O_.2H|O
@@ -3100,7 +3100,7 @@ uranium-235: U-235; uranium-238; U-238
 Use uppercase for a plant or animal genus and lowercase for the species (even in titles and headings)
 (Both genus and species also appear in italics.) After the first use of a genus, it can be abbreviated
 (but it remains uppercase and italic), Higher divisions of plants and animals _ phylum, class, order,
-and familyare capitalized but shown in rornan type.
+and family—are capitalized but shown in rornan type.
 Clostridium botulinum; C. betulinum [on subsequent use]
 Giardia lamblia; G. lamblia [on subsequent use]
 Escherichia coli; E, coli [on subsequent use]
@@ -3112,10 +3112,10 @@ Hominidae [family]
 
 ## CHAPTER 4:
 
-Bryan   A. Garner, A Dictionary of Modern American Usage
+—Bryan   A. Garner, A Dictionary of Modern American Usage
 Numbers can appear in writing as numerals (numeric symbols, like |. 2, 3 or |, Il, Il) or as words
-or groups of words. Most rules for presenting numbers have to do with determining which form
-numerals or wordsis more appropriate for a particular situation. This chapter provides a set of
+or groups of words. Most rules for presenting numbers have to do with determining which form—
+numerals or words—is more appropriate for a particular situation. This chapter provides a set of
 basic rules that cover most circumstances and other rules for special situations or factors related to
 using and presenting numbers.
 
@@ -3139,9 +3139,9 @@ The basic rules and all of the variations of the basic rules are related to thes
 tf a number is the first word of a sentence, however, spell it out.
 The job took 12 workers 30 days.
 Forty-three workers built the bridge.
-- We make an exception for a number that is the first word of a sentence or sentence fragment ina
+- We make an exception for a number that is the first “word” of a sentence or sentence fragment ina
 comments or remarks field in a table. Such a number can appear as a numeral rather than a word.
-See "Numbers in Tables below for an illustration of this exception.
+See "Numbers in Tables” below for an illustration of this exception.
 2. Except for units of measurement, time, and money, spell out numbers less than 10.
 The shipment consisted of three tanks and two armored personnel carriers.
 3. For specific units of measurement, time, and money, use numerals, regardless of
@@ -3162,7 +3162,7 @@ because of the 60 in the same sentence. In         Turning Off Superscripting fo
 the second example, five and two are words         Ordinal Numbers
 because the sentence does not contain a
 number 10 or greater.
-Units of measurement, time. and money
+Units of measurement, time. and money—
 ca
 
 which should appear as numerals        do not      off. To turn it off, follow these steps:
@@ -3172,12 +3172,12 @@ numbers continue to follow rule 4a above.
 > logo, which is in the upper-left corner of all
 In the past I years, only two attacks
 and seven casualties have occurred.
-> 2. Select Proofing in the list at the left side of
-In the past | ( years, 2 attacks and more       the Word Options         drop down box
-than 120 casualties have occurred.      3. Select AutoCorrect Options, near the top of
+> 2. Select “Proofing” in the list at the left side of
+In the past | ( years, 2 attacks and more       the “Word Options”         drop down box
+than 120 casualties have occurred.      3. Select “AutoCorrect Options,” near the top of
 In the past 3 years, 2 attacks and more
-than   120 casualties have occurred.     4, Select the      "AutoFormat tab in the drop-down box.
-In the past 3 years, only two attacks and     5, Deselect "Ordinals (Ist) with superscript and
+than   120 casualties have occurred.     4, Select the      "AutoFormat” tab in the drop-down box.
+In the past 3 years, only two attacks and     5, Deselect "Ordinals (Ist) with superscript” and
 seven casualties have occurred
 
 The | years (a measure of time}, though
@@ -3185,10 +3185,10 @@ The | years (a measure of time}, though
 greater than 10, does not affect the form
 > the drop-down box.
 of the other numbers in either of the first
-> 7. Deselect "Ordinals (Ist} with superscript and
-> click on OK.
+> 7. Deselect "Ordinals (Ist} with superscript” and
+> click on “OK.”
 two sample sentences. In the third sample.
-> 8. Click on OK" in the Word Options box to
+> 8. Click on “OK" in the “Word Options” box to
 the 120 does not affect the 3 years; the
 > clear it from your screen.
 numeral 3 is appropriate simply because it
@@ -3210,7 +3210,7 @@ At one hearing, all 15 local members of the group pressed for a |-week delay to 
 bers from outside the country to arrive.
 
 Ordinals indicate order in a series: Ist. 2nd. 3rd, 4th, etc. The basic rules generally apply to ordinal
-as well as cardinal numbers (1, 2, 3, etc.}except for designators for military units. However, when
+as well as cardinal numbers (1, 2, 3, etc.}—except for designators for military units. However, when
 ordinal and cardinal numbers appear in the same sentence, the basic rules apply to cach type of
 numeral   independently: ordinals do not affect cardinals, and cardinals do not affect ordinals.
 
@@ -3219,10 +3219,10 @@ The third group contained 12 items.
 The 3rd and | 0th groups contained three items each.
 The 3rd and | 0th groups contained 3 and || items, respectively.
 - Ordinal numbers should appear with the nd, rd, st, or th portion on the line, rather than in superscript
-form (22nd" rather than 22"4
+form (“22nd" rather than “22"4
 Military Unit Designators. Except for the exceptions below, present the designators for foreign mili
 tary units using arabic numerals (rather than roman numerals or words) and in ordinal form (for example,
-the | (5th Infantry Division rather than the [15 Infantry Division), Use these presentation forms no
+“the | (5th Infantry Division” rather than “the [15 Infantry Division”), Use these presentation forms no
 matter how the foreign military itself presents the designators. Abbreviating the word portion of unit desig-
 nators is acceptable in tables and graphics when space is a limitation, but write out the words in text.
 323rd Fighter Wing
@@ -3239,14 +3239,14 @@ sample). Within footnotes to a table. however, follow the basic rules for numera
 begin sentences with numerals.
 > Cargo-Handdling
 Wharf Reference
-                                                    Equipnient
+’                                                    Equipnient
 South Pier
 > portal jib crane
 North Pier
 > tainer. 30-meter RO/RO
 > ramp planned.'
 ' Currently the port has ne RO/RO capability. Construction of one ramp here and two at nearby Port Manat will
-open the countrys Pacific coast to RO/RO shipping.
+open the country’s Pacific coast to RO/RO shipping.
 
 If you cannot avoid beginning a sentence with a number, spell it out. That spelled out number, how
 ever, will have no effect on the form (numeral or word) of other numbers in the same sentence; they
@@ -3271,8 +3271,8 @@ political units (urban areas, districts, provinces, states, countries. etc.), fo
 and for enclosed bodies of water (unless the body of water is so srnall. as with a pond, that showing
 square meters is more appropriate)
 Use kilotons and megatons for nuclear weapon yields
-Weights for standard U.S. bombs usually are given in pounds rather than kilogramsfor example.
-5,000 Ib penetrating warhead.
+Weights for standard U.S. bombs usually are given in pounds rather than kilograms—for example.
+5,000 Ib penetrating warhead.”
 Use degrees (rather than radians) for azimuth, beamwidth, inclination. reentry angle, and other angles
 for which degrees customarily have been used.
 For very short distances and very small pressures, use micrometers, not microns.
@@ -3288,15 +3288,15 @@ as when discussing flight activity originally reported in kilometers, when descr
 and other items calibrated in kilometers, when citing data from foreign documents with distances.
 in kilometers, and when reporting estimates originally calculated in metric units. Showing values in
 nautical miles in addition to values in kilometers is not required; however, key characteristics max
-imum range, maximum speed, and othersshould
+imum range, maximum speed, and others—should
 metric units. Altitude capability should be expressed in meters (rather than kilometers)
- Use kilometers for ballistic missiles and
+— Use kilometers for ballistic missiles and
 space related parameters such as range.
 apogee, and perigee.
 Use meters for circular error probable
 (CEP). CEP is a measure of locational accu-
 racy; it represents the radius of a circle into        readers are left with confusing data. For example,
-which half of the projectilesbombs, mis-
+which half of the projectiles—bombs, mis-
 sile warheads. bullets, etc.    are expected
 to impact.
 Use meters per second for velocity and g
@@ -3310,34 +3310,34 @@ customarily would have been used, such as
 > obvious, In such cases, convert all measurements
 for highway and rail travel, landline distances,
 > to metric data or provide both metric and non-
-and roadmap distances between sites. Use
+and “roadmap” distances between sites. Use
 meters for altitude for land-related locations.        metric measurements for the data customarily
 > expressed in nonmetric units.
 - Other nonmetric units still in wide use such as standard atmosphere, millibar, and roentgen
 be used in contexts for which departure from traditional units would impair communication
 Online    Conversion      Tools. Such tools are available for many measurement conversions. On
-the DIA homepage on JWICS, select Resources,
-Calculators and Metric Converter.
+the DIA homepage on JWICS, select “Resources,”
+Calculators” and “Metric Converter.”
 In addition, the appendix provides conversion factors for units of measure commonly used in
 intelligence products.
 
 Use numerals for any number expressing a measurement unless you are stating an indefinite quantity.
 Asa general rule. write out the units of measure in text when presenting nouns, but abbreviate the
-units of measure in the adjective form: for example, a section of road that stretched 5 kilometers,
-but a 5-km section of road. In tables. abbreviations are appropriate for all units of measure because
+units of measure in the adjective form: for example, “a section of road that stretched 5 kilometers,”
+but “a 5-km section of road.” In tables. abbreviations are appropriate for all units of measure because
 of space limitations. Never abbreviate the units with an indefinite quantity. Avoid abbreviating units
-when the result is a single-letter abbreviation ("a 3-meter strearn rather than a 3-m stream)
+when the result is a single-letter abbreviation ("a 3-meter strearn” rather than “a 3-m stream”)
 The missile exploded 500 kilometers downrange.
 The vehicle has an estimated $00-km range without refueling.
 Each aperture is protected by a 2-meter shield
-The platoon advanced several hundred kilometers. [not several 100 kilometers, and not
-several hundred km)
+The platoon advanced several hundred kilometers. [not “several 100 kilometers,” and not
+“several hundred km’)
 
 Use numerals for ages. In many instances, using the terms age or aged is unnecessary {as in the first three
 samples below) because context usually will make clear that the numeral is for an individual's age.
-The general is 60. [or "60 years old. not "60 years of age]
+The general is 60. [or "60 years old.” not "60 years of age]
 The general is in his 60s.
-The general, 60, is retiring soon. [not aged 60�]
+The general, 60, is retiring soon. [not “aged 60�]
 The draft now applies to 17-year-olds.
 
 Use numerals for days and years. In intelligence products, give dates in military format (day month
@@ -3345,9 +3345,9 @@ year order); in official correspondence, use traditional format (month-day-year 
 and month are necessary if the year is obvious from context, Ordinal numbers may be used after the
 month is clearly established. Do not abbreviate the month or year in text, though abbreviating for
 tables may be appropriate because of space limitations.
-India's independence was declared on 15 August 1947. [not 15 Aug 47�]
+India's independence was declared on 15 August 1947. [not “15 Aug 47�]
 All signers had left by the 22nd
-A class of pilots graduated in June 1989, [not June. 1989�]
+A class of pilots graduated in June 1989, [not “June. 1989�]
 For a date in a classified product's classification authority /declassification block, Information Security Oversight
 Office and Department of Defense guidance requires the date to be all in numerals and in YYYYMMDD form.
 
@@ -3372,8 +3372,8 @@ but   Data for any one year will show that the plan was ineffective.
 Also use numerals for fiscal years.
 fiscal year 2010
 FY 2010
-For numerals designating a continuous period of 2 or more years, use an en-dash to mean to and
-including or through. Never use an en-dash to join separate years not representing a continuous
+For numerals designating a continuous period of 2 or more years, use an en-dash to mean “to and
+including” or “through.” Never use an en-dash to join separate years not representing a continuous
 period; to indicate 2 years without indicating a continuous period, use and instead.
 He worked at the embassy during 2004-06
 He worked at the embassy during 2006 and 2007.
@@ -3416,7 +3416,7 @@ able in tables and graphics if space is tight. but normally write out percent in
 tables and graphics, and especially in footnotes to them.
 The plan projects a 5-percent increase by 1990.
 He formed a joint venture that was 59 percent Chinese and 41 British.
-Agricultural products make up 20 to 25 percent of the countrys imports.
+Agricultural products make up 20 to 25 percent of the country’s imports.
 
 For expressions showing the relationship of a larger quantity to a smaller one (often accompanied by
 the word times or its equivalent), follow the basic rules for numbers less than or equal to or greater
@@ -3431,13 +3431,13 @@ Use numerals.
 The pilot-to-aircraft ratio is |.2:1
 He had a 50-50 chance of winning.
 The measure passed with a 50 to        | vote.
-For Basic Encyclopedia (BE) numbers, use BE, a space, and the number. In a table with BE Number
+For Basic Encyclopedia (BE) numbers, use BE, a space, and the number. In a table with “BE Number”
 as a column heading, show only the number in the column (omitting BE).
 BE 0254-08342
 Separate a BE number   from   any associated O-suffix with a slash.
 
 BE 0613DJ0002/DJ003
-If such data will appear in a table, use a column heading of BE Number/O-Suffix.
+If such data will appear in a table, use a column heading of “BE Number/O-Suffix.”
 
 Use hyphens between degrees, minutes, and seconds, and leave a space between latitude and longi-
 tude. Show all three places for degrees for longitude.
@@ -3456,8 +3456,8 @@ Data points are rounded to the nearest | Oth.
 The estimate could be off by a factor of 2 or 3
 
 Use arabic numerals for designators for tables, graphics, footnotes. endnotes, parts of publica
-tions, and so forth. (However, appendixes to publications have letter designators: Appendix A,
-Appendix B. etc.}
+tions, and so forth. (However, appendixes to publications have letter designators: “Appendix A,”
+“Appendix B.” etc.}
 Table |
 Part 4
 
@@ -3474,7 +3474,7 @@ She addressed several thousand people.
 She is famous for eleventh-hour decisions
 He is the number-two man in the regime.
 
-Terms such as nearly, about, around, and approx:         approximately 5,613
+Terms such as nearly, about, around, and approx:         “approximately 5,613
 imately do not by themselves reflect indefinite
 expressions. Normally such terms indicate rounding, but a rounded number remains more definite
 than an indefinite or nonliteral number.
@@ -3485,17 +3485,17 @@ The population is about 240 million,
 More than 12.35 million Americans served in World War Il
 The program calls for funding of $5.2 billion
 
-See page 80 under Years for en dashes with ranges of years, Take particular care in joining range
+See page 80 under “Years” for en dashes with ranges of years, Take particular care in joining range
 numerals (other than years and page references) so readers cannot be confused by the figures
 shown. En-dashes may be used (though not required) in ranges in the millions and multimillions
 but note particularly the placement within money figures in che second sample below,
 The march covered 10 15 kilometers. [or "10 to 15 kilorneters"]
-The program will cost $12 million to $14 million. [or "�1214 million. but not
-$12 to $14 million, which implies "12 dollars to 14 million dollars"]
+The program will cost $12 million to $14 million. [or "�12—14 million.” but not
+“$12 to $14 million,” which implies "12 dollars to 14 million dollars"]
 Gas reserves are estimated at 10-15 billion cubic meters. [or'"10 to 15 billion cubic meters"]
 Do not combine fiom and between with numbers joined by an en dash (use to, through, or and
 instead of the en dash}
-Estimates range from 10 to 30. [not from 10 30�]
+Estimates range from 10 to 30. [not “from 10 30�]
 Bids fell between $10 million and $14 million. [not "between $10 14 million]
 For ranges in temperature, show the degree sign and the type of temperature scale only once if the
 parts of the range appear together, but repeat the sign and scale if other text separates the parts of
@@ -3509,7 +3509,7 @@ rise to near 10 �C (upper 40 �F) in April and reach a high of 20 �C (80 �
 For ranges of inclusive page numbers, show all numbers up to 100 (3-4; 4-12; 54-55). Thereafter,
 reduce the second number of a set to two digits (253 54; 601 09, 1901 02,2614 15) unless the
 hundred or thousand changes (499 501; 2998 3002)
-Use commas to separate numerals in the thousands, millions, and so onexcept for years, military
+Use commas to separate numerals in the thousands, millions, and so on—except for years, military
 unit designators, clock time, most serial numbers, fractional portions of decimal numbers, page num-
 bers, and radiofrequencies in the thousands of kilohertz.
 
@@ -3528,8 +3528,8 @@ Numerical expressions including possession require an apostrophe but not an en-d
 {Do nat be concerned with the argument that inanimate nouns cannot possess things. The form
 being used is the genitive case, which came to be called the possessive case in the        | 8th century, and
 does not involve possession.}
-After 5 years planning, the project was scrapped.
-The new regime bought several million dollars worth of equipment. [but $10 milion
+After 5 years’ planning, the project was scrapped.
+The new regime bought several million dollars’ worth of equipment. [but “$10 milion
 worth of equipment"
 
 Use numerals for numbers requiring a decimal point. For numbers less than 1.0, precede the decimal
@@ -3544,14 +3544,14 @@ they appear only in the singular form: 0.25 cm, 1.25 cm, 10.25 cm
 
 Convert fractions to decimals whenever reasonable. Otherwise, write out fractions, with a hyphen in
 both noun and adjective forms
-0.75 kilometer [preferred over three-quarters of a kilometer]
+0.75 kilometer [preferred over “three-quarters of a kilometer]
 one-half year
 a two-thirds majority; a majority of two-thirds
-first quarter FY 2009 [note no hyphen in first quarcer]
+first quarter FY 2009 [note no hyphen in “first quarcer”]
 Avoid combinations of whole numbers and fractions by converting to decimal quantities
 whenever reasonable
 
-5.5 percent [not "5 1/2 percent]
+5.5 percent [not "5 1/2 percent”]
 Otherwise, spell out phrases in nonstatistical contexts.
 two and a half years ago
 In statistical contexts, use mixes of whole numbers         and fractions (5 1/2, 4 1/4) if converting to
@@ -3566,7 +3566,7 @@ Use hyphens with numerical unit modifiers
 one- to two-story structure
 
 To avoid confusion, avoid placing cardinal numerals side by side
-Twenty-five divisions were identified by 2006. [not "In 2006 25 divisions were identified."]
+Twenty-five divisions were identified by 2006. [not "In 2006 25 divisions were identified."]
 However. when the second number is part of a unit modifier, the hyphen of the unit modifier pre
 vents misreading, so placement of numbers side by side is acceptable:
 14 152-mm guns
@@ -3587,15 +3587,15 @@ Four gallons of milk was all the machine would hold. [Four gallons in this passa
 is singular because it represents a single unit]
 - A number of individual things is plural
 Four gallons of milk were sitting in the dairy case. [The four galfons in this passage are being discussed as
-individual thingsfour |-gallon containers of milkmaking the subject plural.)
+individual things—four |-gallon containers of milk—making the subject plural.)
 Beware of becoming confused by the seemingly plural nature of the unit of measure (gallons in the
-samples above}. Although the measure sounds plural, it designates a unita single thing.
+samples above}. Although the measure sounds plural, it designates a unit—a single thing.
 
 Twenty kilometers of track was all the crew could lay in 8 hours.
 Nearly 2 million barrels of capacity was destroyed in the first attacks.
 Over 2 metric tons of cocaine was seized in the drug raid.
 In each of these sentences, the unit of measure sounds plural (kilometers, barrels, and metric tons) but
-actually indicates the amount of a single thinglength, volume, and mass.
+actually indicates the amount of a single thing—length, volume, and mass.
 
 Do not confuse quantities and numbers as subjects with words that express a portion of a whole
 words such as percent or half (and other fractions). These words can take either a singular or a plural
@@ -3609,7 +3609,7 @@ percentage, some      in Chapter 5
 
 ## CHAPTER 5:
 
-Patricia T. O'Conner, Woe is I: The Grammarphobe's Guide to
+—Patricia T. O'Conner, Woe is I: The Grammarphobe's Guide to
 > Better English in Plain English
 This chapter provides guidance on troublesome words and phrases. Some are frequently confused
 or misused; some are overused and should be replaced with more vigorous expressions; some show
@@ -3622,68 +3622,68 @@ a, an. The choice between @ and an depends on the initial sound of the next word
 whether its initial letter is a vowel or consonant.
 � With words.
 
- Use @ before a word beginning with a consonant sound or an aspirated h
-(such as hill, habitual, historic")
- Use an when the following word begins with a vowel sound or a silent #
-(such as honest,      hour, honor"}.
+— Use @ before a word beginning with a consonant sound or an aspirated h
+(such as “hill,” “habitual,” “historic")
+— Use an when the following word begins with a vowel sound or a silent #
+(such as “honest,”      “hour,” “honor"}.
 - With numerical expressions. When the following expression begins with a numeral, choose between
 a and an on the basis of the pronunciation of the numerical term, applying the rules for words above:
-a 12-year-old ship; an | |-year-old airframe.
+“a 12-year-old ship”; “an | |-year-old airframe.”
 - With abbreviations, including acronyms and letter/number groups. The initial sound test still applies,
- For acronyms pronounced as words (such as "BMEWS, HOT, IMINT, OCONUS"), apply
-the rules for words above: a BMEWS installation, a HOT missile," an IMINT collector, an
+— For acronyms pronounced as words (such as "BMEWS,” “HOT,” “IMINT,” “OCONUS"), apply
+the rules for words above: “a BMEWS installation,” “a HOT missile," “an IMINT collector,” “an
 OCONUS military base
- For acronyms and other letter/number groups (such as S$-25"} for which you pronounce the
+— For acronyms and other letter/number groups (such as “S$-25"} for which you pronounce the
 letters and numbers themselves, apply the following rules
-Use @ when the group begins with bd Bik pq bu % wy or z: a DIA employce.
-a UN worker.
-Use an when the group begins with a, �, fh. i.m.n.a.7,s, or an NSC directive,
-an SS-25 missile, "an Su-34 aircraft.
- When choosing between a and an with an abbreviation, consider the abbreviation itself, not the
+Use @ when the group begins with bd Bik pq bu % wy or z: “a DIA employce.”
+“a UN worker.”
+Use an when the group begins with a, �, fh. i.m.n.a.7,s, or “an NSC directive,”
+“an SS-25 missile,” "an Su-34 aircraft.”
+— When choosing between a and an with an abbreviation, consider the abbreviation itself, not the
 expansion of the abbreviation. For example, for discussion of a fuel-air explosive (FAE) device,
-because we would pronounce the letters of the abbreviation, we would write an FAE device,
-since on is appropriate before an abbreviation beginning with f we would not choose a FAE
-device even though a would be appropriate before fucl.
+because we would pronounce the letters of the abbreviation, we would write “an FAE device,”
+since on is appropriate before an abbreviation beginning with f we would not choose “a FAE
+device” even though a would be appropriate before “fucl.”
 ability, capability, capacity. Regarding people. ability is the power to do something: capacity, like
 aptitude, is the inherent facility to acquire an ability. A person can acquire ability but already must
 possess capacity. For people, capability refers to having the talent or potential for development. For
-things, ability, capacity, and capability are synonymousall referring to having the potential to be used
+things, ability, capacity, and capability are synonymous—all referring to having the potential to be used
 for a particular purpose. Although some people believe only a person (not a thing) can have an abil-
 about, around. In the sense of approximately. use about rather than around. In a sentence such
-as The unit strength is estimated at about 2.500, the writer does not need both estimated and
-about, The sentence can be simplified to The unit strength is about 2,500" or The unit strength is
+as “The unit strength is estimated at about 2.500,” the writer does not need both estimated and
+about, The sentence can be simplified to “The unit strength is about 2,500" or “The unit strength is
 estimated at 2.500"; the first choice usually is preferable because the second is in passive voice, but
 the second choice is preferable if the writer is conveying that the number is an estimate rather than
-a generally accepted fact. Do not use any word for approximation with an exact number: about
-5,600 but not about 5.613." For about, sce also as to and approximately, about, roughly, some.
-above, below. Above is accepted as meaning previously mentioned and below as mentioned later.
+a generally accepted fact. Do not use any word for approximation with an exact number: “about
+5,600” but not “about 5.613." For about, sce also as to and approximately, about, roughly, some.
+above, below. Above is accepted as meaning “previously mentioned” and below as “mentioned later.”
 Use of either term to refer to text elsewhere in a document should be infrequent (overuse sounds
-logalistic), and the references should be clear ("the description above of command bunkers rather
-than the description above") so readers cannot be in doubt about what is being addressed.
+logalistic), and the references should be clear ("the description above of command bunkers” rather
+than “the description above") so readers cannot be in doubt about what is being addressed.
 preferable to the legalistic abovementioned or aforementioned.
 absolute. Because the term shows a perfect, complete, unrestricted state, most modifiers and
-comparisons are illogical: very absolute, too absolute, "more absolute. However, nearly is an
-acceptable modifier (nearly absolute acceptance). Also see very.
+comparisons are illogical: “very absolute,” “too absolute,” "more absolute.” However, nearly is an
+acceptable modifier (“nearly absolute acceptance”). Also see very.
 access, assess. Access, as a noun, is a means of approaching, entering or exiting, or communicating; the abil-
 ity to do one of these: or the act of doing such a thing. As a verb, especially in relation to computers, to access
 is to obtain entry, Assess is a verb dealing with determining value (as for taxation), setting the amount for tax-
 ation or special payment, or actually charging such a payment. For sports, to assess is to charge with a penalty.
-Finallyand most important for intelligence writingto assess is to determine the value or significance of
-something: We assess that changes in the Army's force structure will result in a more mobile force.
+Finally—and most important for intelligence writing—to assess is to determine the value or significance of
+something: “We assess that changes in the Army's force structure will result in a more mobile force.”
 accidental, fortuitous, contingent,
 shades of meaning: Accidental carries the idea of chance. Fortuitous strengthens the sense of chance; it
 can suggest luck or good fortune, but it does not lose the associated sense that the good fortune was
-unplanned. (Saying The president's choice of Stein for prime minister was fortuitous, then, implies that
-the president's choice came from dumb luck, not brilliant insight.) Contingent, in its sense of accidental,
+unplanned. (Saying “The president's choice of Stein for prime minister was fortuitous,” then, implies that
+the president's choice came from dumb luck, not brilliant insight.) Contingent, in its sense of “accidental,”
 suggests something that may happen but that is uncertain because causal factors, including chance, are
 unknown. Incidental suggests an association that may or may not be accidental. Opportune suggests an ele-
 ment of chance mixed with timeliness: being in the right place at the right time.
 actual, real, virtual. Actual emphasizes fact as it is or has become at the moment, whereas real
-emphasizes fact as it always has been or has been for a long time. Virtual means having the effect but
-not the form" (as with a virtual leader when an actual leader oxists)
+emphasizes fact as it always has been or has been for a long time. Virtual means “having the effect but
+not the form" (as with a “virtual leader” when an actual leader oxists)
 adapt, adopt. Adapt is to adjust oneself or something to a new or changed situation. Adopt is to
 accept or choose a new course of action.
-adit, entrance, entryway, entranceway, portal. An entrunce is an opening allowing entry. An entry
+adit, entrance, entryway, entranceway, portal. An entrunce is an’ opening allowing entry. An entry
 way is a passage serving as an entrance; this term is preferable to entranceway. In general English, a portal is
 a two-dimensional entrance or doorway; an adit is an entryway, mostly horizontal, leading into a mine or
 other underground facility. For intelligence writing related to hardened structures and underground facil-
@@ -3692,60 +3692,60 @@ and Infrastructure Office's Lexicon of Hardened Structure Definitions and Terms,
 intel/wace     widescird IIA    13   1   10   170   REL   IO   FYE earls,
 
 adjacent, contiguous, colocated. In a general scnse, adjacent and contiguous arc interchangeable.
-However, adjacent means "close to or lying near: contiguous means touching or "sharing an edge
-or boundary. Colocated means placed together": it is appropriate for two organizations that share a
-building, facility, or complex, as in the headquarters of the 32nd Battalion and the 48th Battalion are
+However, adjacent means "close to” or “lying near”: contiguous means “touching” or "sharing an edge
+or boundary.” Colocated means “placed together": it is appropriate for two organizations that share a
+building, facility, or complex, as in “the headquarters of the 32nd Battalion and the 48th Battalion are
 colocated at Steinmark Barracks."
-advance, advanced. As an adjective, advance emphasizes precedence in position or time (advance party,
-advance payment): advanced implies having a position forward of or superiorto a norm (advanced think
-ing.   advanced training). In advance planning, advance is redundant and should be deleted.
-adverse, averse. Both adjectives mean opposed, but their points of view differ: something
+advance, advanced. As an adjective, advance emphasizes precedence in position or time (“advance party,”
+“advance payment”): advanced implies having a position forward of or superiorto a norm (“advanced think
+ing.”   “advanced training’). In “advance planning,” advance is redundant and should be deleted.
+adverse, averse. Both adjectives mean “opposed,” but their points of view differ: something
 adverse is opposed or hostile to a subject's will or interests ("The prime minister has been subjected
-to adverse criticism"); averse is opposition or reluctance on the subject's part (The prime minister is
+to adverse criticism"); averse is opposition or reluctance on the subject's part (“The prime minister is
 averse to believing his critics").
-affect, effect. Except in psychology. affect is always a verb and usually means to influence, to
-cause a response. or to cause a change" ina person or thing, As a verb, effect means to bring
-about or accomplish or to cause to occur.
+affect, effect. Except in psychology. affect is always a verb and usually means “to influence,” “to
+cause a response.” or “to cause a change" ina person or thing, As a verb, effect means “to bring
+about or accomplish” or “to cause to occur.”
 The government's policy change will affect worker productivity. [The change will influence the workers in
 a way that will change their productivity,]
 The government's policy change is a means to effect increased worker productivity. [The change is a
 means to bring about increased productivity]
 Effect as a noun refers to a result or consequence
-Increased productivity was one effect of the government's policy change.
+“Increased productivity was one effect of the government's policy change.”
 afterward, afterwards. Afterward is preferred
-all, all of. Except when a personal pronoun follows, of usually is unnecessary: The change affected all the
-production facilities rather than ...   all of the production facilities. Beware of sentences that say all of
-something did not do something, as such sentences are ambiguous. For example, in All the regiments did not
-move forward, does the writer mean that none of the regiments moved forward or that only some did?
+all, all of. Except when a personal pronoun follows, of usually is unnecessary: “The change affected all the
+production facilities” rather than “...   all of the production facilities.” Beware of sentences that say “all of
+something did not do something,” as such sentences are ambiguous. For example, in “All the regiments did not
+move forward,” does the writer mean that none of the regiments moved forward or that only some did?
 all, any, half {and other fractions), more, most, none, part, percent, percentage, some. Each
 of these words can take cither a singular or a plural verb, depending on the sense of the rest of the sentence
 {or of surrounding sentences). Frequently that sense includes either quantity or number. A reference with a
-quantity of something requires a singular verb: Some of the water was leaking. A reference with a number
-of things requires a plural verb: Some of the plants are poisonous. In other cases (particularly with any and
+quantity of something requires a singular verb: “Some of the water was leaking.” A reference with a number
+of things requires a plural verb: “Some of the plants are poisonous.” In other cases (particularly with any and
 none) the verb determination depends on whether the writer has in mind one person or thing (requiring a
-singular verb) or two or more (requiring a plural verb): None of the protesters was willing to risk arrest (not
-one was willing). "None of the protesters were willing to risk arrest (not any were willing).
-allegedly, reportedly, reputedly. The three mean supposedly, but they have slightly different
-shades of meaning: Allegedly carries the sense of claimed or charged but not proved, Reportedly
-implies that the information has been reported formally. Reputedly means generally considered or
-estimated but not necessarily claimed openly. Sce also qualifiers.
+singular verb) or two or more (requiring a plural verb): “None of the protesters was willing to risk arrest” (not
+one was willing). "None of the protesters were willing to risk arrest” (not any were willing).
+allegedly, reportedly, reputedly. The three mean “supposedly,” but they have slightly different
+shades of meaning: Allegedly carries the sense of “claimed or charged but not proved,” Reportedly
+implies that the information has been reported formally. Reputedly means “generally considered or
+estimated but not necessarily claimed openly.” Sce also qualifiers.
 all ready, already. All ready means that everyone or everything is ready; already means
-before or previously.
+“before” or “previously.”
 all right, alright. Aif right is the correct term; alright is substandard
-all together, altogether. Ali together means collectively or in unison. Altogether means entirely,
-completely. Note: When         all together is appropriate. the words in the sentence can be rearranged so
-that all and together are separated by other words: The workers arrived all together can be changed
-to All the workers arrived together.
+all together, altogether. Ali together means “collectively” or “in unison.” Altogether means “entirely,
+completely.” Note: When         all together is appropriate. the words in the sentence can be rearranged so
+that all and together are separated by other words: “The workers arrived all together” can be changed
+to “All the workers arrived together.”
 almost. See most, mosily and only,
 alongside, alongside of. Alongside is adequate without of.
 along with. This phrase (and others such as as well as, in addition to, like, and together with) frequently
 follows immediately after a subject of a sentence. The prepositional phrase and its object(s) do not
-affect whether the verb in the sentence is singular or plural. For example. in The governor, along
-with members of his staff, is traveling to the coast, the verb is singular (is) because the subject
+affect whether the verb in the sentence is singular or plural. For example. in “The governor, along
+with members of his staff, is traveling to the coast,” the verb is singular (is) because the subject
 (governor) is singular and the prepositional phrase along with members of his stoffhas no impact on
 whether the subject and verb are singular or plural. If, however, a writer were to state that same idea
-like this      The governor, and members of his staff, are traveling to the coast"         the verb must be
-plural (are) because the subject is plural (the governor and members of his staff); the presence of commas
+like this      “The governor, and members of his staff, are traveling to the coast"         the verb must be
+plural (are) because the subject is plural (the governor and members of his staff); the presence of commas
 around and members of his staffdoes not keep the subject from being compound and therefore plural
 (Moreover, the commas should be removed.)
 alot, alot. Use a Jot, as alot is not a word
@@ -3756,91 +3756,91 @@ of action or choices. Although traditionalists would limit alternatives to only 
 connection with multiple choices is acceptable.
 
 although, though, even though, while. Although, though, and even though are often interchangeable
-for the sense of in spite of the fact that. Although is more formal than though as a conjunction. but theugh
-can also serve as an adverb, as in They raised objections, though. Even though emphasizes the sense of in
-spite of or regardless. While has become a common substitute for although in informal usage; however,
-in this sense while means at the same time that,
+for the sense of “in spite of the fact that.” Although is more formal than though as a conjunction. but theugh
+can also serve as an adverb, as in “They raised objections, though.” Even though emphasizes the sense of “in
+spite of” or “regardless.” While has become a common substitute for although in informal usage; however,
+in this sense while means “at the same time that,”
 and in writing it should be reserved for sentences
 requiring a sense of time.
 altitude, elevation. Use altitude in relation
-> involved   for example, an agreement between
-to something in the airfor example, The
-> France and the United Kingdom. Numerous
+> involved   for example, “an agreement between
+to something in the air—for example, “The
+> France and the United Kingdom.” Numerous
 missile was ineffective at altitudes below 5,000
 > writers have insisted that among always should be
-meters. Elevation is in relation to the ground
+meters.” Elevation is in relation to the ground
 > used when more than two entities are involved,
-or sea level      for example, The facility is at an     but current English usage and modern dictionaries
-elevation of 75 meters.
+or sea level      for example, “The facility is at an     but current English usage and modern dictionaries
+elevation of 75 meters.”
 amid, amidst, among, amongst. Amid and
 among are preferred.
 > the writer is discussing separate entities acting
 among, between. [See tone box.]
 amount, number. Use amount with things
-involving weight, bul, or sumsthings measured
+involving weight, bul, or sums—things measured
 with a total; use number with things that must be
-counted individually: the amount of water in the
-> Conflicts among the four nations allows for
+counted individually: “the amount of water in the
+> “Conflicts among the four nations” allows for
 > coalitions, including the possibility of the coali
-mixture, the amount of the gross national prod-
+mixture,” “the amount of the gross national prod-
 > tions changing over time.
-uct, "the number of gantry cranes in the port
+uct,” "the number of gantry cranes in the port”
 ample, enaugh. Although these commonly
 are interchanged, ample carries a second meaning
-of abundant, more than enough. Therefore,
+of “abundant, more than enough.” Therefore,
 
-phrases such as more than ample, barely
-> compound, portal |, and portal 3. the rockers
-ample. or scarcely ample are nonsensical.
+phrases such as “more than ample,” “barely
+> compound, portal |, and portal 3.” the rockers
+ample.” or “scarcely ample” are nonsensical.
 an. Scc a, an.
 > have struck them.
 and/or. This combination with the slash refers to
 > If named points or entities define the extent
-one or the other or both. Avoid its use, especially
-> of an area, use between, as in the rockets
+one or the other or both. Avoid its use, especially
+> of an area, use between, as in “the rockets
 with more than two alternatives.
 any. Sec alt, any, half (and other fractions), more,        the compound and portals | and 3."
-most, none, part, percent, percentage, some.
-anyone, anybody. Each of these usually is written as one word (except in the sense of any one of
-a group). They take singular verbs and singular pronoun references. If you have trouble remember-
-ing that these words are singular, try thinking of them as any-single-one and any-single-body.
-apparent, evident. These words share a sense of obvious or open to view but differ slightly:
+most, none, part, percent, percentage, some.
+anyone, anybody. Each of these usually is written as one word (except in the sense of “any one of
+a group”). They take singular verbs and singular pronoun references. If you have trouble remember-
+ing that these words are singular, try thinking of them as “any-single-one” and “any-single-body.”
+apparent, evident. These words share a sense of “obvious” or “open to view” but differ slightly:
 apparent suggests use of reasoning; evident suggests a basis of facts or external signs. Apparent also
-means sceming but not necessarily true. Before a noun that meaning is clear (her apparent
-concern); however, after a form of to be, apparent can mean either obvious or seeming, so the
+means “sceming but not necessarily true.” Before a noun that meaning is clear (“her apparent
+concern”); however, after a form of to be, apparent can mean either “obvious” or “seeming,” so the
 context needs to be worded to make the meaning clear.
 
 apparently. See qualifiers.
 approximately, about, roughly, some. Do not use any word of approximation with an exact
-number: approximately 5,600 but not approximately 5,613." See also about, around,
+number: “approximately 5,600” but not “approximately 5,613." See also about, around,
 apt, liable. Although these words are interchanged in informal usage, their meanings remain distinct.
-Reserve apt for instances in which the subject has a natural tendency: He is apt to settle the issue
-without consultation. In this sense, fiable means susceptible and suggests a probability for something
-unwanted or burdensome: Ternperatures are liable to drop below freezing in higher elevations.
+Reserve apt for instances in which the subject has a natural tendency: “He is apt to settle the issue
+without consultation.” In this sense, fiable means “susceptible” and suggests a probability for something
+unwanted or burdensome: “Ternperatures are liable to drop below freezing in higher elevations.”
 
 arch-, arched-. Arch- can be used with shaped in a unit modifier:
-Modifiers in names of structural components use orched- (arched roof segments"), whereas the
-name of the completed structure uses arch- (an arch-roofed
+Modifiers in names of structural components use orched- (“arched roof segments"), whereas the
+name of the completed structure uses arch- (“an arch-roofed
 
 around.    See about, around.
 
 as, because, for, since. Because is the strongest of these conjunctions expressing cause or reason:
 since, the next most strong:     and as, the weakest.   Use caution with since, which may be read as mean-
-ing from a specific time. As works best with a dependent clause that ends a sentence; a comma
+ing “from a specific time.” As works best with a dependent clause that ends a sentence; a comma
 precedes it when @s appears as a conjunction showing a causal relationship. For, a coordinating con-
 junction, shows a causal relationship between independent clauses.
-as if, as though, like. Both as if and as though are acceptable as conjunctions (for example, The exterior
-of the building looked as if it had been raked by gunfire). Either is preferable to lke for introducing a clause.
+as if, as though, like. Both as if and as though are acceptable as conjunctions (for example, “The exterior
+of the building looked as if it had been raked by gunfire’). Either is preferable to lke for introducing a clause.
 as per, as regards. Replace these with according to, concerning, or about.
 assess. See access, assess,
-as such. As such requires an antecedent. as in Applicants will not be treated as U.S. persons unless
-identified as such [idenufied as US. persons]. Avoid using as such to mean therefore; don't write "As
-such, we expect a dropoff in applicants.
+as such. As such requires an antecedent. as in “Applicants will not be treated as U.S. persons unless
+identified as such” [idenufied as US. persons]. Avoid using as such to mean “therefore”; don't write "As
+such, we expect a dropoff in applicants.”
 assure, ensure, insure. Similar in the sense of making certain, these words require different usages. Assure
 refers to a person   setting that person's mind at ease by making him or her certain of something. Use ensure
 for the sense of making a thing certain. Reserve insure for guaranteeing life or property from risk.
-as to. This phrase should be replaced or deleted.        In a sentence such as She was uncertain as to the
-proper answer, replace as to with about. In expressions such as as to whether, as to where, or as to which,
+as to. This phrase should be replaced or deleted.        In a sentence such as “She was uncertain as to the
+proper answer,” replace as to with about. In expressions such as as to whether, as to where, or as to which,
 the as to is unnecessary.
 as well as. See along with.
 attributive nouns. See nouns as adjectives.
@@ -3849,57 +3849,57 @@ made it synonymous with an arithmetic mean (the result of dividing the sum of a 
 number of figures). Mean is a more precise term when you actually want to refer to a mathernatical result,
 but averoge is acceptable for general usage. A median is the middle figure in an arithmetically arranged list of
 figures; half the numbers are less than the median, and half are greater than the median.    Each of the three
-terms refers to a single figure, so a sentence such as The tide averages between 2 and 4 meters should be
-replaced by The tide averages 3 meters or The mean tide is 3 meters.
+terms refers to a single figure, so a sentence such as “The tide averages between 2 and 4 meters” should be
+replaced by “The tide averages 3 meters” or “The mean tide is 3 meters.”
 
 averse. See adverse, averse.
 
-awhile, a while. Awhile is an adverb meaning for a time; while is a noun meaning a period of
-time. Both imply a short time. For is a part of the sense of awhile and should not be used with it
-Thus, stay for a while is correct, but stay for awhile should be stay awhile.
+awhile, a while. Awhile is an adverb meaning “for a time”; while is a noun meaning “a period of
+time.” Both imply a short time. For is a part of the sense of awhile and should not be used with it
+Thus, “stay for a while” is correct, but “stay for awhile” should be “stay awhile.”
 
 back of, in back of, behind. Use behind in place of back ofand in back of.
 bad, badly. Bad (the adjective) is correct after linking verbs such as feel and look
 because. See os, because, for, since
-because (reason is). In "The reason is because ..., replace because with that when the following
+because (reason is). In "The reason is because ...,” replace because with that when the following
 material is a clause.
 begin, commence, start, initiate. Begin, commence, and start usually are interchangeable: in
 general senses, commence is less desirable than either of the other two because it is more formal
-However, commence has a stronger sense of initiativeof some person or force initiating an action.
+However, commence has a stronger sense of initiative—of some person or force initiating an action.
 Start is particularly appropriate when action must begin following a period of inactivity. Jnitiate refers
 to taking the first steps in a process and does not refer to what follows
-believe. Avoid using "DIA believes. Assessing or judging requires weighing the data: believing does
+believe. Avoid using "DIA believes.” Assessing or judging requires weighing the data: believing does
 not. By contrast, believe can be appropriate when describing what the subject of DIA analysis thinks about
-something: The defense minister probably believes that the arms purchase will strengthen the military.
+something: “The defense minister probably believes that the arms purchase will strengthen the military.”
 below. See above, below.
 
-beside, besides. Use besides for the senses of except for and in addition to: No vehicles were
-present besides one staff car outside the headquarters building. Besides the commander, the chief
-of staff also attended. Beside means at the side of. Thus, No one entered the room beside me
-and No onc entered the room besides me state different things.
+beside, besides. Use besides for the senses of “except for” and “in addition to”: “No vehicles were
+present besides one staff car outside the headquarters building.” “Besides the commander, the chief
+of staff also attended.” Beside means “at the side of.” Thus, “No one entered the room beside me”
+and “No onc entered the room besides me” state different things.
 between. Sec among, between.
 biannual, biennial,        bimonthly, biweekly. In standard usage, biannual means "happening twice
-each year or semiannual, whereas biennial means happening every second year or lasting for
-2 years. However, both biannual and biennial have secondary meanings that can greatly confuse the
-timeframe.   Bimanthly means once in 2 months,       and biweekly means once in 2 weeks.     Because of
-the possibility for confusion, writing occurring every other year,       occurring twice a year. every 2
-weeks, twice a week. and so on. is safer.
-blatant, flagrant. Blatant means "unpleasantly noisy" or offensively conspicuous stressing offen
+each year” or “semiannual,” whereas biennial means “happening every second year” or “lasting for
+2 years.” However, both biannual and biennial have secondary meanings that can greatly confuse the
+timeframe.   Bimanthly means “once in 2 months,”       and biweekly means “once in 2 weeks.”     Because of
+the possibility for confusion, writing “occurring every other year,”       “occurring twice a year.” “every 2
+weeks,” “twice a week.” and so on. is safer.
+blatant, flagrant. Blatant means "unpleasantly noisy" or “offensively conspicuous” stressing offen
 siveness and noisiness. Flagrant emphasizes wrongdoing or evil intent. Thus, the difference between a
-blatant act and a flagrant act is the degree of intent,
+“blatant act” and a “flagrant act” is the degree of intent,
 blond, blonde, brunet, brunette. Blond and brunet should be used with either gender: avoid blonde
 and brunette.
 boat, ship. A ship is large and travels the sea lanes. A boat is relatively small, stays mostly in shallow
 or sheltered waters, and can be carried on a ship. Boat also is acceptable in reference to a submarine.
 border. When identifying the border between two countries, use the noun rather than the adjective
-form of the countries names: Libyo-Tunisia border instead of Libyan-Tunisian border.
+form of the countries’ names: Libyo-Tunisia border instead of Libyan-Tunisian border.
 
 born, borne. Both of these words are correct spellings for the past participle of the verb bear. However,
-born is used only as a passive construction in relation to birth: She was born in the former Soviet Union.
-Borne is used for the active voice in relation to birth (She had borne three children before entering poli-
-tics.), as well as for all other senses of to bear ("a vehicle-borne improvised explosive device).
-both. In sentences such as Both sides have reached agreement on the plan, both is redundant; use
-The two sides have reached agreement
+born is used only as a passive construction in relation to birth: “She was born in the former Soviet Union.”
+Borne is used for the active voice in relation to birth (“She had borne three children before entering poli-
+tics.), as well as for all other senses of to bear ("a vehicle-borne improvised explosive device”).
+both. In sentences such as “Both sides have reached agreement on the plan,” both is redundant; use
+“The two sides have reached agreement
 
 boycott, embargo. A boycott is a refusal to buy or use a product or service. An embargo, a legal
 restriction on trade, can apply to cither buying or selling.
@@ -3908,12 +3908,12 @@ cadre, cohort. A cadre is a core of trained personnel around which a larger unit
 member of such a group. A cohort can be a united band or group, or it can be a companion or associ-
 ate. Current usage no longer restricts these terms to just groups rather than individuals.
 capability, capacity. See ability, capability, capacity.
-capital, capitol. Capitol, a noun, has only one meaningthe building in which a legislature meets. As a
+capital, capitol. Capitol, a noun, has only one meaning—the building in which a legislature meets. As a
 naun, capital has to do with wealth or resources, an uppercase letter, or a town or city that is the seat of
 government; the latter meaning, of course, is the one that generates confusion with capitol.
-capital standing for nation. |n intelligence writing we commonly substitute the name of a nations
+capital standing for nation. |n intelligence writing we commonly substitute the name of a nation’s
 capital for the name of the nation and use either to represent the national government. For example,
-we might write either The United Kingdom anticipates withdrawing... or London anticipates
+we might write either “The United Kingdom anticipates withdrawing...” or “London anticipates
 withdrawing, ..."
 - Anotable exception is Israel. Avoid using either Tel Aviv or Jerusalem to represent Israel
 casualty. A casualty could be injured, captured, missing in action, or killed
@@ -3924,17 +3924,17 @@ cement and the water.
 censor, censure. To censor is to examine and remove objectionable material. To censure is to find
 fault or condemn.
 
-center around. Because it is a point, center can be paired with on, upon, in, or etbut not with around.
-certain, some. Certain means fixed or definite. In some instances it equates more generally to
-some. Problems come with the general sense in an expression such as modifications of certain
-procedures. This statement begs for an explanation of just what procedures are to be modified
+center around. Because it is a point, center can be paired with on, upon, in, or et—but not with around.
+certain, some. Certain means “fixed” or “definite.” In some instances it equates more generally to
+“some.” Problems come with the general sense in an expression such as “modifications of certain
+procedures.” This statement begs for an explanation of just what procedures are to be modified
 Replacing certain with some reduces the strength of the expression but does not totally eliminate the
 need for further explanation, If you do not intend to define which procedures are to be modified,
 omitting the adjective may be a better choice.
 China, Chinese, Taiwan, Taiwanese. China and Chinese refer to the mainland country and its people.
 The offshore island is Taiwan; its adjective form also is Taiwan, Chinese is the noun and adjective for people on
 Taiwan in general; Taiwanese refers only to the indigenous inhabitants of the island. To distinguish the people
-on Taiwan from those on the mainland, usc people on Taiwan,       from Taiwan, or of Taiwan.
+on Taiwan from those on the mainland, usc people “on Taiwan,”       “from Taiwan,” or “of Taiwan.”
 cite, sight, site. These words sometimes are confused because they are homonyms. Cite, a verb.
 has several meanings:       to quote or mention as an authority or example; to officially praise or formally
 honor, especially for military merit; or to summon before a court. Sight, a noun or verb, has to do
@@ -3953,26 +3953,26 @@ The committee has decided to recommend banning chemical weapons. [The committee'
 is a collective action]
 The committee have returned to their offices. [Each member must act separately in such a situation.]
 The second construction sounds awkward to many ears, though, so a better choice may be to insert
-a plural noun, as in The committee members have returned to their offices. Be particularly careful
+a plural noun, as in “The committee members have returned to their offices.” Be particularly careful
 to ensure that the verb connected to a collective noun and any pronoun reference to the same col
 lective noun are either both singular or both plural  as with have and their in the second example.
 colocated. See adjacent, contiguous, colecated.
 combined, joint. In reference to military exercises, a combined exercise involves forces from more
 than one country; a joint exercise involves forces from two or more services of the same country.
 commence. See
-singular and the plural forms arc acceptable as modifiers: "the cornmunication system, the cornmu-
-nications system. The singular forms (communication and tclecommunication) are preferable for most
-uses, especially when the next word in a sentence begins with s (tclecommunication system). Either
+singular and the plural forms arc acceptable as modifiers: "the cornmunication system,” “the cornmu-
+nications system.” The singular forms (communication and tclecommunication) are preferable for most
+uses, especially when the next word in a sentence begins with s (“tclecommunication system”). Either
 form is preferable to communicational.
 comparatively, relatively. Use these mod-
 ifiers only when the comparison they refer to is
 > Compose, Comprise, Constitute, Include
-clear. In There was relatively little debate about
-> Comprise means to consist of " or to contain
-the president's proposal, what does relatively
+clear. In “There was relatively little debate about
+> Comprise means “to consist of " or “to contain”—
+the president's proposal,” what does relatively
 > the whole comprises the parts. Compose means
 little really mean?
-> co constitute or make up"the parts compose
+> “co constitute or make up"—the parts compose
 compare, contrast. Compare to points out
 similarities between inherently dissirnilar things;
 compare with points out both similarities and
@@ -3991,49 +3991,49 @@ concept, conception. A concept is a general idea or understanding. whereas a con
 particular mental    picture or understanding of a concept.
 
 candition. Authors frequently use condition in connection with another descriptive term when the other
-term, ora form of it, can stand by itself, For example, use "The building was damaged rather than "The
-building was in a damaged condition and "He was weak rather than He was in a weakened condition.
+term, ora form of it, can stand by itself, For example, use "The building was damaged” rather than "The
+building was in a damaged condition” and "He was weak” rather than “He was in a weakened condition.”
 
 conduct. Writers overuse conduct by combining it with a noun to describe an action when the verb
-equivalent of the noun will work on its own. For example, change officials conducted an inspection
-of the facility to officials inspected the facility.
+equivalent of the noun will work on its own. For example, change “officials conducted an inspection
+of the facility” to “officials inspected the facility.”
 consensus. This is opinion held collectively or generally, not simply by a majority. In consensus of
 opinion, delete of pinion.
 consequence, effect, implication. A consequence is the result of an event that has occurred, but
 the term implies only a weak causal relationship. An effect results from a causative act or agent. An
-implication is a possible future effect or result and is preferable to potential consequence.
+implication is a possible future effect or result and is preferable to “potential consequence.”
 constitute. See compose, comprise, constitute, include.
-contact. Use of contact as a noun equating to source is acceptable in intelligence writing (for
-example, His contact was a member of the resistance group")
+contact. Use of contact as a noun equating to “source” is acceptable in intelligence writing (for
+example, “His contact was a member of the resistance group")
 contiguous. See adjacent, contiguous, colocated.
 contingent. See accidental, fortuitous, contingent, incidental, opportune.
 continual, continuous, continued, ongoing. Continual refers ta something that occurs intermittently
-or repeats at intervals: Arguments over procedures were continual. Continuous refers to something that
-occurs without interruption in space or time: Rainfall during the day was continuous. Something continued
+or repeats at intervals: “Arguments over procedures were continual.” Continuous refers to something that
+occurs without interruption in space or time: “Rainfall during the day was continuous.” Something continued
 has remained in the same state (persisted). has existed for a long time (lasted), or has begun again after an
 interruption (resumed). Something ongoing is occurring at the moment _ in progress or evolving
-continues, remains. Writers overuse these two terms. A sentence such as Drug trafficking con
-tinues to provide most funds for the insurgents can be stated more directly with Drug trafficking
-provides most funds for the insurgents because the present tense verb (provides) establishes that
-the activity is continuing. Similarly, a sentence such as The insurgency remains concentrated in the
-south can be stated simply as The insurgency is concentrated in the south.
+continues, remains. Writers overuse these two terms. A sentence such as “Drug trafficking con
+tinues to provide most funds for the insurgents” can be stated more directly with “Drug trafficking
+provides most funds for the insurgents” because the present tense verb (provides) establishes that
+the activity is continuing. Similarly, a sentence such as “The insurgency remains concentrated in the
+south” can be stated simply as “The insurgency is concentrated in the south.”
 convince, persuade. Though related, these words differ in application: we convince someone of the
 truth of a statement but persuade the person to act in a particular way.
 could, may, might. These are low-canfidence assessment terms and should be used with care in
-intelligence writing. Limit could to discussions of capability: The missile could be targeted against the city
-(the city is within the missiles range). Use may or might for judgments or predictions; The missile may be
-targeted against the city (possibly the enemy intends to employ the missile for that purpose). Might tradi-
-tionally expresses a stronger sense of doubt than may or a contrary to fact hypothetical: The city might
-have been targeted if the rebels had captured more missiles. All three terms include the idea of possibility
+intelligence writing. Limit could to discussions of capability: “The missile could be targeted against the city”
+(the city is within the missile’s range). Use may or might for judgments or predictions; “The missile may be
+targeted against the city” (possibly the enemy intends to employ the missile for that purpose). Might tradi-
+tionally expresses a stronger sense of doubt than may or a contrary to fact hypothetical: “The city might
+have been targeted if the rebels had captured more missiles.” All three terms include the idea of possibility
 and should not be accompanied by modifiers such as possibly or conceivably.
 council, counsel. Counci, a noun, refers to a deliberative assembly, its work. or its members.
 Counsel, either a noun or a verb, refers to advice and the person(s) giving it.
 country names. Except when making a point about the full formal name of a nation, use the
-common       English name for a country rather than its forrnal namewhat
-conventional short form name rather than the         enventional long form name. For example, use
-Bulgaria rather than Republic of Bulgaria, Chino rather than Peoples Republic of China, South Korea rather
+common       English name for a country rather than its forrnal name—what
+“conventional short form” name rather than the ”        enventional long form” name. For example, use
+Bulgaria rather than Republic of Bulgaria, Chino rather than People’s Republic of China, South Korea rather
 than Republic of Korea: North Korea rather than
-Democratic Peoples Republic of Korea; and so on.
+Democratic People’s Republic of Korea; and so on.
 (See also capital standing for nation and China,             Data
 Chinese, Taiwan, Taiwanese.)
 > can be used only in the plural (because data is the
@@ -4041,26 +4041,26 @@ country, nation. Both are neuter and
 require gender-neutral pronouns (for exam-
 ple, it or its)
 credible, creditable. Credible means
-believable or plausible. Creditable means
+“believable” or “plausible.” Creditable means
 > noun still occurs, particularly in scientific or technical
-deserving credit or praise.
+“deserving credit or praise.”
 cl    is. Reserve crisis for actual or potential
 international conflict, not for minor national
 or international disruptions. A governmental crisis is the period between the fall of a parliamentary
 government and the election of a new one.
 current, currently. Analysts frequently include these terms when they do not need them. For
-example, in current status, current is superfluous, since readers will expect to learn about the
+example, in “current status,” current is superfluous, since readers will expect to learn about the
 current state unless the writer establishes a different timeframe. If the context of a passage indicates
-that an activity is ongoing, awrently is superfluous. In A pilot project currently is testing the system,
+that an activity is ongoing, awrently is superfluous. In “A pilot project currently is testing the system,”
 is testing indicates that the pilot project is ongoing, so currentlyis unnecessary and should be deleted
 dangling modi
 data. [See tone box.]
 
-dates as modifiers. Be careful in using dates as modifiers. The 1973 Middle East War is acceptable
-because it distinguishes a particular war in the region from others in other years. However, his 1988
-death implics that he has died more than once  an absurdity.
-definite, definitive. Although both mean clearly defined, definitive carries the additional meaning of
-authoritative and complete.
+dates as modifiers. Be careful in using dates as modifiers. “The 1973 Middle East War” is acceptable
+because it distinguishes a particular war in the region from others in other years. However, “his 1988
+death” implics that he has died more than once — an absurdity.
+definite, definitive. Although both mean “clearly defined,” definitive carries the additional meaning of
+“authoritative and complete.”
 
 defuse, diffuse. To defuse is to remove the fuze from an explosive device or to reduce tension.
 hostility, or danger. To diffuse is to spread around or scatter.
@@ -4074,7 +4074,7 @@ a machine to perform a task. Except in its unique senses in law related to prope
 meaning to plan or arrange.
 different from, Use this rather than different than or different to.
 dilemma. This applies to a choice between evenly balanced alternatives (normally all are unat
-tractive). Do not use dilemma when you mean merely a predicament or a problem.
+tractive). Do not use dilemma when you mean merely a “predicament” or a “problem.”
 directional terms. See east, eastern (and similar directional terms).
 
 disburse, disperse. To disburse is to pay out. as from a fund. To disperse is to scatter or spread
@@ -4083,33 +4083,33 @@ disclose, divulge, expose, reveal. Disclose refers to making public something th
 vate. Divulge refers to making public something that has been secret. Expose refers to making public
 something reprehensible. Reveal implies unveiling something not previously known
 discreet, discrete. Often confused because of the similarity in their spellings and pronunciation,
-these words have no meanings in common. Diserect is lacking pretension or "showing a judicious
-reserve in one's speech or behavior. Discrete means constituting a separate thing or consisting of
-unconnected distinct parts.
+these words have no meanings in common. Diserect is “lacking pretension” or "showing a judicious
+reserve in one's speech or behavior.” Discrete means “constituting a separate thing” or “consisting of
+unconnected distinct parts.”
 
 in something.
 
-due to. Due to modifies nouns and is normally used after a form of the verb to be, as in The minis-
-ters fall was due to a bribery scandal. It works the same way as attributable to. Avoid using due to to
-modify verbs ("The minister fell due to a bribery scandal); try because ofinstead.
-dui   1g, over. Although one of the lesser meanings for over is throughout the duration of something.
-this is the primary meaning of during, which is preferable for a passage such as during the past 3 years.
-each. As a subject, each takes a singular verb and singular pronoun references: Each has separate
-duties. However. when cach follows a plural
+due to. Due to modifies nouns and is normally used after a form of the verb to be, as in “The minis-
+ter’s fall was due to a bribery scandal.” It works the same way as attributable to. Avoid using due to to
+modify verbs ("The minister fell due to a bribery scandal”); try because ofinstead.
+dui   1g, over. Although one of the lesser meanings for over is “throughout the duration of something.”
+this is the primary meaning of during, which is preferable for a passage such as “during the past 3 years.”
+each. As a subject, each takes a singular verb and singular pronoun references: “Each has separate
+duties.” However. when cach follows a plural
 subject, it docs not affect the verb; the verb
 remains plural to correspond with the plural
-subject: The president and the vice president
-each have separate duties.
+subject: “The president and the vice president
+each have separate duties.”
 east, eastern     (and similar directional
 > How the thing or person became endemic,
 > whether by birth or creation or movement, is not
 terms). Indefinite or general directional ref-
 > at issue. A disease can be endemic in or endemic to
-erences end with ern: In the eastern part of
+erences end with ern: “In the eastern part of
 > a geographic area, but a geographic area cannot
-the country. Definite directional references
-use the shorter form: on the east bank of
-the river, in the east end of town.
+the country.” Definite directional references
+use the shorter form: “on the east bank of
+the river,” “in the east end of town.”
 economic, economical. Economic is an
 
 adjective pertaining to finance or produc
@@ -4118,22 +4118,22 @@ tion and management of material wealth.
 > emphasizes birth or creation in a particular place,
 Economical is an adjective pertaining to
 > region, or country.
-prudent or thrifty managementthat which
+prudent or thrifty management—that which
 is not wasteful.
 effect. Sce affect, effect and consequence, effect, implication.
 either    . or, neither      . nor, When both parts of an either       . or or neither . nor construction are
 singular or plural, the corresponding verb is singularor plural, respectively. However, when one element
-is singular and one plural, the verb corresponds with the number of the nearer part: Either the president
-or his advisers want the conflict to continue. You can avoid an awkward (albeit correct) sentence by
+is singular and one plural, the verb corresponds with the number of the nearer part: “Either the president
+or his advisers want the conflict to continue.” You can avoid an awkward (albeit correct) sentence by
 ensuring that the plural part of the construction is nearer the verb. Also. if you combine nat with either, the
-companion construction uses or, not nor: The guerrillas were not interested in either the deserted camp
-or the remains of the shack that has served as its headquarters.
+companion construction uses or, not nor: “The guerrillas were not interested in either the deserted camp
+or the remains of the shack that has served as its headquarters.”
 elevation, See altitude, elevation.
 embargo. See boycott, ernbarga.
 emigrate, immigrate. Emigrate, to leave a place permanently, usually is followed by from:
-He emigrated from Germany. Immigrate, to come to a place permanently, usually is followed by to:
-He immigrated to Wisconsin. When a sentence includes the idea of both, immigrate can be climi-
-nated: He emigrated from Germany to Wisconsin.
+“He emigrated from Germany.” Immigrate, to come to a place permanently, usually is followed by to:
+“He immigrated to Wisconsin.” When a sentence includes the idea of both, immigrate can be climi-
+nated: “He emigrated from Germany to Wisconsin.”
 eminent, imminent. A person wha is eminent is prominent, of high rank, noteworthy, distin-
 guished, or well known. Something that is imminent is impending, about to occur.
 employ. Sec usage, use, employ, utilize.
@@ -4142,33 +4142,33 @@ enemy. Scc collective nouns.
 enough. Sce ample, enough.
 ensure. Sce assure, ensure, insure.
 entrance, entryway, entranceway. Scc adit, entrance, entryway, entranceway, portal.
-equal, equivalent. Equal emphasizes quantitative likeness: The weapon inventories of the two countries
-are nearly equal. Equivalent applies to qualitative similarities: Although their inventories are not equal, the
-combat capabilities of the two countries are roughly equivalent.
+equal, equivalent. Equal emphasizes quantitative likeness: “The weapon inventories of the two countries
+are nearly equal.” Equivalent applies to qualitative similarities: “Although their inventories are not equal, the
+combat capabilities of the two countries are roughly equivalent.”
 every. See only
 everyone, everybody. Although these words have a plural sense, they are singular and require sin-
 gular verbs and singular pronoun references. If you have trouble remembering that they are singular,
-try thinking of them as every-single-one" and every-single-body.
+try thinking of them as “every-single-one" and “every-single-body.”
 evident. Scc apparent, evident.
 evidently. See qualifiers
 execute. Writers overuse execute by combining it with a noun to describe an action when the verb
-equivalent of the noun will work on its own.        For example, change insurgents executed an attack to
-insurgents attacked.
+equivalent of the noun will work on its own.        For example, change “insurgents executed an attack” to
+“insurgents attacked.”
 explicit, implicit. Explicit refers to something clearly stated rather than implied, Implicit is the oppo-
-sitesomething implied, not expressly stated
-explosive, explosives. Use explosive for a specific reference to a bursting or propelling charge: a
-high-explosive round. Normally use the plural form in an expression such as explosives storage area.
+site—something implied, not expressly stated
+explosive, explosives. Use explosive for a specific reference to a bursting or propelling charge: “a
+high-explosive round.” Normally use the plural form in an expression such as “explosives storage area.”
 expose. Scc disclose, divulge, expose, reveal
 extort. To extort is to obtain (something) by coercive means: the thing is extorted, not the person
-who has it. Write Militants extorted money from villagers rather than Militants extorted villagers.
+who has it. Write “Militants extorted money from villagers” rather than “Militants extorted villagers.”
 farther, farthest, further, furthest, furthermore. Farther and farthest refer to physical or literal
-distance. Further and furthest are concerned with figurative or notional distancedegree, time. quan-
-tity. Furthermore, an adverb meaning moreover or in addition, is preferable for a passage such as
-Furthermore, the Shia are likely to...
+distance. Further and furthest are concerned with figurative or notional distance—degree, time. quan-
+tity. Furthermore, an adverb meaning “moreover” or “in addition,” is preferable for a passage such as
+“Furthermore, the Shia are likely to...
 fewer, fewer than, less, less than. Use fewer and fewer than with numbers or units counted
-individually: fewer gantry cranes. fewer than seven main battle tanks. Use Jess and fess than with
+individually: “fewer gantry cranes.” “fewer than seven main battle tanks.” Use Jess and fess than with
 quantities of things measured with a total (weight, bulk, sums) or conceptually:
-gross national product, less enthusiastic, less than         125 metric tons of stainless steel plates.
+gross national product,” “less enthusiastic,” “less than         125 metric tons of stainless steel plates.”
 See also amount, number.
 financial, fiscal, monetary. Financial is the broadest of these terms, though it sometimes refers
 more specifically to large-scale transactions.      Fiscal applies to governmental        policies and procedures
@@ -4180,13 +4180,13 @@ flagrant. See blatant, flagrant.
 flaunt, flout. To flaunt is to show off; to flout is to show contempt.
 flounder, founder. To flounder is to struggle clumsily or helplessly, as in confusion. To founder is to
 cave in or sink, as in a ship filling with water and sinking
-foot, feet. Use faot with a modifier preceding a noun: a 6-foot pole. Use feet if the modifier
-follows the noun: a pole 6 feet long, (However, keep in mind that in most circumstances DIA intel-
+foot, feet. Use faot with a modifier preceding a noun: “a 6-foot pole.” Use feet if the modifier
+follows the noun: “a pole 6 feet long,” (However, keep in mind that in most circumstances DIA intel-
 ligence products should be using metric units.}
 for. See as, because, for, since.
 forego, forgo. To forego is to precede in time or place: to forgo is to do without something.
 foreword, forward. A foreword is a prefatory or introductory note. Forward usually is a directional
-reference for at or near the front, although it has a number of other meanings. In a publication, a
+reference for “at or near the front,” although it has a number of other meanings. In a publication, a
 foreword is an introduction that comes forward of the main body of the publication.
 former, latter. These terms refer to one of a series of two things, not more than two, In referring
 to parts of a series of three or more things, use terms such as fwst or last.
@@ -4194,8 +4194,8 @@ to parts of a series of three or more things, use terms such as fwst or last.
 fortuitous. See accidental, fortuitous, contingent, incidental, opportune.
 for which. See where, in which, for which.
 
-from ... to, from ... through. An expression such as paid from 13 July to 7 August" does not include
-the final day ("7 August in this instance). Using through rather than to, however, would include the final day.
+from ... to, from ... through. An expression such as “paid from 13 July to 7 August" does not include
+the final day ("7 August” in this instance). Using through rather than to, however, would include the final day.
 further, furthest, furthermore.
 
 geographic, geographical. Use the simpler geographic.
@@ -4206,39 +4206,39 @@ age, some.
 hanged, hung. Use hanged for the past tense of hang when referring to executions.
 senses. use hung.
 headquarters. Headquarters is a plural noun that can take either a singular or plural verb. Use of a
-plural verb is more common, especially when the emphasis is on location: The company's headquar-
-ters are in Washington, DC. Use of a singular verb is common when the emphasis is on authority:
-Corporation headquarters has issued new rules for trading commodities.
+plural verb is more common, especially when the emphasis is on location: “The company's headquar-
+ters are in Washington, DC.” Use of a singular verb is common when the emphasis is on authority:
+“Corporation headquarters has issued new rules for trading commodities.”
 helicopter, rotary-wing aircraft. Avoid the wordy rotary-wing aircraft when you mean helicopter.
-Rotary wing is acceptable in uses such as rotary-wing UAV.
+Rotary wing is acceptable in uses such as “rotary-wing UAV.”
 historic, historical. Although their meanings overlap, common usage restricts historic to famous
 or particularly important events in history and applies historical to general events of the past and to
-things related to history or its study. Gettysburg, Pennsylvania, was the site of a historic battle.
-The president hoped emblems in his office would suggest comparison of him with historical leaders
-from the nations past. She is doing historical research in open sources.
+things related to history or its study. “Gettysburg, Pennsylvania, was the site of a historic battle.”
+“The president hoped emblems in his office would suggest comparison of him with historical leaders
+from the nation’s past.” “She is doing historical research in open sources.”
 if, whether. In informal usage, either if or whether can introduce a clause that expresses uncertainty,
-but for general usage, whether is preferable for introducing such a clause. We cannot confirm if a
-suitable candidate has been selected should be written instead as We cannot confirm whether a
-suitable candidate has been selected.
+but for general usage, whether is preferable for introducing such a clause. “We cannot confirm if a
+suitable candidate has been selected” should be written instead as “We cannot confirm whether a
+suitable candidate has been selected.”
 immigrate. See emigrate, immigrate.
 imminent. See eminent, imminent.
-impact. Impact is usually a noun: The impact of these changes will be clearer in time. As a verb, it
-means to strike forcefully: The missile impacted downrange. Avoid using impact as a verb to mean
-affect: These changes will impact [affect] all employees.
+impact. Impact is usually a noun: “The impact of these changes will be clearer in time.” As a verb, it
+means to strike forcefully: “The missile impacted downrange.” Avoid using impact as a verb to mean
+“affect”: “These changes will impact [affect] all employees.”
 impending. See pending, impending.
 implication. See consequence, effect, implication.
 implicit. See explicit, implicit.
 imply, infer. To imply is to state something indirectly. To infer is to draw a conclusion or deduce something.
 important,       importantly. To introduce a second, more worthy consideration, use more important
-rather than more importantly. Hoarding has decreased; more important, shops now have items that
-have been unavailable for months.
+rather than more importantly. “Hoarding has decreased; more important, shops now have items that
+have been unavailable for months.”
 
 in addition to. See along with.
 in back of. See back of, in back of, behind.
 incident. Reserve incident for minor occur-
-rences of momentary importance. An inci
+rences of momentary importance. “An inci
 dent took place last month when traffickers
-fired ona police outpost. Incident is not
+fired ona police outpost.” Incident is not
 suitable for a major conflict or catastrophe
 > at the tank" instead of "The insurgent fired a
 incidental. See accidental, fortuitous, contingent,       rocket-propelled grenade vice an antitank guided
@@ -4251,37 +4251,37 @@ indigenous. See endemic, indigenous, native
 te. See begin, commence, start, initiate.
 in order to. This phrase can often be whittled down to just to, especially at the beginning of a sen-
 tence. However, in orderto can be helpful when the sentence contains another infinitive nearby: The
-speaker plans to delay in order to reach a wider audience after the holiday.
+speaker plans to delay in order to reach a wider audience after the holiday.”
 inside of. See outside of, inside of.
 instead of, rather than, vice, versus. [See tone box.]
 
 insure, See assure, ensure, insure.
-Interagency, This term is a problem because an Interagency does not exist. When Interagency is
-used as a noun, the passage frequently is something like interaction among DIA, CIA, NGA, and the
-Interagency; in this context Interagency means,
-roughly, other U.S. Government organiza-
-tions. When the term is used in relation to
+Interagency, This term is a problem because an “Interagency” does not exist. When Interagency is
+used as a noun, the passage frequently is something like “interaction among DIA, CIA, NGA, and the
+Interagency”; in this context Interagency means,
+roughly, “other U.S. Government organiza-
+tions.” When the term is used in relation to
 > Using leadership as a collective noun for the leaders
 liaison or coordination, writers generally mean
-liaison or coordination with DIAs counterparts
+liaison or coordination with DIA’s counterparts
 throughout the Federal Government.        No ma
 ter how it is used, Interagency. as the proper
 name for some sort of body, lacks a clear defi
 nition and should not be used. However, inter-
 agency without the initial capitalization  is an
 acceptable adjective associated with something
-involving two or more agencies, so inter-
+involving two or more agencies, so “inter-
 > leadership cannot take both a singular verb (has
-agency coordination is fine, but Interagency
-coordination is not. The bottom line: whereas
+agency coordination’ is fine, but “Interagency
+coordination” is not. The bottom line: whereas
 > shown) and a plural pronoun reference (their)
 interagency is acceptable as an adjective, do not
 use Interagency as a noun.
 in which. See where, in which, for which.
 
-in, within. These terms are generally synonymous, but within emphasizes being inside or in the inner
-part of. For this reason. write the more general an incident in Georgia rather than an incident within
-Georgia unless you need to ernphasize that something is occurring well inside the country.
+in, within. These terms are generally synonymous, but within emphasizes being “inside” or “in the inner
+part of.” For this reason. write the more general “an incident in Georgia” rather than “an incident within
+Georgia” unless you need to ernphasize that something is occurring well inside the country.
 Islamist, Islamicist, Moslem,         Muslim. An Islamist is a person following Islamic beliefs, especially
 one who has Islamic fundamentalist beliefs and holds that they apply to politics as well as to religion;
 the term applies especially to followers of Islamic revivalist movements. Of Islamist and tslamicist,
@@ -4291,83 +4291,83 @@ an adherent of Islam.
 
 it is, there are (and        similar expressions). Avoid beginning a sentence with one of these phrases. They
 are indirect, delaying the point; are inherently wordy; usually invert the sentence structure; and frequently
-are connected with passive voice. It is clear that..." just adds words to Clearly... We can change There
-are several conclusions that can be drawn from these hypothetical scenarios to Several conclusions can be
-drawn from these hypothetical scenarios just by deleting There are and that. Then we can improve the sen-
-tence further by correcting the passive voice that the writer used with the inverted sentence structure: We
-can draw several conclusions from these hypothetical scenarios.
-its. its is the possessive form of it. Its is the contraction for it is or it has.
+are connected with passive voice. “It is clear that..." just adds words to “Clearly...” We can change “There
+are several conclusions that can be drawn from these hypothetical scenarios” to “Several conclusions can be
+drawn from these hypothetical scenarios” just by deleting There are and that. Then we can improve the sen-
+tence further by correcting the passive voice that the writer used with the inverted sentence structure: “We
+can draw several conclusions from these hypothetical scenarios.”
+its. its is the possessive form of it. It’s is the contraction for “it is” or “it has.”
 e. Use caution with words that end in -ize, which can be trendy but not widely accepted. Some of
 these terms, such as economize, jeopardize, and terrorize, are well established and fine to use in formal
 writing, but avoid new words with the -ize suffix, such as incentivize and Afghanize
 joint. See combined, joint
 just. See only
 last, latest, past. Last indicates finality, especially in referring to things that come at the end of a
-chronology or sequence: This report is the last he prepared before retiring, Past refers to things gone by
-or in recent time: it is preferable in a passage such as violence during the past 3 years because this deals
+chronology or sequence: “This report is the last he prepared before retiring,” Past refers to things gone by
+or in recent time: it is preferable in a passage such as “violence during the past 3 years” because this deals
 with an occurrence in time recently gone by rather than the end of a grand chronology or sequence. Latest
-can mean only most recent: This report is the latest on the subject.
+can mean only “most recent”: “This report is the latest on the subject.”
 latter, Sce former, latter.
 lay, lie. Lie is an intransitive verb (the kind that does not take an abject) meaning to recline (its most
-comman usage) as well as to occupy a position or to remain in a given condition: He wants to lie
-on the beach for a week;       The paper lies on the desk;     The facility lies 15 kilometers south of
-Baghdad. Lay is a transitive verb (it requires an object} meaning to place something: Lay the report
-on the desk after you read it; the past tense is Jaid: She laid her timesheet in the inbox. Most confu-
-sion between the two verbs results because lay also is the past tense of lie: He lay on the beach for a
-week: The paper lay on the desk.
+comman usage) as well as to occupy a position or to remain in a given condition: “He wants to lie
+on the beach for a week”;       “The paper lies on the desk”;     “The facility lies 15 kilometers south of
+Baghdad.” Lay is a transitive verb (it requires an object} meaning to place something: “Lay the report
+on the desk after you read it”; the past tense is Jaid: “She laid her timesheet in the inbox.” Most confu-
+sion between the two verbs results because lay also is the past tense of lie: “He lay on the beach for a
+week”: “The paper lay on the desk.”
 leaders, leadership. [See tone box.]
 
 less, less than. See fewer, fewer than, less, fess than.
 
 liable. See apt, liable.
-likely. Preferred usage for likely as an adverb is with a modifier such as most or quite: He most likely will
-decide tomorrow. As an adjective, however, it does not require modification:
-decide tomorrow.
-like, such as. Like introduces a comparison: Hills in this part of the country are low and rounded like those
-near the coast. Such as introduces an example from a group: hills in the Midwest such as those along the
-Ohio River. For like as a conjunction introducing a clause, sce as if, as though, lke. Sce also along with.
+likely. Preferred usage for likely as an adverb is with a modifier such as most or quite: “He most likely will
+decide tomorrow.” As an adjective, however, it does not require modification:
+decide tomorrow.”
+like, such as. Like introduces a comparison: “Hills in this part of the country are low and rounded like those
+near the coast.” Such as introduces an example from a group: “hills in the Midwest such as those along the
+Ohio River.” For like as a conjunction introducing a clause, sce as if, as though, lke. Sce also along with.
 located. An overused term in intelligence writing, located often can be omitted:
-located 60 kilometers west of Karachi can become The factory is 60 kilometers west of Karachi.
+located 60 kilometers west of Karachi” can become “The factory is 60 kilometers west of Karachi.”
 
 logistic, logistics, logistical. Logistics is the noun form. For the adjective, either logistic or logistics is
 acceptable, though logistic is preferred. Either is preferable to logistical
 long term, short term. Use these terms only when the context gives the reader an idea of the
-timeframe.     Otherwise,     be mare specific, such as within 5 years. See also near term.
+timeframe.     Otherwise,     be mare specific, such as “within 5 years.” See also near term.
 
 loose, lose. Loose means not attached, restrained, or confined. Lose means mislaying something, not
 having it anymore, being unable to control something, or failing to win.
-majority. Meaning the greater part of something or "more than half of a total, majority by itself
-is not synonymous with most. which in this sense means the greatest part. When modifiers such as
+majority. Meaning “the greater part of something” or "more than half of a total,” majority by itself
+is not synonymous with most. which in this sense means “the greatest part.” When modifiers such as
 great and vast are used with majority, the combined sense corresponds with that of miost, and most is an
-effective substitute. When majority refers to a vote total, the term is singular: The prime minister's
-majority in parliament for health care was only three votes. However, when it refers to a group
+effective substitute. When majority refers to a vote total, the term is singular: “The prime minister's
+majority in parliament for health care was only three votes.” However, when it refers to a group
 of people or things, majority is a collective noun that can take either a singular or a plural verb. If
-the sense is oneness, use a singular verb: The majority of parliament supports the legislation. If
-members of the majority are acting as individuals, use a plural verb: The majority of the members
-of parliament represent working class districts.
+the sense is oneness, use a singular verb: “The majority of parliament supports the legislation.” If
+members of the majority are acting as individuals, use a plural verb: “The majority of the members
+of parliament represent working class districts.”
 mate         I, materiel. Material is any substance from which something is made.
 arms, ammunition, and equipment.
 
 may. See could, may, might and qualifiers,
 meantime,        meanwhile. Meantime is usually a noun:
-usually an adverb: Meanwhile, she waited.
+usually an adverb: “Meanwhile, she waited.
 media. Media is the plural of medium (medi-
 ums also is an acceptable plural) and usually
 takes a plural verb, However, when media is
 used with the, it is a collective noun equating
-roughly to the press or the press and other
-mass communication entities. As a collective
+roughly to “the press” or “the press and other
+mass communication entities.” As a collective
 noun. media can take either a singular or plural
 verb. depending on whether the collective
 group is acting as a unit (singular) or as sep-
-arate parts (plural): The national media has
+arate parts (plural): “The national media has
 consistently supported the prime minister, but
 the local media have begun to demonstrate
-> to The unit sent the message not only to its
+> to “The unit sent the message not only to its
 differences, with some supporting the prime
 > higher headquarters but also to the main direc-
-minister and some supporting the opposition.
-> torate. Here to the main directorate. following
+minister and some supporting the opposition.”
+> torate.” Here “to the main directorate.” following
 median, mean. Sec average, median, mean.
 > following not only. The sentence also could be
 merely. Sce only.
@@ -4375,37 +4375,37 @@ methodology. If you mean method, means, or
 system, use one of those words rather than meth
 odofogy {the study of the science of methods or
 a group of procedures or rules for an inquiry or
-branch of study). For example, change The oil
-company has not found an effective methodology for cleaning the spilled oil from the beaches to The oil
-company has not found an effective means for cleaning the spilled oil frorn the beaches. However, meth-
-odology is appropriate in The professor explained his students methodology for surveying the people's
-satisfaction with the wage supplement.
+branch of study). For example, change “The oil
+company has not found an effective methodology for cleaning the spilled oil from the beaches” to “The oil
+company has not found an effective means for cleaning the spilled oil frorn the beaches.” However, meth-
+odology is appropriate in “The professor explained his students’ methodology for surveying the people's
+satisfaction with the wage supplement.”
 might. See could, may, might and qualifiers
-militate, mitigate. Militate means to have weight or effect for or against: The facts militate
-against your interpretation. Mitigate means to moderate or alleviate: "The new social order will
-mitigate the suffering of the poor.
+militate, mitigate. Militate means “to have weight or effect” for or against: “The facts militate
+against your interpretation.” Mitigate means “to moderate or alleviate”: "The new social order will
+mitigate the suffering of the poor.”
 monetary. See financial, fiscal, monetary,
 more. See all, any, half (and ather fractions), more, most, none, part, percent, percentage, some,
 
 more important. See important.
-more than one. Although plural in sense, this phrase almost always takes a singular verb: More
-than one factor was involved in her decision.
+more than one. Although plural in sense, this phrase almost always takes a singular verb: “More
+than one factor was involved in her decision.”
 Moslem. Sce /slamist, Istamicist, Moslem, Muslim.
 most. Sec all, any, half (and other fractions), more, most, none, part, percent, percentage, some; majority; and only.
 most important. Sce important.
-most, mostly. Most is not an appropriate substitute for almost: almost everyone rather than most
-everyone. Most rather than mostly is the correct word to mean to the greatest degree     those most
-affected rather than those mostly affected. Mostly means for the greatest part or usually: The
-attacks were mostly unplanned.
+most, mostly. Most is not an appropriate substitute for almost: “almost everyone” rather than “most
+everyone.” Most rather than mostly is the correct word to mean “to the greatest degree’     those most
+affected” rather than “those mostly affected.” Mostly means “for the greatest part” or “usually”: “The
+attacks were mostly unplanned.”
 Mus!      . See Islamist, Islamicist, Moslem, Muslim
 in. See country, nation.
 nat   e. See endenric, indigenous, native
-near-, nearly. Use nearly rather than near to modify most adjectives for example. a nearly com
-plete proposal rather than a near-complete proposal. An exception is near- in near-real-time"near-
-real time detection. Also see only.
+near-, nearly. Use nearly rather than near to modify most adjectives for example. “a nearly com
+plete proposal” rather than “a near-complete proposal.” An exception is near- in near-real-time—"near-
+real time detection.” Also see only.
 near term. This expression is open to broad interpretation does it mean days, weeks, months,
-even years? When possible, replace in the near term with more precise language, such as in the
-next 3 to 6 months. See also ong term, short term.
+even years? When possible, replace “in the near term” with more precise language, such as “in the
+next 3 to 6 months.” See also ong term, short term.
 neither ... nor. Sce either . of, neither... nor.
 none. Sec all, any, half (and other fractions), more,
 most, none, part, percent, percentage, some.
@@ -4413,24 +4413,24 @@ most, none, part, percent, percentage, some.
 not only ... but also. [See tone box]
 nouns as adjectives. Nouns used as adjec-
 tives (attributive nouns) are part of standard
-English usage: for example, communications
-intelligence is preferable to the cumber-
-some communicational intelligence. Normally you should not use a noun as an adjective when an
-adjectival form of the word is availableprovided the two words mean the same thing. Often they
-do not: clearly a cloud chamber differs from "a cloudy chamber, In general. stringing a number of
-attributive nouns together is undesirable; for example, the string weapon system development and
-acquisition cost reductions should be broken up, becoming cost reductions from weapon system
-development and acquisition.
+English usage: for example, “communications
+intelligence” is preferable to the cumber-
+some “communicational intelligence.” Normally you should not use a noun as an adjective when an
+adjectival form of the word is available—provided the two words mean the same thing. Often they
+do not: clearly a “cloud chamber” differs from "a cloudy chamber,” In general. stringing a number of
+attributive nouns together is undesirable; for example, the string “weapon system development and
+acquisition cost reductions” should be broken up, becoming “cost reductions from weapon system
+development and acquisition.’
 number.       When      the precedes number, number takes a singular verb:
-decreased. When a precedes number, number takes a plural verb: A number of mistakes result from
-carelessness. See also amount, number.
+decreased.” When a precedes number, number takes a plural verb: “A number of mistakes result from
+carelessness.” See also amount, number.
 
-obsolete, obsolescent. Obsolete means no longer in use; obsolescent means becoming outdated
-or out of use. Thus, something obsolescent is becoming obsolete.
+obsolete, obsolescent. Obsolete means “no longer in use”; obsolescent means “becoming outdated
+or out of use.” Thus, something obsolescent is becoming obsolete.
 obviously. See quatifiers.
 offload. Unioad is preferable
-off of, out of. Of generally is unnecessary when off or out is used in the sense of motion: jump off
-the roof or jump out the window, but move out of the building.
+off of, out of. Of generally is unnecessary when off or out is used in the sense of motion: “jump off
+the roof” or “jump out the window,” but “move out of the building.”
 
 on          . Si See continual,
 > tinued, ongoin;
@@ -4456,35 +4456,35 @@ oral, verbal. Oral refers to spoken words; verbal, to either spoken or written w
 ordinance, ordnance. An ordinance is an order. a command,
 military materiel. cannon or artillery, supplies (particularly explosives) used with the military materiel,
 or the department responsible for weapons and their supplies. An EOD team is an explosive ord-
-nance disposal team, not an explosive ordinance disposal team.
+nance disposal team, not an “explosive ordinance disposal” team.
 out of. See off of, out of
 outside of, inside of. When outside is a
-preposition, ofis unnecessary: outside the
-building,    outside the realm of possibility.
+preposition, ofis unnecessary: “outside the
+building,”    “outside the realm of possibility.”
 The same is true of inside.
 > greatest importance, influence, or authority, espe
 over. See during, over.
 pair, pairs. For more than one pair, pairs is
-preferable:    two pairs of antennas.
-> power or authority: His views predominate in
+preferable:    “two pairs of antennas.
+> power or authority: “His views predominate in
 parliamentarian. [See tone box.]
 part. See all, any, half (and other fractions), more,         preferred adverb.
 most, none, part, percent, percentage, some
 participles. The chief usage problem connected with participles is with participial phrases that open
 sentences. Readers expect a modifier that begins a sentence to refer to the subject of the sentence.
 When a participial phrase cannot logically modify the subject of the sentence, we say the modifier
-dangles"a dangling participle or dangling modifier. In Popping up from behind the hill, the tank
-was fired upon by the helicopter. the participial phrase dangles because it cannot modify the subject
-tank. The sentence should read Popping up from behind the hill, the helicopter fired on the tank.
+“dangles"—a dangling participle or dangling modifier. In “Popping up from behind the hill, the tank
+was fired upon by the helicopter.” the participial phrase dangles because it cannot modify the subject
+tank. The sentence should read “Popping up from behind the hill, the helicopter fired on the tank.”
 
 past. See last, latest, past.
-pending, impending. Pending means "yet to come or "not yet settled. Impending has a similar basic
+pending, impending. Pending means "yet to come” or "not yet settled.” Impending has a similar basic
 meaning but also connotes a sense of threat or menace.
-people, persons, personnel. Persons is applicable to a specific, relatively small number: He killed
-10 persons. People is acceptable in this sense as well and is the word of choice for a large number of
+people, persons, personnel. Persons is applicable to a specific, relatively small number: “He killed
+10 persons.” People is acceptable in this sense as well and is the word of choice for a large number of
 individuals, whether collectively or individually. Personnel is a collective noun referring to employees of
-an organization or members of a group. It should be avoided as a substitute for people or persons: six
-persons or six people rather than six personnel exited the building. See also populace, population
+an organization or members of a group. It should be avoided as a substitute for people or persons: “six
+persons” or “six people” rather than “six personnel exited the building.” See also populace, population
 for related usage issues.
 percent, percentage. See all, any, half (and other fractions}, more, most, none, part, percent, percentage,
 some.
@@ -4493,38 +4493,38 @@ period of time. Period almost always conveys a sense of time, so oftime generall
 persuade. See convince, persuade.
 populace, population. Population refers to all the people in a specific area or to the number of people in
 a group, class, or race in a specific area. Populace refers particularly to the masses the general public and
-is not a good substitute for population in a statement such as the population of the lower White River
-valley speaks a variant of French. See also people, persons, personnel for related usage issues.
+is not a good substitute for population in a statement such as “the population of the lower White River
+valley speaks a variant of French.” See also people, persons, personnel for related usage issues.
 portal. See adit, entrance, entryway, entranceway, portal
-portend, presage. Portend means to serve as an omen or warning. Presage connotes a feeling or
+portend, presage. Portend means “to serve as an omen or warning.” Presage connotes a feeling or
 premonition, a presentiment. Therefore, portend is preferable for use with something inanimate, such as an
-event: An increase in security violations could portend more serious problems within these forces.
+event: “An increase in security violations could portend more serious problems within these forces.”
 
 possibly. See qualifiers
 practical, practicable. Practical indicates
 useful, effective, or sound. Practicable applies
 to things or concepts that are feasible or
 achievable and cannot apply to persons.
-> department boundary is proper usage. South
+> department boundary” is proper usage. “South
 predominant, predominate, predomi-
 nantly, predominately. [Sce tone box]
 presage. See portend.
 primarily. See only.
 principally. See only.
-principal, principle. Principal is an adjective meaning most important or a noun referring to a key official
+principal, principle. Principal is an adjective meaning “most important” or a noun referring to a key official
 or to money, Prindple, always a noun, refers to a standard of conduct, an essential clement, or a general truth.
-Prioritize. To prioritize is to arrange items in order of priority, as in prioritize work, school, and fam-
-ily. Avoid using prioritize with a single item; in that case, try place a priority on or give priority to.
+Prioritize. To prioritize is to arrange items in order of priority, as in “prioritize work, school, and fam-
+ily.” Avoid using prioritize with a single item; in that case, try “place a priority on” or “give priority to.”
 probably. See qualifiers.
 pronouns for countries or ships. Use the gender-neutral forms it or its.
-proved, proven. Proved is the preferred past participle for the verb: The story has proved false.
-Proven is the preferred adjective: a proven succes:
-provided, providing, Either term is acceptable as a conjunction: You can use this method, pro-
-vided [providing] your supervisor agrees. Neither should be used when the word if expresses a simple
-possibility: The ceremony will be canceled if the rain continues.
+proved, proven. Proved is the preferred past participle for the verb: “The story has proved false.”
+Proven is the preferred adjective: “a proven succes:
+provided, providing, Either term is acceptable as a conjunction: “You can use this method, pro-
+vided [providing] your supervisor agrees.” Neither should be used when the word if expresses a simple
+possibility: “The ceremony will be canceled if the rain continues.”
 publically, publicly. Use publicly.
 purportedly. Sce qualifiers.
-purposely, purposefully. Purposely means intentionally. Purposefilly indicates determination to
+purposely, purposefully. Purposely means “intentionally.” Purposefilly indicates determination to
 reach a goal
 quagmire. Quagmire raises particular problems in intelligence writing. The standard definition is a difficult,
 precarious, or entrapping position. However, the word is so strongly associated with Vietnam that readers
@@ -4538,17 +4538,17 @@ question as to whether. See as to.
 quote, quotation. Except in informal usage, quote is a verb: quotation is the noun. Quote should not
 be used as a noun to replace quotation in general writing.
 range, vary. In the elements of their meanings for which range and vary are similar, range refers to
-changing or differing within limits, whereas vary refers to changing in succession. Elevations range
-between 500 and        |.500 meters above sea level. Temperatures vary from season to season.
+changing or differing within limits, whereas vary refers to changing in succession. “Elevations range
+between 500 and        |.500 meters above sea level.” “Temperatures vary from season to season.”
 
-rare, scarce. Both mean infrequently occurring or uncommon. Rare connotes high value. Scarce
+rare, scarce. Both mean “infrequently occurring” or “uncommon.” Rare connotes high value. Scarce
 connotes that supplies are insufficient.
 rather than. Sce instead of, rather than, vice, versus.
 real. Sec actual, real, virtual.
 rebut, refute. Though these terms are
-somewhat synonymous, rebut means to offer
+somewhat synonymous, rebut means “to offer
 > Omitting That
-opposing arguments. whereas refute connotes
+opposing arguments.” whereas refute connotes
 > Some writers routinely eliminate that when it is a
 success in winning an argument.
 > relative pronoun introducing a dependent clause.
@@ -4556,52 +4556,52 @@ recurrence, reoccurrence. Recurrence has
 the sense of happening repeatedly or peri-
 odically, whereas reoccurrence suggests simply
 happening again.
-> that causes no problem for readers: The building
+> that causes no problem for readers: “The building
 regards. in regards to is substandard. Use in
 regard to, with regard to, regarding, about, or an.       might even argue that the sentence is easier to read
 > without that, However, when the dependent clause
 rein, reign. A rein is a strap attached toa
-> is the direct object of a sentences verb, omitting
-bridle. used to control a horsehence the
+> is the direct object of a sentence’s verb, omitting
+bridle. used to control a horse—hence the
 > that may cause momentary problems for some
-expressions take the reins and rein in.
+expressions “take the reins” and “rein in.”
 Do not confuse it with reign, which refers toa
-monarchs rule.
+monarch’s rule.
 relatively. Sec comparatively, relatively.
 > Moderate Muslim clerics emphasize that Islam.
-reluctant, reticent. Reluctant means unwilling
+reluctant, reticent. Reluctant means “unwilling
 > does not condone terrorism.
-to act. Reticent means uncommunicative or
+to act.” Reticent means “uncommunicative” or
 > Omitting that from the first version of the
-reserved.
+“reserved.”
 > sentence causes many readers to initially read
 remains. Scc continues, remains.
 > Because the sentence continues and because that
 reportedly. See allegedly, reportedly, reput-
 edly and qualifiers.
-> course emphasize Islam), those readers quickly
+> course “emphasize Islam”), those readers quickly
 represent. (Sec tone box]
 > clause that clarifies the thought. This momentary
 reputedly. See allegedly, reportedly, reputedly
 > disruption does not occur with the second version
 and qualifiers.
-respectively. Respectively means one ata
-time, in the order indicated. It is particularly         alerts readers to look for the clause that follows.
-useful for matching sets of data. as in this exam-        Using thatrather than leaving it outprovides
+respectively. Respectively means “one ata
+time, in the order indicated.” It is particularly         alerts readers to look for the clause that follows.
+useful for matching sets of data. as in this exam-        Using that—rather than leaving it out—provides
 > the marker readers are accustomed to seeing and
 ple: "Terrorists attacked markets in Baghdad
 > alerts them to the structure of the sentence.
 and Basrah with a vehicle-borne improvised
 explosive device and rocket-propelled gre-
-nades, respectively. Here respectively tells readers that the vehicle borne improvised explosive device
+nades, respectively.” Here respectively tells readers that the vehicle borne improvised explosive device
 attack was against the market in Baghdad, while the rocket-propelled grenade attack was against the
 market in Basrah. Respectively serves little useful purpose if used at the end of a single set of data
-Terrorists attacked markets in Baghdad and Basrah, respectivelyand usually should be deleted
+“Terrorists attacked markets in Baghdad and Basrah, respectively”’—and usually should be deleted
 
 reveal. See disclose, divilge, expose, reveal.
 rotary-wing aircraft. See helicopter,
 roughly. See approximately, about, roughly, some.
-Sahara desert. Because Sahara is Arabic for desert, use simply Sahara or the Sahara.
+Sahara desert. Because Sahara is Arabic for “desert,” use simply Sahara or the Sahara.
 sanction. Sanction has meanings that are almost in opposition: from approval and encouragement to
 penalty or coercion.       Therefore, use sanction only if context will make its meaning clear.
 scarce. See rare, scarce.
@@ -4609,16 +4609,16 @@ scarcely, See only.
 second. See first, second, third, and so an,
 
 seemingly. See qualifiers.
--shape, -shaped.      Use shaped, rather than shape, in a unit modifier: an H shaped administration
-building, an L-shaped lot. Do not combine either -shape or -shaped with a modifier that already names a
-shape: for example, change a square shaped structure to a square structure. In addition, use irregularly
-shaped rather than irregular-shaped.
+-shape, -shaped.      Use shaped, rather than shape, in a unit modifier: “an H shaped administration
+building,” “an L-shaped lot.” Do not combine either -shape or -shaped with a modifier that already names a
+shape: for example, change “a square shaped structure” to “a square structure.” In addition, use “irregularly
+shaped” rather than “irregular-shaped.”
 ship. See boat, ship.
 
 short term. See /ong term, short term.
 should. In intelligence writing, limit should to cases that carry a sense of obligation or duty. Use if to
-express a condition. Instead of Should the outer defenses fail. guards will respond, write If the outer
-defenses fail, guards will respond.
+express a condition. Instead of “Should the outer defenses fail. guards will respond,” write “If the outer
+defenses fail, guards will respond.”
 
 sight. See citc, sight, site,
 significant, significantly. These words suffer from overuse in intelligence writing, especially when
@@ -4628,8 +4628,8 @@ since. See as, because, for, since,
 site. See cite, sight, site.
 
 situation. Authors frequently use situation in connection with another descriptive term when the
-other term, or a form of it, can stand by itself, For example, use emergency by itself rather than
--size, -sized. Use -sized in a phrase such as medium-sized barrel.
+other term, or a form of it, can stand by itself, For example, use “emergency” by itself rather than
+-size, -sized. Use -sized in a phrase such as “medium-sized barrel.”
 
 some. See all, any, half (and other fractions}, morc, most, none, part, percent, percentage, some; approximately,
 about, roughly, some; and certain, some,
@@ -4643,8 +4643,8 @@ such as. See like, such as.
 suppose, supposed. Suppose is the present tense of a verb that means to assume, to believe, or to
 consider something to be likely. Supposed is the past tense and past participle of the same verb. As
 the past participle. supposed is an adjective that means presumed,
-The missile was supposed to fly at least 250 kilometers, but it failed shortly after launch.
-table. As a verb, table can mean to introduce something for consideration or to set an issue aside. If
+“The missile was supposed to fly at least 250 kilometers, but it failed shortly after launch.”
+table. As a verb, table can mean “to introduce something for consideration” or “to set an issue aside.” If
 you use teble as a verb, be sure the context is unmistakable, or use a different verb.
 Taiwan, Taiwanese. See China, Chinese, Taiwan, Taiwanese.
 
@@ -4653,19 +4653,19 @@ team. See collective nouns.
 telecommunication, telecommunications.
 tion, telecommunications.
 that, which, who, Use that to introduce a restrictive (defining) clause
-essary for full identification of the person or thing the clause modifies. The platoon that was pinned down
-held its position implies that although two or more platoons were involved, only one of them was pinned
-down, so platoon that was pinned down clearly defines which platoon is being discussed. Use which with
+essary for full identification of the person or thing the clause modifies. “The platoon that was pinned down
+held its position” implies that although two or more platoons were involved, only one of them was pinned
+down, so “platoon that was pinned down’ clearly defines which platoon is being discussed. Use which with
 a nonrestrictive (nondcfining} clause
-clause modifies. The platoon, which was pinned down, held its position indicates only one platoon is being
-identified: it cannot be confused with any other platoons, so which was pinned down is not required to fully
+clause modifies. “The platoon, which was pinned down, held its position” indicates only one platoon is being
+identified: it cannot be confused with any other platoons, so “which was pinned down’ is not required to fully
 identify the platoon under discussion. Notice that a set of commas accompanies the nonrestrictive clause to
 set it off from the main part of the sentence; these commas are required in standard English usage. Use who
 only when people are involved; who can be used with either restrictive or nonrestrictive modifying clauses,
 so commas are essential to set off the nonrestrictive uses. Do not use who to introduce clauses modifying
 organizations; an organization is a thing, even though it represents a group of people. In some sentences with
 restrictive clauses, that and who may be omitted to tighten wording, although their sense will still be present.
-See also tone box Omitting That.
+See also tone box “Omitting That.”
 there are. See it is, there are (and similar expressions}.
 
 t    d. See first, second, third, and so on.
@@ -4674,41 +4674,41 @@ though. See although, though, even though, while
 ties. Use ties to rather than ties with. Relations with often works as an alternative.
 together with. See along with
 to include. To include has become a bureaucratic way of saying including. The infinitive is appropriate
-in a sentence such as The Army will expand training to include live-fire exercises. Otherwise, including
-is preferred: The regime has supplied militias with military equipment, including [not to inclde] rockets.
+in a sentence such as “The Army will expand training to include live-fire exercises.” Otherwise, including
+is preferred: “The regime has supplied militias with military equipment, including [not to inclde] rockets.”
 toward, towards. Use toward.
 undoubtedly. See qualifiers
 
-unknown, uncertain, unclear, undetermined. As an adjective, unknown can mean both not known
-to anyone" and not part of the writers/speaker's knowledge. The usage problem for intelligence writing
+unknown, uncertain, unclear, undetermined. As an adjective, unknown can mean both “not known
+to anyone" and “not part of the writer’s/speaker's knowledge.” The usage problem for intelligence writing
 occurs when someone obviously must know whatever is being discussed but the context suggests that no one
 knows. One solution to this problem is to substitute uncertain, unclear, or undetermined, though those terms
 will not always improve the situation. The preferred fix is to clearly identify that the author does not know,
-with something like DIA does not know whether... or "We do now know whether.
+with something like “DIA does not know whether...” or "We do now know whether.
 the knowledge base can be addressed in a tone box dealing with intelligence gaps.
 usage, use, employ,         uti       , In the most basic sense, these terms are interchangeable; use. the
 shortest term, is the best choice except when you need the more specialized connotation of one
 of the other terms.      Usage fits for the way a language or its elements are used, interrelated, or pro-
-nounced: She studied usage of French in Canada. Employ is particularly applicable for obtaining or
-maintaining the services of an individual or object: During World War Il. U.S. companies employed
-many women in manufacturing. Utiize is suitable for something's being useful for a new function,
-including for an unintended purpose: He utilized a chair to reach the top shelf.
+nounced: “She studied usage of French in Canada.” Employ is particularly applicable for obtaining or
+maintaining the services of an individual or object: “During World War Il. U.S. companies employed
+many women in manufacturing.” Utiize is suitable for something's being useful for a new function,
+including for an unintended purpose: “He utilized a chair to reach the top shelf.”
 vary. See range, vary.
 verbal. See oral, verbal.
 
-very. As an adverb, very means in or to a high degree and often is used to intensify adjectives or
-other adverbs: "very happy. "very annoyed, very concerned, etc. The problem comes with over
+very. As an adverb, very means “in or to a high degree” and often is used to intensify adjectives or
+other adverbs: "very happy.” "very annoyed,” “very concerned,” etc. The problem comes with over
 use of very for this purpose, especially with terms for which degrees of intensity are questionable.
-Few people would argue with dropping very from a phrase such as very complete, as something
-either is or is not complete. However, what real meaning does very add if we write very nearly
-complete? Even if the author has a difference in mind between "nearly complete and "very nearly
-complete,     are readers likely to understand that difference in intensity? When you see very madifying
+Few people would argue with dropping very from a phrase such as “very complete,” as something
+either is or is not “complete.” However, what real meaning does very add if we write “very nearly
+complete”? Even if the author has a difference in mind between "nearly complete” and "very nearly
+complete,”     are readers likely to understand that difference in intensity? When you see very madifying
 an adjective or another adverb, ask yourself whether very adds anything useful or should be deleted
 vice, versus. See instead of, rather than, vice, versus.
 
 virtual. See actual, real, virtual.
 virtually. See guatifiers
-way, ways. Use way: She was a long way from home.
+way, ways. Use way: “She was a long way from home.”
 weapon, weapons. Both singular and plural forms are acceptable as modifiers, though the singular
 (weapon) is preferred in most instances, especially when using weapons would duplicate the s sound
 in both modifier and word modified: for example. nuclear weapon storage rather than nuclear weapons
@@ -4717,24 +4717,24 @@ website. See cite, sight, site.
 
 where,        which, for which. Because where is associated with locations, in which and for which are bet-
 ter choices than where when the context of a passage has nothing to do with a place or places.
-cases, where U.S. involvement is not a factor, the working group recommends... would be better
-written as In other cases, in which U.S. involvement is not a factor, the working group recommends...
-Similarly, individuals involved in special assignments, where overtime requirements are likely to exist,
-should... would be better as individuals involved in special assignments. for which overtime require-
-ments arc likely to exist, should. ...
+cases, where U.S. involvement is not a factor, the working group recommends...” would be better
+written as “In other cases, in which U.S. involvement is not a factor, the working group recommends...”
+Similarly, “individuals involved in special assignments, where overtime requirements are likely to exist,
+should...” would be better as “individuals involved in special assignments. for which overtime require-
+ments arc likely to exist, should. ...”
 whether. Sce if, whether.
 which, who. See that, which, who
 while. Sce although, though, even though, while.
-with, Avoid using with as a conjunction similar to and, For example, write Attention has focused on
-maritime security, and the president has signed an order to create a coast guard instead of Attention has
-focused on maritime security, with the president signing an order to create a coast guard.
+with, Avoid using with as a conjunction similar to and, For example, write “Attention has focused on
+maritime security, and the president has signed an order to create a coast guard” instead of “Attention has
+focused on maritime security, with the president signing an order to create a coast guard.”
 within. Sec in, within.
 Concise wording makes reading easier. The key is compression, not omission. In particular, watch for
 unnecessarily wordy phrases that have become habitual in our writing. One small connecting word
-often can do the work of several. In addition, watch for redundancies  eliminating the duplicative
+often can do the work of several. In addition, watch for redundancies — eliminating the duplicative
 idea compresses and sharpens the expression.
 
-For                                            try
+For                                            try
 abortive coup attempt
 absence of                                      no
 absolutely essential
@@ -4853,7 +4853,7 @@ in the near future
 in the process of fighting
 in the vicinity of
 in this day and age                                today
-in 2 years time
+in 2 years’ time
 in view of the fact that
 join together                                      join
 just recently
@@ -4883,10 +4883,10 @@ on a few occasions
 ona   regular basis
 ona   timely basis
 on condition that                         if
-one of the last remaining
+one of the last remaining
 one of the purposes (reasons)
-on the oceasion of
-on the part of,
+on the oceasion of
+on the part of,
 owing to the fact that
 pare down                                 pare
 passing phase                             phase
@@ -5017,20 +5017,20 @@ whenever                     when
 
 ## CHAPTER 6:
 
-Lynn   Truss, Eats, Shoots & Leaves
+—Lynn   Truss, Eats, Shoots & Leaves
 Punctuation is intended to promote readability. It helps clarify the structure of written material and
-provides clues for how to read material aloud.   Sometimes      punctuation is critical for readers under-
+provides clues for how to read material aloud.   Sometimes      punctuation is critical for readers’ under-
 standing of what an author intended to say.
 
 The Basic Rule. Form the possessive case of singular nouns, indefinite pronouns, and abbreviations
 by adding an apostrophe and a lowercase s, For most plural nouns add only an apostrophe: however, for
 irregular plurals (ones that do not end in 5), add an apostrophe and a lowercase s,
 boy: the boy's book
-woman: the womans briefcase
+woman: the woman’s briefcase
 Jones: the elder Jones's papers
 Thai: that Thai's passport
 CO: the CO's orders
-Shiite: the Shiites factory
+Shiite: the Shiite’s factory
 each other: each other's territory
 The basic rule applies to proper names and abbreviations ending in sibilants (the hissing sound of
 an s, x, or z). However, leave off the s after the apostrophe if the extra sibilant is not normally pro-
@@ -5040,39 +5040,39 @@ Gibbons: General Gibbons's tactics
 Juarez: Juarez's troops
 CBS:   CBS's broadcasting
 HAMAS:     HAMAS's activities
-> the Philippines interest
+> the Philippines’ interest
 Some Complexities. One exception is for commen nouns ending in s or ce when followed by a word
 beginning with s: in these cases the possessive of the common noun is forrned with only an apostrophe.
-for goodness sake
+for goodness’ sake
 
 For corps (both singular and plural and whether as a common or proper noun), add only an apostrophe.
 the corps' barracks
-Ith Corps field hospital
-For compound titles, make the last word       the word closer to the thing possessed       _ possessive.
-the secretary gencrals speech
-the commander in chiefs decision
+Ith Corps’ field hospital
+For compound titles, make the last word       the word closer to the thing possessed       —_ possessive.
+the secretary gencral’s speech
+the commander in chief’s decision
 the assistant chief of staff's policies         the assistant chiefs of staff's policies
 
 To show joint possession for two or more nouns, make only the last one possessive.
 Phil and Dick's collaboration on the Sudan report was a success.
 
 However. to show individual possession. make each noun possessive.
-Phil's and Dicks draft reports on Sudan did not agree on two key points.
+Phil's and Dick’s draft reports on Sudan did not agree on two key points.
 Follow the form of the original for geographic names: names of firms. organizations, and institutions;
 and titles of publications. Of note, most place names today but not all do not include apostrophes, and
 some that did at one time (such as Harper's Ferry in the beginning) no longer have the apostrophe.
 Harpers Ferry
-Lloyds Bank: follow Lloydss lead
+Lloyds Bank: follow Lloyds’s lead
 Johns Hopkins University
 What we call the possessive case often is used when ownership is not involved.
 cerned with the argument that inanimate nouns cannot possess things. The form being used is the
 genitive case which came to be called the possessive case in the 18th century and does not
 involve possession. These forms are perfectly acceptable
-2 hours pay
+2 hours’ pay
 the room's furnishings
-for pitys sake
+for pity’s sake
 Do not use an apostrophe with the possessive form of personal pronouns. Be particularly careful not
-to confuse the possessive its with the contraction its (for it is or it has"). Generally avoid contrac
+to confuse the possessive its with the contraction it’s (for “it is” or “it has"). Generally avoid contrac
 tions in intelligence writing.
 his                                               ours
 hers                                              yours
@@ -5090,13 +5090,13 @@ dockworkers strike
 
 For a date, be careful to distinguish between the plural (formed with a lowercase s, as in 1970s) and
 the possessive (formed with an apostrophe and a lowercase s for a singular date, as in 1970's, or with
-just an apostrophe for the plural possessive. as in [970s}. The plural {970s refers to the years in that
-decade (1970 through 1979), whereas the possessive /970s refers to something belonging to that
-year and the plural possessive /970s to something belonging to that decade.
+just an apostrophe for the plural possessive. as in [970s’}. The plural {970s refers to the years in that
+decade (1970 through 1979), whereas the possessive /970’s refers to something belonging to that
+year and the plural possessive /970s’ to something belonging to that decade.
 
 Except as noted in the exceptions below, use an apostrophe and a lowercase s to form the plural of
 an abbreviation that ends in a lowercase letter or to form the plural of a single letter or digit.
-cys                                              7's and 8's
+cy’s                                              7's and 8's
 dotting i's and crossing t's
 - Do not use an apostrophe for the plural for an abbreviation that is treated as a word:
 
@@ -5110,26 +5110,26 @@ appear the same for both singular and plural instances.
 ICBMs                                                       SS-25s
 MiGs                                                        H   Ils
 
-Use square brackets{ Jfor the following
+Use square brackets—{ J—for the following
 - To enclose a parenthetical expression inside a set of parentheses.
 The temperature in the room {20 �Celsius [80 �Fahrenheit]} was the main reason the meeting
 broke up early
 - To enclose an interpolation, such as an editorial remark, within a direct quotation. However, a paren
 thetical remark that is part of the original material being quoted and that is within parentheses would
 remain in parentheses.
-The defense minister stated that he would resolve the apparent policy shift with him
-[the prime minister] before the meeting.
+The defense minister stated that he would “resolve the apparent policy shift with him
+[the prime minister] before the meeting.”
 
 If you need to label a mistake, such as a misspelling or wrongly used word, within a direct quotation, you can
 show sic (in roman rather than italic type) within square brackets immediately following the error you are labeling,
-The article seemed to be cursed from the start, as its title first appeared as Elections in Chili [sic]
-Likely To Topple President.
+The article seemed to be cursed from the start, as its title first appeared as “Elections in Chili [sic]
+Likely To Topple President.”
 This interpolation tells readers that you are aware of the mistake and did not introduce it. Use this
 technique sparingly, however, as readers also may wonder why you felt the need to quote erroneous
 material. A better alternative, if it is available. is to present the quotation in a way that will allow you
 to omit the erroneous text.
 
-Use angle brackets<        >for Intelink and Internet URLs (uniform resource locators), email
+Use angle brackets—<        >—for Intelink and Internet URLs (uniform resource locators), email
 addresses, and account names when you present them in text, but omit angle brackets with live links.
 This technique was devised to clearly distinguish between punctuation that is part of an electronic
 address and punctuation for the sentence. It also allows for a break to be made in a URL that is too
@@ -5147,8 +5147,8 @@ Using subordinate levels below the bullet level is discouraged. If subbullets ar
 and correspondence, mark each with an en-dash (-), which Word makes available for this type of bullet.
 - The first iter in a bulleted list.
 - The second item in the bulleted list.
- A subbullet.
- Asecond     subbullet.
+— A subbullet.
+— Asecond     subbullet.
 - The third item in the bulleted list.
 
 Keep indentation as formatted in DI's current product line templates for bulleted lists. However. for
@@ -5173,14 +5173,14 @@ words or phrases, a dependent clause or clauses, or even a sentence or series of
 The forcign delegation visited three cities in the United States: New York, Chicago, and Los Angeles.
 The general is well qualified to serve as Army commander: he has served 5 years as the vice com-
 mander and previously held key leadership posts in each of the military districts
-If a single sentence follows a colon for this purpose, begin that sentence with a lowercase letter
+If a single sentence follows a colon for this purpose, begin that sentence with a lowercase letter—
 essentially linking it to the previous sentence. as in the second sample above. However, if a series of
 sentences follows the colon, begin each of them with a capital letter.
 To introduce a list set off from the rest of the text by indentation (as with the colon in the last example
 in the box below)
 To introduce some direct quotations. A colon is the normal punctuation mark to introduce a direct
 quotation when a long quotation is indented as a block to separate it frorn a paper's body text or after
-a formal introduction such as as follows or the following.
+a formal introduction such as “as follows” or “the following.”
 The prime minister said the following in a speech outside the parliament building on 27 March 2010:
 My government is not responsible for the tragic events of 25 March. Irresponsible individuals
 rioted, destroyed public property, and endangered all our citizens. The government had no
@@ -5200,21 +5200,21 @@ Or:        The Army wants several US. military systems:
 - Attack helicopters.
 - Patriot missiles,
 - Humvees.
-For the introduction to the indented list above, the sentence could have been written like this: The Army
-wants several U.S. military systems, such as; even though this introduction would not be grammatically
+For the introduction to the indented list above, the sentence could have been written like this: “The Army
+wants several U.S. military systems, such as”; even though this introduction would not be grammatically
 wrong, the such as is unnecessary, as the colon by itself is sufficient to introduce the list that follows.
 
 Punctuation for Source Reference Citations (Endnotes)
 > Endnote
 references in the text of a product are numbered sequentially, beginning with |, and should be placed
-as clase as reasonably possible after the text to which the number refersbut always at the end of a
+as clase as reasonably possible after the text to which the number refers—but always at the end of a
 clause or phrase and after ending punctuation (comma, semicolon, period, and quotation marks). Often
 the endnote reference number can go at the end of a sentence. as in the first sample below.
-Two days later the so called Green Revolution began;? young members of the Peoples Progressive
+Two days later the so called Green Revolution began;? young members of the People’s Progressive
 Party rioted in the capital
 Although the prime minister insisted that his administration was not responsible for the rioting in the
 capital, he offered little justification for the brutality of the repressive measures he is believed to
-have ordered to bring quiet to the citys streets.
+have ordered to bring quiet to the city’s streets.
 > For writing in academia,
 authors almost never need multiple footnote or endnote reference numbers in the same location. Instead.
 they use a single reference number, which corresponds to a footnote or endnote presenting information
@@ -5232,11 +5232,11 @@ stop these illegal activities.
 (See also page    | 30 for use of a comma to introduce a short quotation.)
 
 Between a title and a subtitle.
-Russia: Outlook for Key Military Reforms
+“Russia: Outlook for Key Military Reforms”
 An em dash can fulfill this same function. though a colon is more common. Moreover. if you need to
 join elements associated with a complex title and subtitle. use a colon for one punctuation mark and
 anem dash for the other rather than using two colons or two em dashes.
-Captives: A Month With the TalibanWhat They Saw and Heard
+“Captives: A Month With the Taliban—What They Saw and Heard”
 
 To show a ratio. If the ratio is used as an adjective, however, use hyphens and to.
 Her chances are     15:1
@@ -5248,7 +5248,7 @@ wise might be misunderstood.
 > last item in a series (serial comma).   Advocates of
 Of the total, profit from the first sale raised
 the most concern.
-> open punctuation leave out the comma after
+> “open” punctuation leave out the comma after
 > the next-to-last item in a series of three or more
 In 2009, 870 tractors were completed
 (But: In 2009 only 870 tractors
@@ -5285,7 +5285,7 @@ A comma usually is not necessary before a dependent clause that ends a sentence,
 dependent clause that is closely related to the meaning of the main clause. In the following example,
 for instance, the ending dependent clause explains why the main clause is true.
 The insurgents became involved with drug trafficking because they needed funds to expand their operations.
-However, a dependent clause that follows a sentences main clause and is not essential to the meaning
+However, a dependent clause that follows a sentence’s main clause and is not essential to the meaning
 of the main clause    usually because it provides additional information or departs from the main
 clause in a new direction    may require a comma at the start.
 Insurgents in the mountains are well protected, whereas those attempting to operate in the low-
@@ -5294,7 +5294,7 @@ After a dependent clause immediately following a coordinating conjunction that j
 clauses. (The coordinating conjunction in the following example is but.)
 The Army commander initially claimed that guerrillas had attacked the convoy, but after operational
 details appeared in the press, he revealed that friendly troops had fired on the trucks
-Note: Advocates of close punctuation also would use a comma between but and after at the
+Note: Advocates of “close” punctuation also would use a comma between but and after at the
 beginning of the dependent clause that follows the coordinating conjunction    because the dependent
 clause interrupts the primary flow of thought in the sentence. That way of punctuating the sentence,
 however, would result in commas on both sides of but, which many readers find excessive, so most
@@ -5312,12 +5312,12 @@ In March, Andorra announced the establishment of a national riverine surveillanc
 Both before and aftera long phrase or clause that occurs between the subject and the verb of a sentence.
 The platoon, having been ordered to prepare to disable the bridge. attached explosive charges
 to the bridge supports.
-A clause or phrase such as this one between a sentences subject and verb may interrupt the flow of
+A clause or phrase such as this one between a sentence’s subject and verb may interrupt the flow of
 thought too much and may make a sentence unnecessarily complex. Moving the interrupting clause to
 the beginning of the sentence (or occasionally to the end) may result in a better sentence.
 Watch for Dangling Modifiers
 When a sentence includes a modifying phrase or clause but lacks a word the modifier can reasonably
-modify, the modifier dangles.
+modify, the modifier “dangles.”
 - The most common dangling modifier occurs at the beginning of a sentence. Readers expect a modifier
 at the start of a sentence to modify the sentence's subject. When that relationship is not reasonable,
 the modifier dangles.
@@ -5333,8 +5333,8 @@ Be particularly careful with sentences beginning with Based on ..., especially w
 ing is paired with a passive voice construction, like this one:
 Based on the sequence of operations just prior to the failure, the system design is considered to
 have caused che failure.
-This sentence says that the system design based something on the sequence of operations just prior to
-the failure. We cannot tell from this sentence who assessed the failure on the basis of the sequence of
+This sentence says that the system design based something “on the sequence of operations just prior to
+the failure.” We cannot tell from this sentence who assessed the failure on the basis of the sequence of
 operations, but we know it was not the system design itself. The sentence needs to be rewritten
 
 Having been ordered to propare to disable
@@ -5358,7 +5358,7 @@ topics existed: no more definition is required, though the sentence adds the non
 tion that the three topics were highly interesting. If the nonrestrictive material had come in the middle
 of the sentence, it would have needed commas on both sides.
 The supervisor, who was dismissed in 1972, was rehired the next year.
-What if more than one supervisor had been firedone in 1972 and one in 1978? Then who was dismissed
+What if more than one supervisor had been fired—one in 1972 and one in 1978? Then who was dismissed
 in 1972 would be necessary for the definition of supervisor and the sentence would have no commas
 
 The supervisor who was dismissed in 1972 was rehired the next year.
@@ -5366,9 +5366,9 @@ To set off a nonrestrictive word, phrase, or clause used in apposition to a noun
 material in apposition to the noun) is a special type of interrupter that provides an explanatory equivalent
 for the noun it follows. Like other interrupters, it can be either restrictive or nonrestrictive, depending on
 whether the appositive is necessary for understanding the noun it accompanies. Nonrestrictive appos-
-itives are set off from the noun for which they are equivalentsusually with a set of commas (though
-parentheses or em-dashes could be used instead)whereas no punctuation should be used to set off a
-Two of Saddam Husayns children, Uday and Qusay, died on 22 July 2003 in a firefight with troops
+itives are set off from the noun for which they are equivalents—usually with a set of commas (though
+parentheses or em-dashes could be used instead)—whereas no punctuation should be used to set off a
+Two of Saddam Husayn’s children, Uday and Qusay, died on 22 July 2003 in a firefight with troops
 from the 10st Airborne in Mosul,
 The appositive Uday and Qusay is nonrestrictive because we can understand the main point of the sentence,
 that two of Saddam's children were killed, without the names of which children died in the firefight.
@@ -5376,7 +5376,7 @@ that two of Saddam's children were killed, without the names of which children d
 Saddam's children Uday and Qusay died on 22 July 2003 in a firefight with troops from the 10st
 Airborne in Mosul.
 
-Here the appositive Uday and Qusay is restrictiveand not set off with cormmasbecause not all of
+Here the appositive Uday and Qusay is restrictive—and not set off with cormmas—because not all of
 Saddam's children died in the firefight.
 
 Beware of Comma Splices
@@ -5421,8 +5421,8 @@ a noun or noun phrase, In the sample
 sentence above, both neutraf and nonatigned
 > egal and drug trofficking.
 modify state independently. This is not the
-case with cumulative adjectives. In illegal
-drug trafficking, illegal modifies not just trafficking, but drug trafficking. Therefore, illegal and drug are not
+case with cumulative adjectives. In “illegal
+drug trafficking,” illegal modifies not just trafficking, but drug trafficking. Therefore, illegal and drug are not
 coordinate, so no comma should go between them.
 Of course, modifier chains can include both coordinate and cumulative adjectives. Consider the modifiers in
 the following sentence.
@@ -5432,12 +5432,12 @@ a comma.    However, several modifies short, swift tributary streams, and the sh
 fies tributary streams (not just streams}, so no comma comes after several or after swaft.
 To introduce some direct quotations.        A comma is the normal punctuation mark to introduce a short
 direct quotation, separating it from the identification of the speaker.
-The minister said, We      must avoid hostilities.
-We must avoid hostilities, the minister said
+The minister said, “We      must avoid hostilities.”
+“We must avoid hostilities,” the minister said
 However, do not use the comma with a quotation that is only part of a sentence. A sentence that
-includes a partial quotation requires only punctuation that would be normal for the sentence itself
+includes a partial quotation requires only punctuation that would be normal for the sentence itself—
 with nothing besides quotation marks to set off the quoted material.
-The minister said his nation must avoid hostilities.
+The minister said his nation “must avoid hostilities.”
 In addition, do not use a comma to set off an indirect quotation. An indirect quotation captures the thought
 from the original material through a summary or paraphrase but does not directly quote the original.
 The minister said his nation needed to steer clear of fighting a war.
@@ -5446,7 +5446,7 @@ that follows a formal introduction.)
 
 - To indicate that a word or words have been omitted.
 Profit in 2008 was $4 million: in 2010, $10 million.
-- To separate an individual's title and an organizations name when of and of the are not present.
+- To separate an individual's title and an organization’s name when of and of the are not present.
 John Smithson, director, Research Department, Stockton Company.
 - To set off a province, state, or country from a city name: fr.. from a person's name: and Inc, Ltd, or SA.
 from a corporate name.
@@ -5466,7 +5466,7 @@ Dashes and the Hyphen
 Dashes the em dash and the en dash _and the hyphen differ in length. Theoretically a hyphen is half
 the length of an en-dash, which is half the length of an em-dash. However, various typefaces do not
 necessarily produce these length relationships exactly. The most we can be sure of is that an em dash
-(CQ) is longer than an en-dash (), whieh is longer than a hyphen ().
+(CQ) is longer than an en-dash (—), whieh is longer than a hyphen ().
 More important are the differences in uses for these punctuation marks, This chapter covers em: and
 en-dashes. Hyphens are used in compounding, which Chapter 7 covers in detail
 All three marks are produced without spaces on either side:
@@ -5474,7 +5474,7 @@ ene dash
 eueddash:         13 December 2009-5 January 2010
 hyphen
 
-Use an em-dash (} for the following
+Use an em-dash (—} for the following
 - As with commas or parentheses, to set off an interrupter in a sentence. If the interruption ends the
 sentence, only one dash, at the beginning, sets off the material. When an interrupter occurs inside a sen-
 tence, a set of dashes is required. Em-dashes that set off interrupting material emphasize the interrupter.
@@ -5484,77 +5484,77 @@ He was a key player in upsetting the coup attempt      as he was with two previo
 In this coup attempt     as with two previous attempts    he was a key player in upsetting the work of
 the coup plotters.
 Before Saddam Husayn was captured, his two sons who were significant in his regime
-Qusaydied in a firefight with U.S. troops in Mosul
-Workers completed construction in Aprilalmost half a year later than projected.
+Qusay—died in a firefight with U.S. troops in Mosul
+Workers completed construction in April—almost half a year later than projected.
 Do not use an em dash as a substitute for a semicolon simply to connect two independent clauses, Clauses
 connected with an em dash should have a stronger connection than the following example demonstrates
-The minister traveled to Romelater he continued to Istanbul.
+The minister traveled to Rome—later he continued to Istanbul.
 As with a colon, at the end of a sentence to point to material that summarizes or expands on the
 material in the preceding portion of the sentence. A word or phrase, a series of words or phrases,
 a dependent clause, or an independent clause can follow the dash. Unlike the colon, however, a dash
 would not precede a series of sentences.
-The foreign delegation visited three cities in the United StatesNew York, Chicago, and Los Angeles.
+The foreign delegation visited three cities in the United States—New York, Chicago, and Los Angeles.
 Like a colon, between a title and a subtitle
-RussiaOutlook for Key Military Reforms
+“Russia—Outlook for Key Military Reforms”
 Accolon is more common for that purpose. However, if you n�ed to join elements associated with a
 complex title and subtitle, use a colon for one punctuation mark and an em dash for the other rather
 than using two colons or two em dashes.
-Captives: A Month With the TalibanWhat They Saw and Heard
+“Captives: A Month With the Taliban—What They Saw and Heard”
 
 Use an en-dash (-) for the following:
 - To connect two parts of continuing or inclusive numbers, whether page references, dates, or time,
-When continuing numbers are joined in this manner, the range means to and including" or through.
+When continuing numbers are joined in this manner, the range means “to and including" or “through.”
 pages 1214 33
 1400-1430 hours.
 
-However, do not use an en-dash (or a hyphen) to replace to in from x to y" or and in between x and y":
+However, do not use an en-dash (or a hyphen) to replace to in “from x to y" or and in “between x and y":
 not from 10 12 August
 between 2008 10
 To replace to in election results, scores, and directions, This is similar to the use above in continuing
 or inclusive numbers, but the en-dash no longer occurs in a numerical range.
 The election resulted in a 153.13 vote.
 The game ended ina 2 2 tic
-The RomeNaples rail line was flooded
+The Rome—Naples rail line was flooded
 
 In place of a hyphen to cannect two parts of a compound term when one part of the compound is
 hyphenated or consists of more than ane word.
 difference between a hyphen and an en-dash is not dramatic, so using to may be preferable to using an
 en-dash to connect compound terms when one part is hyphenated.
-first-stagethird-stage operations [better: first-stage to third-stage operations]
+first-stage—third-stage operations [better: first-stage to third-stage operations]
 pages 6-3-6-5 [better: pages 6-3 to 6-5]
-postOperation ENDURING
-Joint Intelligence Operations CenterAfghanistan
-United States ForcesIraq
-An ellipsisthree spaced periods (...)marks an omission of a word or words within a direct quotation
+post—Operation ENDURING
+Joint Intelligence Operations Center—Afghanistan
+United States Forces—Iraq
+An ellipsis—three spaced periods (...)—marks an omission of a word or words within a direct quotation
 When a quotation clearly is not a complete sentence, you do not need an ellipsis to show that material has
 been left out at the beginning or end of the quotation, No ellipsis is needed with the following quotation
 because must avoid hostilitics obviously does not constitute a complete sentence:
-The minister said his nation must avoid hostilities.
+The minister said his nation “must avoid hostilities.”
 However, when your editing results in what appears to be a complete sentence. use an ellipsis at the
 beginning, end, or both (depending on where you cut material) to show that you have modified the
 original. Consider the following source paragraph:
 Writing in 1890 about Custer's defeat on the Little Bighorn River in 1876, Charles King described
-three factors that appeared to have contributed to Custers mistakes. Dividing his command into
+three factors that appeared to have contributed to Custer’s mistakes. Dividing his command into
 columns to converge on the Indian village from different directions was a tactic that had worked
 for Custer and the 7th U.S. Cavalry at the Battle of Washita River against the Southern Cheyenne
-in 1868. The terrain Custers force was passing through toward the Little Bighorn River hid much
+in 1868. The terrain Custer’s force was passing through toward the Little Bighorn River hid much
 of the Sioux encampment from sight, making the village appear smaller than it was. Finally, when
 he saw evidence of heavy activity where he expected the Sioux village to be. Custer interpreted
 actions taken to get the Indian women      and children to safety as a sign that the Indians were rapidly
 fleeing, justifying an immediate attack.
 
-Using Custer interpreted actions taken to get the Indian women and children to safety as a sign
-that the Indians were rapidly fleeing from that source passage would appear to quote a complete
+Using “Custer interpreted actions taken to get the Indian women and children to safety as a sign
+that the Indians were rapidly fleeing” from that source passage would appear to quote a complete
 sentence, so the quotation would need an ellipsis at the beginning and one at the end to make clear
-In analyzing Custers mistakes at the Little Bighorn, Charles King indicated that... Custer inter-
+In analyzing Custer’s mistakes at the Little Bighorn, Charles King indicated that“... Custer inter-
 preted actions taken to get the Indian women and children to safety as a sign that the Indians were
-rapidly fleeing... For that reason he attacked without conducting thorough reconnaissance of the
+rapidly fleeing...” For that reason he attacked without conducting thorough reconnaissance of the
 battle area. Unfortunately for Custer and the 7th Cavalry, the Sioux were preparing to fight rather
 
 This sample also demonstrates the two primary format styles associated with using an cllipsis
 - When an omission occurs inside a sentence or at the beginning, the result looks like the following or
 like the first ellipsis in the preceding sample.
-Tin and lead . . are the primary exports.
+“Tin and lead . . are the primary exports.”
 - When an omission occurs at the end of a sentence, use four spaced periods without a space in front
 of the first period (a period for the sentence plus the three spaced periods for the ellipsis)
 
@@ -5580,7 +5580,7 @@ The adhan (Islamic call to prayers) issued from the mosque five times a day.
 Forcign terms whose meanings have become commonly understood can be used without translation.
 However, for a non-English term that may not be understood, show the term in italics and follow it
 with a translation or explanation in parentheses, as above.
-Do not use italic type or diacritical marks for the following terms, which were foreign but which
+Do not use italic type or diacritical marks for the following terms, which were “foreign” but which
 have been brought into English
 ad hoc
 aide-de-camp, aides-de-camp
@@ -5601,7 +5601,7 @@ blase                                                 consomme(s)
 blitzkrieg(s)
 bona fide [adjective]
 bona fides [noun, singular and plural]
-coup d'etat, coups detat
+coup d'etat, coups d’etat
 coupe(s)
 critique(s}
 cum laude
@@ -5665,7 +5665,7 @@ seance(s}
 sharia                                                      zakat
 Shiism
 
-Do not use italic type for the following terms, which were foreign but which have been brought into
+Do not use italic type for the following terms, which were “foreign” but which have been brought into
 English, but do use diacritical markings as indicated. as these terms have entered English with diacriti-
 cal markings from the original languages:
 attach�
@@ -5674,12 +5674,12 @@ d�ja vu
 d�marche(s)
 d�tente(s)
 > r�sum�(s)
-- For imeni (named after) in names of Russian organizations or institutes.
+- For imeni (“named after”) in names of Russian organizations or institutes.
 the Leningrad Naval Institute imeni A.K.   Popov
 
 However, do not italicize the original language or English translation of names of foreign organizations,
 providers, and the like when a name is being used as if it were an English language name for a similar
-type of entity, Because DIAs writing focuses on foreign information, we of course write about
+type of entity, Because DIA’s writing focuses on foreign information, we of course write about
 numerous foreign organizations, businesses, etc., as a normal part of our production. For most of
 these foreign proper names, then, we treat them as if they are in English and do not italicize elements
 of the proper names that are in or translated from a foreign language.
@@ -5689,10 +5689,10 @@ the Buddhist organization Soka Gakkai
 Nevertheless, if you clearly are providing the foreign language translation for something, show the for-
 eign words in italics even though the subject of the discussion may be a foreign organization, institute.
 governmental body, political party, educational institute, corporation. Internet service provider, etc.
-Gazprom is a contraction from Gazovaya Promyshlennost, or gas industry.
-The Gestapo (Geheime Staatspolizei, or "Secret State Police) was Nazi Germany's official secret
+Gazprom is a contraction from Gazovaya Promyshlennost, or “gas industry.”
+The Gestapo (Geheime Staatspolizei, or "Secret State Police”) was Nazi Germany's official secret
 police organization
-Subordinate to Algerias Ministry of National Defense is its Department of Intelligence and Security,
+Subordinate to Algeria’s Ministry of National Defense is its Department of Intelligence and Security,
 or DRS (Departement de Renseignement et de Securite)
 In addition. do not italicize the original language or English translation of names of geographic features
 (mountains, rivers, islands, etc.) or place names.
@@ -5702,7 +5702,7 @@ the Isla de Pinos (Isle of Pines), but in 1978 it was renamed the Isla de la Juv
 When citing a letter as a letter,   a word as a word, or a phrase as a phrase.    That is, these items are
 italicized when they are being used not for their meanings but as things or terms.
 For the possessive, add an apostrophe and a lowercase s.
-Do not confuse the possessive its with the contraction its.
+Do not confuse the possessive its with the contraction it’s.
 Along with and other phrases such as as well as, in addition to, like, and together with frequently follow
 immediately after a subject of a sentence.
 For the proper name (but not the type or class} of a ship, aircraft, or spacecraft.
@@ -5728,22 +5728,22 @@ Carlos and a companion, Pedro Rodriguez, also were reported to be dealing with r
 establish runways on their properties.
 
 When the format for a product calls for italic type for a portion and you necd to usc italics for an clement
-within that portion, make that italic element roman instead. For example, the following passage might
+within that portion, make that “italic” element roman instead. For example, the following passage might
 occur in the opening paragraph of a report for which the product format requires the first paragraph to be
 in italic type; the reference to Escherichia coti within the paragraph then appears in roman type (the reverse
 of italic type):
 Dr. Harriet Smith has studied the effects of exposure to pathogenic Escherichia coli from contaminated
 food. This research may prove useful for developing foodborne biological agents.
-Use a set of parentheses( )for the following
+Use a set of parentheses—( )—for the following
 As with commas or dashes, to set off an interruption within a sentence. When parentheses are used
 with an interruption, they reduce the emphasis on it, making it like a whispered aside
 
-The countrys exports (tin and lead) are not sufficient for a favorable trade balance.
-The countrys trade balance suffers from inadequate exports (tin and lead only)
+The country’s exports (tin and lead) are not sufficient for a favorable trade balance.
+The country’s trade balance suffers from inadequate exports (tin and lead only)
 In the second example above. the final parenthesis precedes the sentence period. If a complete
 sentence (or sentences) is used parenthetically, the end punctuation goes inside the final parenthesis,
 as in the following:
-The countrys trade balance suffers from inadequate exports. (Only tin and lead were exported in
+The country’s trade balance suffers from inadequate exports. (Only tin and lead were exported in
 2009, and those were at low levels.)
 For a parenthetical expression within a parenthetical element, see the rules for using square
 brackets (page 123).
@@ -5757,9 +5757,9 @@ Note: This example is to illustrate the mechanics of presenting the parenthetica
 simple series normally does not need numbering of its items
 To enclose translations or explanations, particularly for foreign expressions.
 Memories of the Anschluss (Nazi Germany's annexation of Austria) still influence Austrian politics today.
-Subordinate to Algerias Ministry of National Defense is its Department of Intelligence and Security.
+Subordinate to Algeria’s Ministry of National Defense is its Department of Intelligence and Security.
 or DRS (Departement de Renseignement et de Securite}
-Be particularly careful not to confuse the possessive its with the contraction its (for itis or it has).
+Be particularly careful not to confuse the possessive its with the contraction it’s (for “itis” or “it has”).
 
 A period brings a reader to a full stop at the end of a sentence. DIA also uses periods for the following
 For bulleted material as part of a product's body text. For textual products (but not briefing slides), end
@@ -5769,8 +5769,8 @@ phrase. or full sentence.   If a bulleted item has multiple sentences, punctuate
 
 - The first item in a bulleted list.
 - The second item in the bulleted list.
- A subbullet.
- A second subbullet.
+— A subbullet.
+— A second subbullet.
 
 For briefing slides, although each bulleted item begins with an initial capital letter, the bulleted items
 normally have no end punctuation. If a bulleted clement has multiple sentences, only the final one has
@@ -5778,17 +5778,17 @@ normally have no end punctuation. If a bulleted clement has multiple sentences, 
 At the end of an in-paragraph heading. In-paragraph headings normally are bolded, and the period that
 ends such a heading also should be bolded, For example, the following is the beginning of a passage
 from Chapter 3 of this style manual and uses an in-paragraph heading
-Arabic     Persons   Names.      When   at is part of a persons name in Arabic, include the at when
-writing out the individual's full name the first time, as in DIA judges that Iraqi Prime Minister
-Haydar al-Abadi will modify the plan. For subsequent references to the same individual, drop
-the al, as in this secondary reference in the same paper: Diplomats have noted that Abadi
-expects the plan to include three phases.
+Arabic     Persons’   Names.      When   at is part of a person’s name in Arabic, include the at when
+writing out the individual's full name the first time, as in “DIA judges that Iraqi Prime Minister
+Haydar al-Abadi will modify the plan.” For subsequent references to the same individual, drop
+the al, as in this secondary reference in the same paper: “Diplomats have noted that Abadi
+expects the plan to include three phases.”
 DIA normally does not use periods for the following
 - With standalone headings. In-paragraph headings end with a period because body text immediately
 follows on the same line. Standalone headings, however, should have no such ending punctuation. See
-for example the first-level heading that comes below for         Question Mark.   The rare heading that is a
+for example the first-level heading that comes below for         “Question Mark.”   The rare heading that is a
 question, however, should end with a question mark.
-- With table headings and for short comments within a remarks or comments type of table cell
+- With table headings and for short comments within a “remarks” or “comments” type of table cell
 However, if remarks are sufficiently lengthy or complex to require divisions within the comments,
 Punctuation such as commas. semicolons, or even periods may be needed to separate parts of the
 table's   comment field. Moreover. if periods are needed for one comments-type cell in a table, then use
@@ -5802,17 +5802,17 @@ He asked how the money could be raised.
 - To show uncertainty or ignorance. In a table this can be done by using a question mark rather than
 information in a data field. A similar application can be used in text, although such use should be
 avoided as much as possible
-The countrys first prime minister, Dodson Wainwright (2. 1721), began the custom.
+The country’s first prime minister, Dodson Wainwright (2. 1721), began the custom.
 - For a title that asks a question.
 
-Military for Sale: Can Commercial Ventures Save the Armed Forces?
+“Military for Sale: Can Commercial Ventures Save the Armed Forces?”
 
-Use a set of double quotation marks (        ") for the following:
+Use a set of double quotation marks (”        ") for the following:
 - To enclose a direct quotation.
-The minister said, We want to avoid hostilities."
-Act all cost, the minister said, we want to avoid hostilities.
+The minister said, “We want to avoid hostilities."
+“Act all cost,” the minister said, “we want to avoid hostilities.”
 
-We want to avoid hostilities, the minister said
+“We want to avoid hostilities,” the minister said
 When a long quotation is set off by block indentation within the margins of a page or within a text
 column, the indentation serves as a set of quotation marks, so none is required unless the passage has
 internal quoted material. The block-indented passage below is a direct quotation, but the material has no
@@ -5836,12 +5836,12 @@ Epigraphs occasionally occur in intelligence products, including in briefings, t
 epigraphs usual elements of our products. Wherever it appears in a document, an epigraph is a
 special type of block quotation. An epigraph generally leaves out some elements of other direct quo-
 tations: because epigraphs often quote a well-known source, they usually attribute the quotation to
-only the person's name or to the persons name and the work in which the original passage occurred,
+only the person's name or to the person’s name and the work in which the original passage occurred,
 and other documentation is eliminated.       Presenting an epigraph in a classified product presents a
-special formatting problem because putting (U) at the start of a quotation from, say, Sun Tzu looks
+special formatting problem because putting “(U)” at the start of a quotation from, say, Sun Tzu looks
 a bit silly. Follow these formatting rules for presenting an epigraph:
 Present the quotation without quotation marks (unless quotation marks are needed within the epigraph).
- Double-space after the quotation to find the line for naming the author, right-justify the author's
+— Double-space after the quotation to find the line for naming the author, right-justify the author's
 name or the author's name and the work in which the quotation appears, and precede the author's
 name with an em-dash.
 To avoid having to show a portion classification marking on the quotation in the epigraph, put the
@@ -5849,23 +5849,23 @@ epigraph in a tone box and mark the quotation outside the box in the upper left 
 you will not show a title for the tone box (though one could be used if needed)
 
 Native agents are those of the enemy's country people whom we employ.
-> Sun Tzu
+> —Sun Tzu
 
 Native agents are those of the enemy's country people wham we employ.
-> Sun Tzu, The Art of War
+> —Sun Tzu, The Art of War
 
 - To enclose the titles of works that are published as parts of longer works       poems, short stories,
 songs, articles, notes, essays, headlines, chapter titles, and other parts of a book or periodical. Online
 works follow this rule as well.
-Russia: Outlook for Key Military Reforms was an article in a recent issue of the Defense Intelligence Digest.
+“Russia: Outlook for Key Military Reforms” was an article in a recent issue of the Defense Intelligence Digest.
 
 Note: For source reference citations, to simplify the source endnotes. DIA eliminated both italics for
 titles of works published separately and quotation marks for titles of things published as a part of
 longer works. Therefore, the guidance above for using quotation marks with article titles, etc., docs
 not apply to source reference citations.
 Spacing Becween Colocated Single and Double Quotation Marks
-Occasionally material will require single and double quotation marks to appear ina line togetherfor
-example, a quotation that includes a quoted word'"which looks strange. You can modify this spacing
+Occasionally material will require single and double quotation marks to appear ina line together—for
+example, “a quotation that includes a ‘quoted word'"—which looks strange. You can modify this spacing
 to improve readability by inserting a thin space between the single and double quotation marks. Two
 ways are available to add the thin space in Word 2007:
 Using the Lasert Symbol Ennction
@@ -5876,23 +5876,23 @@ i}       Place the cursor where you want the thin space added   between the sing
 5.       Inthe Characcer code box cype 2009,
 6        Choose the Insert button, followed by the Close button.
 Using a Keyboard Shortcut
-1, Place the cursor where you want the thin space addedbetween the single and double quotation marks
+1, Place the cursor where you want the thin space added—between the single and double quotation marks
 2. Type 2009, followed immediately by Ale+x; the 2009 will change into the thin space
-The result should look like this: a quocacion that includes a quoted word "with a thin space becween
+The result should look like this: “a quocacion that includes a ‘quoted word’ "with a thin space becween
 the single and double quotation marks
 
 To set off a word or phrase used in a special sense (a meaning different from the normal sense) or to
 indicate the standard meaning of a word or phrase.
-The refugees were offered voluntary repatriation
-He invited me for a working lunch. but | did all the work and he ate all the lunch.
-Do not confuse its (the possessive of it} with its (a contraction for it is" or it has")
+The refugees were offered “voluntary” repatriation
+He invited me for a “working lunch.” but | did all the work and he ate all the lunch.
+Do not confuse its (the possessive of it} with it’s (a contraction for “it is" or “it has")
 Use caution when presenting a word or phrase in a special sense. The quotation marks with the term
 indicate something is unusual about it, but readers must easily understand the special sense of the
 material. Using this device to be clever may result instead in a failure to communicate.
 To set off words or phrases following terms such as entitled, named, endorsed, signed, cited os, or referred
 to os (unless rules for using italics call for italic type instead)
-The document was signed G. Washington.
-Romes Leonardo da Vinci International Airport also is referred to as Fiumicino, the suburb of Rome
+The document was signed “G. Washington.”
+Rome’s Leonardo da Vinci International Airport also is referred to as “Fiumicino,” the suburb of Rome
 where the airport is located; failure to know both names can geta driver lost, as road signs for
 the airport sometimes shaw one name and sometimes the other.
 
@@ -5905,31 +5905,31 @@ The system is called profit and loss, but the profits may not be apparent.
 Even after these terms, however, quotation marks may be used to give special emphasis to the
 quoted or verbatim nature of an expression, especially if irony, sarcasm, or bad grammar is involved.
 The government's antiterrorism battalion nearly eliminated the village with an
-operation staged under its so called pacification program.
+operation staged under its so called “pacification” program.
 Use a set of single quotation marks {� ') to enclose quoted material within a quotation that already
 is marked with double quotation marks.
 double rather than single quotation marks.)
-He said, I think you should read Russia:      Outlook for Key Military Reforms.
+He said, “I think you should read ‘Russia:      Outlook for Key Military Reforms.’
 
 Some U.S. writers believe they should use only single quotation marks around a single word or short
 phrase used in a special sense. That convention is true for British use of quotation marks but not for
 USS, use. Instead, see the third bulleted guidance above for double quotation marks
 
 Place periods and commas inside quotation marks.
-He said, | think you should read Russia: Outlook for Key Military Reforms.
-| think you should read Russia: Outlook for Key Military Reforms, " he said
+He said, “| think you should read ‘Russia: Outlook for Key Military Reforms.”
+“| think you should read ‘Russia: Outlook for Key Military Reforms,” " he said
 Place semicolons and colons outside quotation marks.
 
-He said | should read Russia: Qutlook for Key Military Reforms; he thought it would be good for me.
-He said | should read Russia: Outlook for Key Military Reforms: he thought it would be good for me.
+He said | should read “Russia: Qutlook for Key Military Reforms”; he thought it would be good for me.
+He said | should read “Russia: Outlook for Key Military Reforms”: he thought it would be good for me.
 Place a question mark or exclamation point inside quotation marks if the quotation is a question or
 exclamation; this rule applies whether or not the sentence as a whole is a question or exclamation
 However, put the question mark or exclamation point outside quotation marks if the sentence is a
 question or an exclamation but the quotation is not.
 
-She asked, Do you remember reading the article?
-The author also wrote Why Can't Johnny Read?"
-Why should | read Russia: Outlook for Key Military Reforms"?
+She asked, “Do you remember reading the article?”
+The author also wrote “Why Can't Johnny Read?"
+Why should | read “Russia: Outlook for Key Military Reforms"?
 
 Use a semicolon (;) for the following
 - To separate the clements in a series when one or more of the scries elements itself requires commas.
@@ -5949,7 +5949,7 @@ adverb. Common conjunctive adverbs are first (second, etc.). for example, for in
 ever, moreaver, nevertheless, nonetheless, therefore, and thus.
 
 He worked for the company for 20 years; however, he took a leave of absence from 1952 to 1954.
-Use a forward slash (/)also called a virgulefor the following
+Use a forward slash (/)—also called a virgule—for the following
 - To indicate a period occurring partially in one year and partially in another.
 FY 2010/11
 He flew three illegal flights in 2008/09.
@@ -5961,16 +5961,16 @@ km/h                                              rd/min
 - To separate alternatives.
 
 Many factors need to be considered in program/budget decisions.
-Note:     In this application the slash is intended to mean and/or. Thus, the sample above refers to
-program decisions or budget decisions or program and budget decisions. However, a caution is
+Note:     In this application the slash is intended to mean “and/or.” Thus, the sample above refers to
+“program decisions or budget decisions or program and budget decisions.” However, a caution is
 necessary here: some writers use this punctuation device to avoid making a decision about what term
-is correct. In our goal/objective is, no useful distinction exists between the alternatives, so the
+is correct. In “our goal/objective is,” no useful distinction exists between the alternatives, so the
 writer should pick one rather than demonstrating indecision.
 To indicate a word combination when one or both of the elements in the combination already contain
 a hyphen.
 The insurgents were armed with Cuban-/Russian-supplied weapons.
-Again the slash equates to and/or: thus, the sample refers to "Cuban supplied and/or Russian supplied
-weapons. If the writer wants only an or or an and relationship, then the sentence should be recast:
+Again the slash equates to “and/or”: thus, the sample refers to "Cuban supplied and/or Russian supplied
+weapons.” If the writer wants only an “or” or an “and” relationship, then the sentence should be recast:
 The insurgents were armed with Cuban- or Russian-supplied weapons.
 The insurgents were armed with Cuban- and Russian-supplied weapons
 - To indicate azimuthal direction.
@@ -5978,7 +5978,7 @@ ENE/WSW runway
 
 ## CHAPTER 7:
 
-Mignon   Fogarty, Grammar Girls Quick and
+—Mignon   Fogarty, Grammar Girl’s Quick and
 Dirty Tips for Better Writing
 
 ## CHAPTER           7:
@@ -6002,29 +6002,29 @@ applied in the choices in the word list, especially for compounding
 
 The authority for spellings of place names is the U.S. Board on Geographic Names (BGN). The
 National Geospatial-Intelligence Agency provides a text-based BGN search function on JWICS at
-shetp:/ /names.nga
+“shetp:/ /names.nga
 Another useful source is The World Factbook.
 
 The National Geospatial Intelligence Agency's
 Geographic Names Server reflects foreign
 place names sanctioned by the BGN. This
 > Although diacritical marks appear in the place
-database provides Approved spellings
+database provides “Approved” spellings
 (which generally have diacritics and often
-special endings for some names}, Variants
+special endings for some names}, “Variants”
 (which normally will include a spelling without
 the diacritical marks), and, when they exist,
-Conventional spellings (which reflect the
+“Conventional” spellings (which reflect the
 spelling commonly used in English).
 Numerous spellings typically come up in a
-BGN scarch for a place name. Check the Feature Designation column first; primary administrative
-division generally indicates a province or governorate, and populated place indicates a city or
+BGN scarch for a place name. Check the “Feature Designation” column first; “primary administrative
+division” generally indicates a province or governorate, and “populated place” indicates a city or
 town. In the appropriate row, look for either the "Conventional" or the "Approved" spelling.
-- If the search result shows a Conventional spelling for a place name, we generally will use that spelling
-Thus, instead of Moskvo, the Approved spelling, use the Conventional name of Moscow, Instead of the
-Approved spelling for North Korea's capital Py�ngyang use the Conventional spelling of Pyongyang
-- When an Approved spelling has diacritical marks, use that spelling without the diacritics. Thus, instead
-of Islamabad, the Approved Short spelling for the capital territory in Pakistan, use Islamabad. Do not
+- If the search result shows a “Conventional” spelling for a place name, we generally will use that spelling
+Thus, instead of Moskvo, the “Approved” spelling, use the “Conventional” name of Moscow, Instead of the
+“Approved” spelling for North Korea's capital P’y�ngyang use the “Conventional” spelling of Pyongyang
+- When an “Approved” spelling has diacritical marks, use that spelling without the diacritics. Thus, instead
+of Islamabad, the “Approved Short” spelling for the capital territory in Pakistan, use Islamabad. Do not
 confuse apostrophes with diacritical marks; retain the apostrophe in place names such as N'Djamena.
 When possible, spellings in text and on maps should agree. For example, beware of showing Rhodes
 in text but showing Rhodos or Rhodus on an accompanying map.
@@ -6048,7 +6048,7 @@ no word siguificait:
 Compounding conveys an idea by combining two or more words to form a thought. The result can
 be separate words in an unconnected sequence, words linked with a hyphen or hyphens. or words
 joined as a solid, single word. Current language trends lead to closing up many word sets that have
-become associated in readers minds through frequent use.
+become associated in readers’ minds through frequent use.
 
 Separate Words
 One compounding form is to write words in sequence, without joining them or linking them with a
@@ -6104,10 +6104,10 @@ cyberspace, an ethereal analyst, like an avatar, rather than a flesh-and-blood a
 concepts such as this, multiple separate words are more appropriate.
 
 - For this reason, we make a distinction for cyber terms based on meaning
- Cyber terms related predominantly to things inside or integral to the cyber realm for which we join
+— Cyber terms related predominantly to things inside or integral to the cyber realm for which we join
 cyber with the root word to farm a solid term: for example, cyberactivity, cyberattack, cybercrime,
 cyberoperation, cybersecurity, cyberterrorism, cyberthreat.
- Cyber terms related predominantly to things about the cyber realm or managing itfor which we keep
+— Cyber terms related predominantly to things about the cyber realm or managing it—for which we keep
 cyber separate, resulting in multiple separate words: for example, cyber analyst, cyber collection, cyber
 community, cyber doctrine, cyber offensive and defensive operations.
 Less frequently. cyber also may be joined by a hyphen to another word when the combined term is
@@ -6162,19 +6162,19 @@ the words they modify. When the words make
 sense only as a unit, the compound        is a unit
 > of a noun that your thought becomes difficult
 modifier and usually is written with a hyphen
-In short, swift streams, both short and
+In “short, swift streams,” both short and
 swift modify streams independently (they
 are coordinate adjectives), and no hyphen
 is used to join the modifiers.     (There is a
 > weapon system development and acquisition."
 comma, however, because the adjectives are
 coordinate; see comma usage in Chapter 6.)
-In short tributary streams, tributary modifies streams, and short modifies tributary streams; the adjectives
+In “short tributary streams,” tributary modifies streams, and short modifies tributary streams; the adjectives
 are cumulative, and no special mark is used to join them. Nate, however, that each adjective logically
-could modify the noun separately; that is, short streams and tributary streams both make sense, even
+could modify the noun separately; that is, “short streams” and “tributary streams” both make sense, even
 if these are not what the writer means.
-- In 40-horsepower engin
-make sense only as a unit        hence the term unit modifier.
+- In “40-horsepower engin
+make sense only as a unit        hence the term “unit modifier.”
 Part of the confusion for many authors is that a compound modifier receives different treatment
 when it follows the word it modifies:
 
@@ -6267,9 +6267,9 @@ recently designed building
 wholly owned subsidiary
 
 Sometimes a comparative or superlative needs to be combined with the word it precedes to ensure
-clarity. If we write older technology mines,     the phrase can be misunderstood as indicating tech-
-nology mines that are older. Adding a hyphen to connect older and technologyolder-technology
-mines"makes clear that we mean mines employing older technology.
+clarity. If we write “older technology mines,”     the phrase can be misunderstood as indicating “tech-
+nology mines” that are “older.” Adding a hyphen to connect older and technology—“older-technology
+mines"—makes clear that we mean mines employing older technology.
 Three-Word Modifiers
 Do not use hyphens in a three-word unit modifier when the first word is an adverb modifying the
 second word
@@ -6298,8 +6298,8 @@ World War Il period
 
 Do not use hyphens in a unit modifier enclosed in quotation marks unless the modifier normally is
 hyphenated, and do not use quotation marks in lieu of hyphens
-a spare the rod approach to parenthood
-the one-man woman plots of many operas
+a “spare the rod” approach to parenthood
+the “one-man woman” plots of many operas
 but a right-to-work law
 
 Chemical Terms
@@ -6354,7 +6354,7 @@ However, retain hyphens that appear in proper names.
 
 Directorate General for Inter-Services Intelligence
 
-Except for the short prefixes co, de, pre, and rewhich generally are written soliduse a hyphen to
+Except for the short prefixes co, de, pre, and re—which generally are written solid—use a hyphen to
 avoid doubling a vowel when adding a prefix or tripling a consonant when adding a suffix
 With Prefixes
 anti-insurgent
@@ -6426,7 +6426,7 @@ ambassador at large
 commander in chief
 vice president
 but under secretaryship. vice presidency
-Except for titles, hyphens appear in somebut not allnoun compounds containing a prepositional phrase.
+Except for titles, hyphens appear in some—but not all—noun compounds containing a prepositional phrase.
 government-in-exile
 grant in aid
 man-of-war
@@ -6886,7 +6886,7 @@ call sign
 callup (adj, n)
 call up �)
 camelback
-camels hair (um)         cargo handling (um)
+camel’s hair (um)         cargo handling (um)
 campfire
 campground
 camshaft
@@ -7090,8 +7090,8 @@ cross connect         crosswise
 cross country (adj)   crossword
 cross cultivate (v)   crowbar
 crosscurrent
-crosscut, ting        crows foot (nonliteral)   cyber battlefield
-cross echelon         crows nest (nonliteral)   cybercafe
+crosscut, ting        crow’s foot (nonliteral)   cyber battlefield
+cross echelon         crow’s nest (nonliteral)   cybercafe
 cross examination     cruise missile
 cross examine         cryptanalysis
 cross eyed (adj)      crypto (cf)
@@ -8220,7 +8220,7 @@ mudhole
 mudslinging
 muezzin
 mujahid. mujahideen        nationwide
-but follow sources      native born (um)
+but follow source’s      native born (um)
 spelling if part of      natural gas (adj, n)
 @ group name
 mullah
@@ -9661,7 +9661,7 @@ write in (v)
 
 ## APPENDIX:
 
-The Chicago Manual of Style
+—The Chicago Manual of Style
 Conversion factors in boldface are exact.    All others are approximate and are given to four
 significant figures.
 
@@ -9738,7 +9738,7 @@ barrels (POL)
 barrels (POL)
 barrels (POL)
 
-C= (F-32)+18
+“C= (F-32)+18
 oF = (PC X 1.8) + 32
 UNCL
 
