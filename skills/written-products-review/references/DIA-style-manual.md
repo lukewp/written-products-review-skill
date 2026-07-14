@@ -10,7 +10,11 @@
 **DEFENSE INTELLIGENCE AGENCY**  
 *ICOD: 1 December 2015 | DIA-01-1309-510 | UNCLASSIFIED*
 
-> **Note:** Converted from PDF using `pdftotext -layout` with post-processing. The table of contents used complex multi-column formatting that was not fully recoverable. Seven chapters: (1) Writing Style, (2) Abbreviations, (3) Capitalization, (4) Numbers, (5) Grammar and Usage, (6) Compounding, (7) Spelling/Compounding List  plus an Appendix on units of measure.
+> **Public domain.** A U.S. Government work (17 U.S.C. § 105), released under FOIA — requested 20 June 2014, released 2 February 2017. Original PDF: [dia.mil FOIA reading room](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/DIA-Instructions/DIA_Style_Manual_for_Intelligence_Production.pdf) · [governmentattic.org mirror](https://www.governmentattic.org/23docs/DIAstyleManualIntelProd_2016.pdf). Some portions were withheld under FOIA exemptions and are absent here.
+>
+> **Note:** Converted from that PDF using `pdftotext -layout`, then hand-corrected for OCR errors, spelling, and punctuation by Luke Peterson. The table of contents used complex multi-column formatting that was not fully recoverable. Seven chapters: (1) Writing Style, (2) Abbreviations, (3) Capitalization, (4) Numbers, (5) Grammar and Usage, (6) Compounding, (7) Spelling/Compounding List, plus an Appendix on units of measure.
+>
+> Free to use, with or without attribution. See `NOTICE.md` in the source repository.
 
 ---
 
