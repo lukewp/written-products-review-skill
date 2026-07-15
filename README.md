@@ -1,45 +1,39 @@
 # Written Products Review
 
-A deployable slash-skill that walks authors through a multi-stage editing and publishing process for written products — reports, briefs, memos, presentations. Based on the Insights Report Checklist (v6), which synthesizes principles from Smart Brevity, Strunk & White, Tufte, AP Style, and the Army War College Communicative Arts Directive.
+A Claude Code skill that walks an author through a multi-stage editorial review of a written product — an insights report, brief, memo, or presentation — before it reaches its reader. It implements the **Insights Report Checklist**, a review process refined over nearly a decade of professional practice.
+
+The skill runs a document through up to twelve **gates**. Each gate has explicit completion criteria and a defined output; the document cannot advance until the gate is met and the author confirms. The process is the same every run — same gates, same criteria, same formats — so the review is predictable regardless of what's being reviewed.
 
 ## Where this came from
 
 The checklist began in 2016 as a Word document its author used on his own writing. It became a Google Doc, then a standard: at the U.S. Department of State, staff who wanted a research product reviewed had to first write a brief answering the audience questions, then complete the entire checklist themselves. Only then would it go up for review — where it was run from the top a second time. The process was not popular. The products were exceptional.
 
-A custom GPT followed in 2023. It worked, and it struggled: nothing held it to the process, and nothing measured whether it was any good.
-
-This repo is the fourth iteration, and the first one that can be held to both.
+A custom GPT followed in 2023. It worked, and it struggled: nothing held it to the process. This repository is the next iteration, and the first one built as a proper skill — with the checklist as a canonical, versioned source and the review logic derived from it.
 
 ## What it does
 
-The skill runs a document through up to 12 review stages, each a quality gate the document must pass before advancing:
-
 | Stage | Focus |
 |-------|-------|
-| P1 | Audience interview — build a **brief** describing the reader, their decisions, and why this work matters |
-| P2 | First read — highlights only, no edits |
-| 1 | Analysis and strategic insight — does it answer the questions asked? |
-| 2 | Organization — executive summary, logical structure, assert-support-analyze flow |
-| 3 | Line-by-line — style rules, sentence length, current/potential edit pairs |
-| 4 | Read aloud — readability, awkward phrasing, title and filename check |
-| 5 | Sensitivity — nothing scandalous, classification markings appropriate |
-| 6 | Sanity check — fresh-eyes sub-agent summarizes the document cold |
-| 7 | Packaging — fonts, image resolution, links, page numbers |
-| 8 | Accessibility — alt text, header tags, table headers, chart descriptions |
-| 9 | Presentation *(if applicable)* — font sizes, breathing space, PDF delivery |
-| 10 | Publishing *(if applicable)* — SEO, LLM citation optimization |
+| P1 | **Audience** — build a *brief*: who the reader is, the decision they face, why this matters |
+| P2 | **First read** — a viewing pass; capture what's *great*, no edits |
+| 1 | **Analysis & strategic insight** — does it answer the question and advise the decision? |
+| 2 | **Organization** — executive summary first, logical structure, assert–support–analyze |
+| 3 | **Line-by-line** — style rules, sentence length, *current/potential* edit pairs |
+| 4 | **Read aloud** — readability, awkward phrasing, title and filename |
+| 5 | **Sensitivity** — nothing scandalous or embarrassing; classification marking |
+| 6 | **Fresh eyes** — a blind sub-agent reads the document cold; compare to P2's highlights |
+| 7 | **Packaging** — fonts, image resolution, links, page numbers |
+| 8 | **Accessibility** — alt text, header tags, table headers, chart descriptions |
+| 9 | **Presentation** *(decks)* — font sizes, breathing space, PDF delivery |
+| 10 | **Publishing** *(public docs)* — search and LLM-citation positioning |
 
-At each gate, the author can revise and resubmit or skip forward.
+At each gate the author revises and resubmits, or proceeds. The skill surfaces findings; it never silently rewrites the author's work.
 
-## Status
+### Style standards
 
-**Pre-build.** Architecture is resolved and the audience stage (P1) is written. `SKILL.md` and the remaining eleven stage files do not exist yet. The skill is not yet installable.
-
-See [`docs/roadmap.md`](docs/roadmap.md) for the milestones and what "done" means for each.
+Stages 1–3 load a style ruleset chosen in the brief: **General** (Smart Brevity / Strunk & White), **DIA** (IC analytic production standards — words of estimative probability, 20-word sentences), or **AP** (journalism/PR). Authors can layer their own style guide as an overlay; precedence is *user overlay > style standard > base checklist*.
 
 ## Install
-
-*Not yet — this section describes the target, not the present. Tracked as M6 in the roadmap.*
 
 As a Claude Code plugin:
 
@@ -48,57 +42,58 @@ As a Claude Code plugin:
 /plugin install written-products-review@lukewp
 ```
 
-Or copied into your project, so you can edit the checklist to fit your house style:
+Or copied into a project, so you can adapt the checklist to your house style:
 
 ```
 npx skills@latest add lukewp/written-products-review-skill
 ```
 
+Then invoke it by asking Claude to review a report, brief, memo, or deck — or run it explicitly on a document you want checked before it ships.
+
+## Status
+
+**v6 implemented; validation in progress.** The skill is structurally complete — `SKILL.md` plus all twelve stage files — and derives from checklist v6. It is being validated against a corpus of real documents, and the checklist continues to evolve; a v7 is in progress.
+
 ## Repo layout
 
 ```
-insights-report-checklist.md   ← the checklist. Canonical. See ADR 0001.
-AGENTS.md                      ← agent-facing project context
+insights-report-checklist.md   ← the checklist (v6). Canonical. See ADR 0001.
 skills/
   written-products-review/
-    SKILL.md                     process skeleton and gate protocol (not yet written)
-    references/                  per-stage review criteria, derived from the checklist
-      audience.md                  P1: audience interview protocol
-      DIA-style-quick-reference.md compact analytic writing rules
-      DIA-style-manual.md          full DIA style manual (grep-only, 9,700 lines)
+    SKILL.md                     process skeleton, gate protocol, stage index
+    references/                  per-stage criteria, each derived from the checklist
+      audience.md                  P1 · first-read.md P2 · 01–10 the review gates
+      style-rules.md · ap-style-rules.md      style rulesets (Stage 3)
+      DIA-style-quick-reference.md · DIA-style-manual.md   DIA standard (Stage 3)
 docs/
-  roadmap.md                   ← milestones and acceptance criteria
+  roadmap.md                     milestones and acceptance criteria
   adr/                           architectural decision records
-  vision/
-    skill-vision.html            interactive vision board (stages, gaps, decisions)
-    skill-architecture.md        resolved architecture decisions
-  agents/                        engineering skill config (issue tracker, triage, domain)
-fixtures/                      ← the test corpus (not yet built — see M1)
+  checklist-history/             the lineage: v4, v5, v6 as they shipped
+  vision/                        architecture rationale + interactive vision board
+fixtures/                        scaffold for the test corpus
 ```
 
 ## Architecture
 
-Hybrid entry point: one `SKILL.md` (~200 lines) holds the process skeleton and gate protocol. Each stage loads its review criteria from a separate file in `references/`, so the agent only sees the current stage — preventing premature completion.
+Hybrid entry point: one `SKILL.md` holds the process skeleton and gate protocol; each stage loads its criteria from a separate reference file only when reached, so the agent sees one stage at a time. This prevents sprawl and premature completion.
 
-The checklist is the source of truth. Every stage reference file is *derived* from it and cites the section it came from; when a rule changes, it changes in the checklist first ([ADR 0001](docs/adr/0001-checklist-is-canonical.md)).
-
-Full rationale in [`docs/vision/skill-architecture.md`](docs/vision/skill-architecture.md). Interactive vision board at [`docs/vision/skill-vision.html`](docs/vision/skill-vision.html).
+The checklist is the source of truth. Every stage file is *derived* from it and cites the section it came from; a rule changes in the checklist first ([ADR 0001](docs/adr/0001-checklist-is-canonical.md)). Full rationale in [`docs/vision/skill-architecture.md`](docs/vision/skill-architecture.md).
 
 ## License and attribution
 
-Two licenses, because this repo holds two different things.
+Two licenses, because this repo holds two things.
 
 | What | License |
 |------|---------|
-| The checklist, the stage criteria, the style guides, the docs — everything in `insights-report-checklist.md`, `skills/**/references/`, and `docs/` | [CC BY 4.0](LICENSE-CONTENT) |
-| The skill scaffolding and any tooling — `SKILL.md`, `scripts/`, manifests | [MIT](LICENSE-CODE) |
+| The checklist, the review criteria, the style guides, the docs | [CC BY 4.0](LICENSE-CONTENT) |
+| The skill scaffolding and any tooling | [MIT](LICENSE-CODE) |
 
 Use it, fork it, adapt it to your firm's house style, use it on client work. The one thing asked in return is credit:
 
 > Based on the Insights Report Checklist by Luke Peterson (2016–2026), https://github.com/lukewp/written-products-review-skill
 
-Third-party material included in this repo is listed in [`NOTICE.md`](NOTICE.md).
+Third-party material bundled here (the DIA Style Manual, public-domain and FOIA-released) is documented in [`NOTICE.md`](NOTICE.md).
 
 ## Source material
 
-The checklist draws from: Allen, Schwartz & VandeHei (*Smart Brevity*); Cook (*Line by Line*); Fogarty (*Grammar Girl*); Orwell (*Politics and the English Language*); Provost (*100 Ways to Improve Your Writing*); Strunk & White (*Elements of Style*); Truss (*Eats, Shoots & Leaves*); Tufte (*Visual Display of Quantitative Information*); AP Stylebook (2024–2026); U.S. Army War College Communicative Arts Directive (2020).
+The checklist draws on: Allen, Schwartz & VandeHei (*Smart Brevity*); Cook (*Line by Line*); Fogarty (*Grammar Girl*); Orwell (*Politics and the English Language*); Provost (*100 Ways to Improve Your Writing*); Strunk & White (*Elements of Style*); Truss (*Eats, Shoots & Leaves*); Tufte (*Visual Display of Quantitative Information*); the AP Stylebook (2024–2026); and the U.S. Army War College Communicative Arts Directive (2020).

@@ -34,11 +34,14 @@ The ordering is deliberate. **The test corpus (M1) comes before any review stage
 
 **Done when:** the skill runs on a fixture through P1 and P2 and **refuses to advance** without a confirmed brief and a highlights list. The gate holds even when the user pushes on it.
 
-- [ ] `SKILL.md` — process skeleton, stage index, gate protocol
-- [ ] P2 (`first-read.md`); P1 (`audience.md`) already written
-- [ ] Session state: current stage, pass/fail history, document version
+- [x] `SKILL.md` — process skeleton, stage index, gate protocol *(written)*
+- [x] P2 (`first-read.md`); P1 (`audience.md`) already written
+- [x] Session state: current stage, pass/fail history, document version *(state block in SKILL.md)*
+- [ ] **Validate:** run a fixture through P1→P2 and confirm the gate holds under pressure. *Structure is built; behavior is unverified.*
 
 Test the gate adversarially. A gate that yields when the user says "just skip it and give me the edits" is not a gate, and that failure mode is what made the GPT merely fine.
+
+> **Build note (v6).** All twelve stage files (through M5's stages 9–10) were authored in one pass from checklist v6, so the *structure* of the later milestones exists too. What remains for M3–M5 is **validation against the corpus**, not authoring. The two "prototype first" items in M4 (read-aloud, fresh-eyes) were resolved by design decision in the stage files — computational readability for read-aloud, blind sub-agent for fresh-eyes — rather than by throwaway prototype; if the corpus run shows either was the wrong call, that's where the prototype gets built.
 
 ## M3 — The core reviews
 

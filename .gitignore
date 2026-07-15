@@ -1,3 +1,12 @@
 .DS_Store
 .scratch/
 node_modules/
+
+# Private training dropbox — real client/analytic documents.
+# NOTHING in here is ever committed. The README documenting the convention is
+# the sole exception. See training/README.md.
+training/*
+!training/README.md
+
+# Private v7 design bedrock — kept local, never published until v7 ships
+docs-private/
