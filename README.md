@@ -35,14 +35,16 @@ Stages 1–3 load a style ruleset chosen in the brief: **General** (Smart Brevit
 
 ## Install
 
-As a Claude Code plugin:
+As a Claude Code plugin. Both lines are needed, in this order — the first registers the marketplace, the second installs from it:
 
 ```
 /plugin marketplace add lukewp/written-products-review-skill
 /plugin install written-products-review@lukewp
 ```
 
-Or copied into a project, so you can adapt the checklist to your house style:
+Restart Claude Code afterward; a running session won't pick up a newly installed plugin.
+
+Or copied into a project, so you can adapt the checklist to your house style. This uses [`skills`](https://github.com/vercel-labs/skills), a third-party CLI from Vercel Labs:
 
 ```
 npx skills@latest add lukewp/written-products-review-skill
