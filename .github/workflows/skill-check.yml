@@ -1,0 +1,19 @@
+name: skill-check
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Self-containment, drift, frontmatter
+        run: python3 scripts/package-skill.py check
+      - name: Official Agent Skills validator
+        run: |
+          pip install "git+https://github.com/agentskills/agentskills.git#subdirectory=skills-ref"
+          for d in skills/*/; do skills-ref validate "$d"; done
+      - name: Build zips
+        run: python3 scripts/package-skill.py build
+      - uses: actions/upload-artifact@v4
+        with: { name: skill-zips, path: dist/*.zip }

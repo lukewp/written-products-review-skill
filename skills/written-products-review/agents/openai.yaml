@@ -1,0 +1,7 @@
+interface:
+  display_name: "Written Products Review"
+  short_description: "Twelve-gate editorial review of briefs, reports, memos and decks, from audience brief to publication."
+  brand_color: "#5A3E2B"
+  default_prompt: "Review this document with the written-products-review process. Start at Step 0."
+policy:
+  allow_implicit_invocation: true

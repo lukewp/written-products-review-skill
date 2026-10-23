@@ -35,7 +35,11 @@ Stages 1–3 load a style ruleset chosen in the brief: **General** (Smart Brevit
 
 ## Install
 
-As a Claude Code plugin. Both lines are needed, in this order — the first registers the marketplace, the second installs from it:
+**On claude.ai or the Claude desktop app, upload the zip.** Download `written-products-review.zip` from the latest [skill-check run's artifacts](https://github.com/lukewp/written-products-review-skill/actions/workflows/skill-check.yml) (or build it: `python3 scripts/package-skill.py build`), then go to Customize → Skills → upload. As of October 2026, skills installed through plugin sync on claude.ai arrive as `SKILL.md` alone, without their `references/` folder, and the skill cannot run its stages (ADR 0002). The skill's Step 0 detects this and says so.
+
+**ChatGPT desktop, Codex, and the OpenAI API** read the same skill format. Copy `skills/written-products-review/` into `~/.codex/skills/`, install it as a plugin (the root `plugin.json` is in the portable format), or upload the zip to the OpenAI Skills API.
+
+**As a Claude Code plugin.** Both lines are needed, in this order — the first registers the marketplace, the second installs from it:
 
 ```
 /plugin marketplace add lukewp/written-products-review-skill
@@ -51,6 +55,16 @@ npx skills@latest add lukewp/written-products-review-skill
 ```
 
 Then invoke it by asking Claude to review a report, brief, memo, or deck — or run it explicitly on a document you want checked before it ships.
+
+## Build
+
+```
+python3 scripts/package-skill.py sync    # after editing insights-report-checklist.md or NOTICE.md
+python3 scripts/package-skill.py check   # what CI runs: frontmatter, self-containment, drift
+python3 scripts/package-skill.py build   # writes dist/written-products-review.zip
+```
+
+The checklist stays canonical at the repo root (ADR 0001). `sync` copies it into the skill folder, because only the skill folder is ever installed. Never edit the copy.
 
 ## Status
 

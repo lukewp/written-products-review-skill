@@ -10,3 +10,4 @@ training/*
 
 # Private v7 design bedrock — kept local, never published until v7 ships
 docs-private/
+dist/
