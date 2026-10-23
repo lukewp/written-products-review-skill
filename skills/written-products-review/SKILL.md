@@ -1,6 +1,11 @@
 ---
 name: written-products-review
 description: Review a written product — an insights report, brief, memo, or presentation — through a multi-stage quality-gate process before it goes to its reader. Use when the user wants a report/brief/memo/deck reviewed, edited, or checked before delivery; when they ask "review this product / is this ready to send / run the checklist on this"; or when they want a rigorous editorial pass on analytic or client-facing writing. Based on the Insights Report Checklist (v6) by Luke Peterson.
+license: CC-BY-4.0 (content) and MIT (code). The bundled DIA Style Manual is public domain; see references/NOTICE.md.
+compatibility: Agent Skills standard. Works in Claude (claude.ai, Claude Code, Cowork) and ChatGPT/Codex. Fresh eyes uses a sub-agent where the harness has one.
+metadata:
+  version: "0.2.0"
+  author: "Luke Peterson"
 ---
 
 # Written Products Review
@@ -9,9 +14,20 @@ A written product passes through **up to twelve stages**, each a **gate**. The d
 
 This file is the **process skeleton**. Each stage's detailed checklist, completion criteria, and output format live in a reference file loaded only when that stage is reached. Do not load a stage's reference file before you get there.
 
+## Step 0: check the install
+
+Before starting, confirm these files exist next to this `SKILL.md`. Paths are relative to this file's folder.
+
+- `references/insights-report-checklist.md`
+- `references/audience.md` and `references/first-read.md`
+- `references/01-analysis.md` through `references/10-publishing.md`
+- `references/style-rules.md`, `references/ap-style-rules.md`, and `references/DIA-style-quick-reference.md`
+
+If any are missing, **stop**. Tell the user: "The written-products-review skill was installed without its reference files, so it can't run its stages. Reinstall it from the packaged zip (`written-products-review.zip`) rather than through plugin sync." Do not review from memory.
+
 ## Source of truth
 
-Every stage is derived from `insights-report-checklist.md` (v6) at the repository root. The checklist is canonical; these reference files execute it. If a rule here conflicts with the checklist, the checklist wins.
+Every stage is derived from the Insights Report Checklist v6, shipped as `references/insights-report-checklist.md`. That file is a synced copy of the canonical checklist at the source repository's root. The checklist is canonical; these reference files execute it. If a rule here conflicts with the checklist, the checklist wins.
 
 ## The gate protocol
 

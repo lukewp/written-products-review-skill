@@ -1,0 +1,7 @@
+{
+  "copies": [
+    {"from": "insights-report-checklist.md", "to": "skills/written-products-review/references/insights-report-checklist.md"},
+    {"from": "NOTICE.md", "to": "skills/written-products-review/references/NOTICE.md"}
+  ],
+  "runtime_names": []
+}

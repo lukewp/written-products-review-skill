@@ -8,7 +8,7 @@ This stage matters more than "scan for errors" suggests. It is the one point in 
 
 ## The sub-agent protocol
 
-Spawn a sub-agent (Agent tool, `general-purpose`) that receives **only two things**:
+Start a sub-agent, using whatever isolated-agent facility the harness provides, that receives **only two things**:
 
 1. The **audience facts from the brief** it needs to judge relevance — reader's role, span, and the decision they face. **Do not** pass the author's name, the client relationship, quality judgments, or any prior review history.
 2. The **current document.**
@@ -19,6 +19,8 @@ Instruct it to return, cold:
 - **Errors:** anything that looks wrong — factual slips, broken logic, typos, claims that don't follow.
 
 It has never seen this document and has no stake in it. That is the entire value.
+
+**No sub-agents available** (some chat surfaces): say so to the author. Then write a cold summary yourself, from the document and the audience facts alone, without consulting the brief, the highlights, or earlier findings. Record in the stage output that fresh eyes ran in the same context, so its independence is weaker.
 
 ## Compare to the highlights
 
